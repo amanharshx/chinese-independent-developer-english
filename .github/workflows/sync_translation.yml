@@ -1,0 +1,45 @@
+name: Weekly Sync English README
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every Sunday
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allows manual trigger from GitHub UI anytime
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Fork Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install deep-translator
+
+      - name: Configure Git User
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch Upstream & Translate Missing Sections
+        run: |
+          python scripts/sync_readme_en.py
+
+      - name: Commit and Push Changes to Fork
+        run: |
+          if [ -n "$(git status --porcelain README.md README-zh.md)" ]; then
+            git add README.md README-zh.md
+            git commit -m "docs: weekly auto-sync english translation with upstream updates"
+            git push origin master
+          else
+            echo "No new updates found. Main README.md is up to date."
+          fi
