@@ -1,6 +1,9 @@
 ## Chinese Independent Developer Projects List
 > 🌐 **[🇬🇧 English README](README.md) | [🇨🇳 中文 README](README-zh.md)**
 
+> [!IMPORTANT]
+> **Notice**: This is the English version of the README maintained on this fork for personal tracking and reference. Upstream updates from the original repository ([1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)) are synced periodically.
+
 Aggregate all projects from Chinese independent developers
 
 ### Sub-boards
