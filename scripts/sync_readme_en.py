@@ -19,6 +19,7 @@ README_EN = "README.md"
 README_ZH = "README-zh.md"
 
 DATE_PATTERN_CN = re.compile(r"^###\s+(\d{4})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*号添加")
+DATE_PATTERN_EN = re.compile(r"^###\s+(?:Added\s+(?:on\s+)?)?([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})")
 
 MONTH_NAMES = [
     "", "January", "February", "March", "April", "May", "June",
@@ -26,7 +27,7 @@ MONTH_NAMES = [
 ]
 
 def fetch_upstream_chinese_readme():
-    """Tries fetching latest upstream README.md via git or curl."""
+    """Fetches latest upstream Chinese README and returns its content."""
     try:
         # Ensure upstream remote exists
         check_remote = subprocess.run(["git", "remote", "get-url", "upstream"], capture_output=True, text=True)
@@ -37,10 +38,8 @@ def fetch_upstream_chinese_readme():
         if res.returncode == 0:
             show_res = subprocess.run(["git", "show", "upstream/master:README.md"], capture_output=True, text=True)
             if show_res.returncode == 0 and len(show_res.stdout) > 1000:
-                with open(README_ZH, "w", encoding="utf-8") as f:
-                    f.write(show_res.stdout)
-                print("Successfully fetched latest upstream README.md into README-zh.md via git!")
-                return
+                print("Successfully fetched latest upstream README.md via git!")
+                return show_res.stdout
     except Exception as e:
         print(f"Git fetch notice: {e}")
 
@@ -52,27 +51,58 @@ def fetch_upstream_chinese_readme():
         with urllib.request.urlopen(req) as resp:
             content = resp.read().decode('utf-8')
             if len(content) > 1000:
-                with open(README_ZH, "w", encoding="utf-8") as f:
-                    f.write(content)
-                print("Successfully fetched latest upstream README.md into README-zh.md via HTTP!")
+                print("Successfully fetched latest upstream README.md via HTTP!")
+                return content
     except Exception as e:
         print(f"HTTP download notice: {e}")
+
+    raise RuntimeError("Unable to fetch upstream README.md")
 
 def format_date_en(year, month, day):
     month_name = MONTH_NAMES[int(month)]
     return f"### Added on {month_name} {int(day)}, {year}"
 
-def parse_date_headers(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-
+def parse_chinese_sections(content):
+    lines = content.splitlines(keepends=True)
     headers = []
     for idx, line in enumerate(lines):
         match = DATE_PATTERN_CN.match(line.strip())
         if match:
             year, month, day = match.groups()
             headers.append((int(year), int(month), int(day), idx))
-    return lines, headers
+    sections = {}
+    for i, (year, month, day, start_idx) in enumerate(headers):
+        end_idx = headers[i + 1][3] if i + 1 < len(headers) else len(lines)
+        sections[(year, month, day)] = lines[start_idx:end_idx]
+    return sections
+
+def sections_needing_translation(previous_content, current_content):
+    previous_sections = parse_chinese_sections(previous_content)
+    current_sections = parse_chinese_sections(current_content)
+    return [key for key, section in current_sections.items()
+            if previous_sections.get(key) != section]
+
+def english_section_ranges(content):
+    lines = content.splitlines(keepends=True)
+    headers = []
+    for index, line in enumerate(lines):
+        match = DATE_PATTERN_EN.match(line.strip())
+        if match and match.group(1) in MONTH_NAMES:
+            month = MONTH_NAMES.index(match.group(1))
+            headers.append(((int(match.group(3)), month, int(match.group(2))), index))
+
+    ranges = {}
+    for i, (key, start_idx) in enumerate(headers):
+        end_idx = headers[i + 1][1] if i + 1 < len(headers) else len(lines)
+        ranges[key] = (start_idx, end_idx)
+    return lines, ranges
+
+def replace_english_sections(content, replacements):
+    lines, ranges = english_section_ranges(content)
+    for key, (start_idx, end_idx) in sorted(ranges.items(), reverse=True):
+        if key in replacements:
+            lines[start_idx:end_idx] = [replacements[key]]
+    return "".join(lines)
 
 def translate_line(translator, line):
     stripped = line.strip()
@@ -92,43 +122,50 @@ def translate_block(translator, block_lines):
     return translated
 
 def sync():
-    # 1. Fetch latest Chinese version from upstream into README-zh.md
-    fetch_upstream_chinese_readme()
-
-    if not os.path.exists(README_ZH) or not os.path.exists(README_EN):
+    if not os.path.exists(README_EN):
         print("Error: README-zh.md or README.md missing.")
         return
 
-    zh_lines, zh_headers = parse_date_headers(README_ZH)
+    previous_zh_content = ""
+    if os.path.exists(README_ZH):
+        with open(README_ZH, "r", encoding="utf-8") as f:
+            previous_zh_content = f.read()
+
+    current_zh_content = fetch_upstream_chinese_readme()
+    with open(README_ZH, "w", encoding="utf-8") as f:
+        f.write(current_zh_content)
+
+    zh_sections = parse_chinese_sections(current_zh_content)
+    changed_sections = sections_needing_translation(previous_zh_content, current_zh_content)
 
     with open(README_EN, "r", encoding="utf-8") as f:
         en_content = f.read()
 
-    # Extract all existing dates from English README.md
-    en_dates_found = set()
-    en_date_matches = re.findall(r"^###\s+(?:Added\s+(?:on\s+)?)?([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})", en_content, re.MULTILINE)
-    for month_str, day_str, year_str in en_date_matches:
-        if month_str in MONTH_NAMES:
-            month_num = MONTH_NAMES.index(month_str)
-            en_dates_found.add((int(year_str), month_num, int(day_str)))
-
-    missing_sections = []
-    translator = GoogleTranslator(source="auto", target="en")
-
-    for i, (year, month, day, start_idx) in enumerate(zh_headers):
-        if (year, month, day) not in en_dates_found:
-            end_idx = zh_headers[i + 1][3] if i + 1 < len(zh_headers) else len(zh_lines)
-            section_lines = zh_lines[start_idx:end_idx]
-            
-            en_header = format_date_en(year, month, day)
-            section_lines[0] = f"{en_header}\n"
-            
-            print(f"Found missing upstream section: Added on {MONTH_NAMES[month]} {day}, {year} ({len(section_lines)} lines)")
-            translated_section = translate_block(translator, section_lines)
-            missing_sections.append("".join(translated_section))
-
-    if not missing_sections:
+    _, en_ranges = english_section_ranges(en_content)
+    if not changed_sections:
         print("Main English README.md is already 100% in sync with upstream!")
+        return
+
+    translator = GoogleTranslator(source="auto", target="en")
+    replacements = {}
+    new_sections = []
+    for key in changed_sections:
+        year, month, day = key
+        section_lines = list(zh_sections[key])
+        section_lines[0] = f"{format_date_en(year, month, day)}\n"
+        translated_section = "".join(translate_block(translator, section_lines))
+        print(f"Translating changed upstream section: Added on {MONTH_NAMES[month]} {day}, {year}")
+        if key in en_ranges:
+            replacements[key] = translated_section
+        else:
+            new_sections.append(translated_section)
+
+    en_content = replace_english_sections(en_content, replacements)
+
+    if not new_sections:
+        with open(README_EN, "w", encoding="utf-8") as f:
+            f.write(en_content)
+        print(f"Successfully updated {len(replacements)} changed section(s) in English README.md!")
         return
 
     en_lines = en_content.splitlines(keepends=True)
@@ -141,10 +178,10 @@ def sync():
             break
 
     if insert_idx != -1:
-        new_en_lines = en_lines[:insert_idx] + ["\n".join(missing_sections) + "\n"] + en_lines[insert_idx:]
+        new_en_lines = en_lines[:insert_idx] + ["\n".join(new_sections) + "\n"] + en_lines[insert_idx:]
         with open(README_EN, "w", encoding="utf-8") as f:
             f.writelines(new_en_lines)
-        print(f"Successfully synced {len(missing_sections)} missing section(s) into English README.md!")
+        print(f"Successfully synced {len(changed_sections)} changed section(s) into English README.md!")
     else:
         print("Warning: Could not find '## 3. Project List' section header in README.md.")
 
