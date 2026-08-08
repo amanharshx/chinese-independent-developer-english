@@ -29,6 +29,210 @@ So we specially created this repository. All developers are welcome to add your 
 
 ## 3. Project List
 
+### Added on August 8, 2026
+
+#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+
+#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+
+#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+* :white_check_mark: [LiveFaceSwap AI](https://livefaceswap.ai/zh): Online real-time AI face-swapping tool, you can experience face-swapping, dress-up and style redrawing in the browser; Windows 11 desktop version can access live broadcast, conference and video call software through virtual camera
+
+#### ShanLeiGuang(河北) - [Github](https://github.com/shanleiguang)
+* :white_check_mark: [vPlayer HiFi App](https://apps.apple.com/cn/app/vplayer-hifi/id6783141736): HiFi lossless music player, supports MP3, AIFF, WAV, FLAC, DSD (DFF/DSF) and other audio formats, supports SACD-R ISO parsing and Track extraction, Samba access, memory loading and playback, SRC/FIR Multiple resampling algorithms, support AirPlay, Bluetooth, external DAC output - [Source Code](https://github.com/shanleiguang/vPlayer)
+
+
+### Added on August 7, 2026
+
+#### xiaoxiao - [Github](https://github.com/863683348)
+* :white_check_mark: [PublicHoliday](https://public-holidays.shop): Query 150+ national statutory holidays and holidays, 11 languages ​​support switching by year and one-click export calendar subscription (.ics)
+
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [AI Price Comparison](https://www.china-ai-arbitrage.xyz): The entire network's AI information aggregation and price comparison site - the real Token quota and speed limit of domestic official packages (GLM / Kimi / Tongyi / Doubao, etc.), each API unit price, free Token activities, low-price API transfer and overseas account market are compared horizontally in one table, and the most cost-effective plan is selected based on "available amount per dollar"
+
+#### Bu Kong Team - [Github](https://github.com/Hanshihao111)
+* :white_check_mark: [Not empty: Fishing weather and fish condition records](https://bhtq.cn): A tool for fishing weather and fish species classification for wild fishing users. The web page allows you to check the current scores, trends and better times of ten target fishes in the next 24 hours without logging in; the iPhone App also provides fish conditions, private fishing spots and fish catch records for the next 7 days - [App Store](https://apps.apple.com/cn/app/id6791599314)
+
+
+### Added on August 6, 2026
+
+#### AKAama(Nanjing) - [Github](https://github.com/AKAama), [Personal Homepage](https://ismyh.cn/)
+* :white_check_mark: [fishing calendar](https://calendar.ismyh.cn/): A daily fishing calendar for migrant workers, showing the number of days until Friday, rest day and next holiday, as well as the progress of this week, month and this year; there is also a countdown to get off work on Friday, fishing bingo and lunch gashapon machine
+* :white_check_mark: [Evenly](https://app.ismyh.cn/): A shared accounting app for couples, roommates and multi-person travel, supporting member confirmation, automatic splitting and settlement suggestions, reducing hand calculations and repeated communication in joint consumption - [App Store](https://apps.apple.com/cn/app/evenly/id6784235151)
+* :white_check_mark: [Breakup Calm Room](https://calm.ismyh.cn/): AI emotional sorting tool in relationship conflicts. It analyzes the emotional intensity before sending impulsive messages. It helps users clarify their true intentions through three reflection questions before deciding whether to send them.
+
+#### Miracle(Hangzhou) - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [PixelListing](https://pixellisting.com/): An AI product image generation tool for e-commerce sellers, helping sellers to quickly create product images that are more suitable for listing and marketing without the need for a studio, designer, or Photoshop process.
+
+#### MuYi(Wuhan) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Shotyard](https://shotyard.ai/): AI picture and video generation/editing platform, one-stop use of mainstream AI models, can output multiple pictures or videos at one time, and is friendly to secondary operations of generated results
+
+#### MeetMiaoji (Beijing) - [Github](https://github.com/MeetMiaoji)
+* :white_check_mark: [Meet Miaoji](https://www.mionote.com.cn/): A portable AI voice assistant that records meetings, inspirations, and to-dos, and records your every day; focuses on voice recording in work/life/study/chat/inspiration scenarios, supports real-time voice transcription, speaker distinction, and AI intelligent summary generation with one click. Historical meetings can be reviewed by topic. Four-terminal coverage is available for iOS, Android, Mac, and Windows. The maximum single recording is 4 Hours, built-in 19 industry minutes templates
+
+#### FlowPick - [Github](https://github.com/ezwebtools/flowpick)
+* :white_check_mark: [FlowPick](https://flowpick.net): Automatically detect and download media resources such as videos, audios and pictures in web pages - free and open source browser extension
+
+
+### Added on August 5, 2026
+
+#### PigFetch Team - [Github](https://github.com/my-name-7)
+* :white_check_mark: [VidLux AI](https://vidlux.ai/): AI video generation and editing platform, supporting Wensheng video, Tusheng video, reference student video and video editing
+
+#### Mosquito - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [VidLux AI](https://vidlux.ai/): AI video generation and editing platform, supporting Wensheng video, Tusheng video, reference student video and video editing
+
+
+### Added on August 4, 2026
+
+#### gf1023456 - [Github](https://github.com/gf1023456)
+#### Eric(Shanghai) - [Github](https://github.com/EricChenBuilds)
+
+#### Eric(Shanghai) - [Github](https://github.com/EricChenBuilds)
+* :white_check_mark: [Gesture Synth](https://gesturesynth.art/): Capture gestures through a computer camera, convert the movements of your hands into music, and play with just your hands and camera
+
+#### Good mood for business - [Github](https://github.com/masterliangpeng)
+* :white_check_mark: [CPS Test](https://cpstest.me/zh/): A mouse click speed test website that integrates concentration training, space bar connecting dots training and reaction speed testing. You can select test items by opening the web page.
+
+
+### Added on August 3, 2026
+
+#### zhoujungis - [Github](https://github.com/zhoujungis)
+#### lululu811(Urumqi) - [Github](https://github.com/lululu811/zettaranc-skill)
+
+#### lululu811(Urumqi) - [Github](https://github.com/lululu811/zettaranc-skill)
+* :white_check_mark: [Zettaranc Knowledge Base](https://zknowledge.site/): An A-share trading knowledge map constructed by organizing thousands of (Brother Z) live broadcasts, courses and community content, including trading strategies, buying and selling signals, capital positions and other trading concepts - [More Introduction](https://github.com/lululu811/zettaranc-skill/blob/main/README.md)
+
+#### WindowSSnake(北京) - [Github](https://github.com/WindowSSnake)
+* :white_check_mark: [Snake PC Info](https://github.com/WindowSSnake/Snake-PC-Info): Open source Windows hardware detection tool, supports battery health detection and system log analysis, switches between Chinese and English, and comes with its own environment
+
+
+### Added on August 1, 2026
+
+#### JerroldLee - [Github](https://github.com/JerroldLee)
+#### Radish - [Github](https://github.com/HuSao)
+
+#### hanshs474 - [Github](https://github.com/hanshs474)
+* :white_check_mark: [kavel](https://kavel.ai): AI picture and video generation tool, supports pictures and videos of a variety of interesting scenes — free
+
+#### Radish - [Github](https://github.com/HuSao)
+* :white_check_mark: [Reaction Test](https://picktests.com/zh/): Focus on tests of reaction speed, memory and concentration, providing reaction time, aim training, sequence memory, number memory, multi-target tracking and Stroop tests - free
+
+#### Yana Li - [Github](https://github.com/woshiliyana)
+* :white_check_mark: [BaZi Calculator](https://bazicalculators.com/): A free horoscope tool. Enter the date of birth, time and city to view the four pillars, day master, five elements, ten gods and fortune; no registration is required, and the three-pillar horoscope is provided when the birth time is unknown, and there is no need to guess the time pillar.
+
+#### Chris - [Github](https://github.com/stomeonst)
+* :white_check_mark: [CJK SaaS Localization QA Pack](https://stomeonst.github.io/cjk-saas-localization-qa-pack-preview/): Sino-Japanese SaaS localization quality inspection template package, providing glossary, interface checklist, defect record and release acceptance list in simplified Chinese and Japanese. Samples can be viewed online and editable files can be purchased - [View warehouse](https://github.com/stomeonst/cjk-saas-localization-qa-pack-preview)
+
+#### Monit Team (Yunnan Dehong) - [Github](https://github.com/virskor)
+* :white_check_mark: [Monitrun](https://monit.run/): Monitor the website SSL certificate status and push iOS reminders in real time through distributed nodes — iOS App
+
+#### adam-doco - [Github](https://github.com/adam-doco)
+* :white_check_mark: [InkVoice](https://inkvoice.xyz): Convert novels to audiobooks, automatically identify characters and match different timbres for each character, synthesize the entire audiobook section by section, and clone your own voice, support free trial
+
+
+### Added on July 31, 2026
+
+#### CoderLim (Beijing) - [Github](https://github.com/CoderLim)
+* :white_check_mark: [Krea2 Edit](https://krea2edit.app/): AI image editing in the browser, retaining facial features of people
+
+#### Gang Qu - [GitHub](https://github.com/stomeonst)
+* :white_check_mark: [LaunchClear](https://chris-saas-services.stomeonst123.chatgpt.site/zh): Release acceptance and data quality inspection service station for small teams, providing AI workflow acceptance, Chinese, English and Japanese output and localization quality inspection, Excel and inventory data reliability sprint, public fixed scope, price and deliverables
+
+
+### Added on July 30, 2026
+
+#### Alive - [GitHub](https://github.com/Bliveren)
+* :white_check_mark: [SummaGraph](https://www.summagraph.com/): AI infographic generation tool, paste any form of text to generate high-quality infographics with one click, built-in 20 visual styles
+
+#### Aaron - [GitHub](https://github.com/AAAAaron)
+* :white_check_mark: [Children's picture book](https://xingye.site): AI customized parent-child picture book platform, which generates age-appropriate scripts, unified character illustrations, dubbing, interactive reading, PDF and video from family stories; you can read completed works, and the exclusive generation adopts an invitation system - [More introduction](https://github.com/AAAAaron/tongban-picture-book)
+
+#### apoet - [GitHub](https://github.com/apoet)
+* :white_check_mark: [Agent4API](https://agent4api.ecrfs.com/admin): Import Swagger 2.0 or OpenAPI 3.x documents, understand interface business capabilities and generate Tools, Skills and Agents with one click; provide external services through MCP, OpenAI/Anthropic compatible API, built-in Chat and embedded Chat, and support Docker Compose self-hosted deployment - [Source code](https://github.com/apoet/Agent4API)
+
+#### K
+* :white_check_mark: [GoBoardcast](https://goboardcast.com): AI whiteboard explanation video tool, generate an editable whiteboard on any topic, and record the camera, microphone, and cursor explanation and export it to MP4
+
+#### howardz27 - [Github](https://github.com/howardz27)
+* :white_check_mark: [SummaGraph](https://www.summagraph.com/): AI infographic generation tool, paste any form of text to generate high-quality infographics with one click, built-in 20 visual styles
+
+#### zhoujungis - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [HALO Music Plaza](https://halo-music.pages.dev/): Multi-platform music search and playback, supports collection and self-created playlists, adapts to desktop and mobile terminals - free
+
+#### Alice - [Github](https://github.com/zengqingqing-cyber)
+* :white_check_mark: [Ziweixuanjian](https://ziweixuanjian.com): Ziwei Dou Shu ranking tool supports Ziwei ranking, combined disk, and large-scale fortune analysis. It can be used immediately without registration - free
+
+#### iAmCorey - [Github](https://github.com/iAmCorey)
+* :white_check_mark: [Birth](https://github.com/iAmCorey/birth): Manage Mac startup items, display the developer signature identity of each self-start item, camouflage system items marked in red, support one-click start, stop and safe deletion - free open source macOS App
+
+#### jankarong
+* :white_check_mark: [Create PDF from Sheet](https://createpdffromsheet.com/): Convert Excel to PDF, you can preview pagination and merge multiple workbooks in the browser, the file does not upload to the database, no registration is required, and there is no watermark
+
+#### Hipepper - [Github](https://github.com/Hipepper)
+* :white_check_mark: [EgressGuard](https://github.com/Hipepper/EgressGuard): Continuously monitor the Mac export IP and country/region, and automatically close applications such as ChatGPT and Claude once they do not meet the trust rules to avoid account bans - [Download](https://github.com/Hipepper/EgressGuard/releases/tag/v1.0.0)
+
+#### Zhang Wenlu - [GitHub](https://github.com/Python-IDE), [Official website](https://pythonide.xin/)
+* :white_check_mark: [PythonIDE](https://apps.apple.com/app/id6753987304): The native Python 3.14.6 development workbench for iPhone and iPad, which can run scientific computing and Notebook locally, and use AI Agent to modify, run and verify projects; it can also use Python to build MiniApp native interface, widget and automation, with built-in SSH, Git and iOS system capabilities - [More introduction](https://github.com/Python-IDE/PythonIDE-iOS)
+
+#### AaronConlon - [Github](https://github.com/AaronConlon)
+* :white_check_mark: [Codia](https://codia.i5lin.top/): Generate beautiful code images for documents, blogs, social sharing and automation scenarios, providing playground and rendering API
+
+
+### Added on July 29, 2026
+
+#### TopFrank - [GitHub](https://github.com/PHPfrank)
+* :white_check_mark: [WebVideoHarbor](https://phpfrank.github.io/web-video-harbor/): A free and open source web media storage tool for macOS, which recognizes MP4, WebM and non-encrypted HLS/M3U8 through Chrome extension, and downloads it by the local assistant - [source code](https://github.com/PHPfrank/web-video-harbor)
+
+
+### Added on July 28, 2026
+
+#### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
+* :white_check_mark: [风ounce Fēn Cùn](https://github.com/MrBaoboer/FenCun): A lightweight and elegant "Perfume Decision" applet, based on real-time weather and attendance occasions, it tells you which bottle of perfume is best for you to spray today, and how to use it appropriately - [More introduction](https://github.com/MrBaoboer/FenCun)
+
+#### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
+* :white_check_mark: [风ounce Fēn Cùn](https://github.com/MrBaoboer/FenCun): A lightweight and elegant "Perfume Decision" applet, based on real-time weather and attendance occasions, it tells you which bottle of perfume is best for you to spray today, and how to use it appropriately - [More introduction](https://github.com/MrBaoboer/FenCun)
+* :white_check_mark: [风ounce Fēn Cùn](https://github.com/MrBaoboer/FenCun): A lightweight and elegant "Perfume Decision" applet, based on real-time weather and attendance occasions, it tells you which bottle of perfume is best for you to spray today, and how to use it appropriately - [More introduction](https://github.com/MrBaoboer/FenCun)
+
+#### pluone(Beijing) - [Github](https://github.com/pluone)
+* :white_check_mark: [Indie Star Selection](https://indie-star.pages.dev/): Screen high-quality independent developer projects from the user likes and comments data in the comment area of ​​this warehouse - [More Introduction](https://github.com/pluone/indie_star)
+
+#### surfacex-dev - [Github](https://github.com/surfacex-dev)
+* :white_check_mark: [OptPulse](https://optpulse.org): F-1 international student OPT / STEM OPT time tracking and EAD approval prediction tool, supports Premium Processing time calculation and key date reminder, free and no registration required
+
+
+### Added on July 27, 2026
+
+#### JAY - [Github](https://github.com/yoga666996)
+#### leungwensen (Chengdu) - [GitHub](https://github.com/leungwensen), [Blog](https://leungwensen.com)
+
+#### leungwensen (Chengdu) - [GitHub](https://github.com/leungwensen), [Blog](https://leungwensen.com)
+* :white_check_mark: [OpenFiles](https://openfiles.pansysoft.app/): AI native desktop file manager, which can open and edit 350+ file formats in one application, covering pictures, documents, code, audio and video, compressed packages, Markdown, Jupyter Notebook, SQLite database and DWG/DXF CAD drawings; file viewing and editing are completed locally by default, supporting macOS and Windows - [More introduction](https://leungwensen.com/blog/the-desktop-evolution-of-openfiles)
+
+#### tover wu - [Github](https://github.com/tover0314-w)
+* :white_check_mark: [OpenTypeless](https://www.opentypeless.com): Voice input, transcription and AI polishing, evoked by shortcut keys in any application; supports BYOK, local dictionaries and multiple voice/large model service providers - cross-platform, MIT open source - [More introduction](https://github.com/tover0314-w/opentypeless)
+
+#### suio03(Chengdu) - [Github](https://github.com/suio03)
+* :white_check_mark: [Scribix](https://scribix.io/): Upload audio and video or paste YouTube link, generate editable text with speaker mark and timestamp, and export subtitles and documents
+
+#### zerx-lab - [Github](https://github.com/zerx-lab)
+* :white_check_mark: [FluxDown](https://fluxdown.zerx.dev): Multi-protocol download manager, a task queue accepts HTTP/FTP, BT magnet, eD2K, HLS and DASH at the same time, IDM-style dynamic segmentation (continues to divide the remaining intervals during the download, slow nodes do not delay the end), automatically takes over browser downloads after installing extensions, free and open source for all Win/macOS/Linux/Android platforms
+
+
+### Added on July 26, 2026
+
+#### Maynor996 - [Github](https://github.com/Maynor996)
+#### zhengmingpei(济南) - [Bilibili](https://space.bilibili.com/32918983)
+
+#### zhengmingpei(济南) - [Bilibili](https://space.bilibili.com/32918983)
+* :white_check_mark: [FileTags](https://zhengmingpei.github.io/FileTags/): Desktop software for file tag classification retrieval and management, cross-platform (Windows, Linux) - [More introduction](https://www.bilibili.com/video/BV1EMjH6NEtE/)
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [CelebrateYou](https://celebrateyou.app/)：AI music generator
+
+
 ### Added on March 14, 2026
 #### maowei8888 - [Github](https://github.com/maowei8888)
 * :white_check_mark: [BookletAI](https://bookletai.org/): A booklet AI tool for ordinary users that can automatically research, write and generate well-formatted booklet pages.

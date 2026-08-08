@@ -28,10 +28,14 @@ MONTH_NAMES = [
 def fetch_upstream_chinese_readme():
     """Tries fetching latest upstream README.md via git or curl."""
     try:
-        # Check if upstream remote exists and fetch
-        res = subprocess.run(["git", "fetch", "upstream"], capture_output=True, text=True)
+        # Ensure upstream remote exists
+        check_remote = subprocess.run(["git", "remote", "get-url", "upstream"], capture_output=True, text=True)
+        if check_remote.returncode != 0:
+            subprocess.run(["git", "remote", "add", "upstream", "https://github.com/1c7/chinese-independent-developer.git"], capture_output=True, text=True)
+
+        res = subprocess.run(["git", "fetch", "upstream", "master"], capture_output=True, text=True)
         if res.returncode == 0:
-            show_res = subprocess.run(["git", "show", "upstream/main:README.md"], capture_output=True, text=True)
+            show_res = subprocess.run(["git", "show", "upstream/master:README.md"], capture_output=True, text=True)
             if show_res.returncode == 0 and len(show_res.stdout) > 1000:
                 with open(README_ZH, "w", encoding="utf-8") as f:
                     f.write(show_res.stdout)
@@ -43,7 +47,7 @@ def fetch_upstream_chinese_readme():
     # Fallback to direct raw GitHub download if git fetch not possible
     try:
         import urllib.request
-        url = "https://raw.githubusercontent.com/1c7/chinese-independent-developer/main/README.md"
+        url = "https://raw.githubusercontent.com/1c7/chinese-independent-developer/master/README.md"
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         with urllib.request.urlopen(req) as resp:
             content = resp.read().decode('utf-8')
@@ -83,7 +87,7 @@ def translate_line(translator, line):
         return line
 
 def translate_block(translator, block_lines):
-    with ThreadPoolExecutor(max_workers=15) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         translated = list(executor.map(lambda l: translate_line(translator, l), block_lines))
     return translated
 
