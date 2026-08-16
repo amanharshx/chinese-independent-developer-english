@@ -24,6 +24,86 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 16 号添加
+
+#### Moresyl - [Github](https://github.com/Moresyl)
+* :white_check_mark: [MetaClean](https://github.com/Moresyl/metaclean)：跨平台本地文件元数据清理工具，支持图片、PDF、Office 和文本文件批量处理，文件不上传云端 - [项目与下载](https://github.com/Moresyl/metaclean/releases/latest)
+
+### 2026 年 8 月 15 号添加
+
+#### kugua233 - [Github](https://github.com/kugua233)
+* :white_check_mark: [AiMovieFinder](https://www.aimoviefinder.net)：通过剧情、场景、台词、截图、片段帧、演员或导演线索识别电影，并给出匹配结果
+* :white_check_mark: [SeatingChartGenerator](https://www.seatingchartgenerator.app)：免费在线座位表生成器，支持拖拽安排婚礼、派对、教室和活动宾客，完成后可导出 PNG 或 PDF
+#### linuxscreen - [Github](https://github.com/linuxscreen)
+* :white_check_mark: [Duo Translator](https://duotranslator.com/)：AI翻译和写作助手（浏览器插件），支持网页双语翻译、划词翻译、写作增强、YouTube双语字幕等功能 - [项目与下载](https://github.com/linuxscreen/duo-translator)
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [DSH Meme Hub](https://dsh-meme-hub.cdqyfdbymn.me/)：DeepSeek Harness 社区插件导航站，收录 87 个插件、13 个分类，每日更新 star 排行榜，整活插件单独放进 Meme Zone，中英双语，开放投稿 - [GitHub 项目](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub)
+
+### 2026 年 8 月 14 号添加
+
+#### ggb(深圳) - [Github](https://github.com/jiangyifeng96)
+* :white_check_mark: [Background Remover Video](https://backgroundremover.video/)：AI 视频背景移除工具，无需绿幕即可自动分离主体，导出透明 WebM 或纯色背景 MP4，并保留原始音频
+
+#### Eason-87 - [Github](https://github.com/Eason-87)
+* :white_check_mark: [Morse Code Translator](https://morsecodeinterpreters.com)：文本与摩尔斯电码双向转换工具，支持实时高亮、速度调节、手机振动和一键导出音频
+
+#### RSSH - [Github](https://github.com/shihuili1218/rssh)
+* :white_check_mark: [RSSH](https://rssh.ofcoder.com)：新一代的SSH客户端，命令块(定义命令输入输出)、AI分析(零服务器cli)、多平台数据同步(零服务器)、Cli-First(提供cli工具，在任意终端使用rssh数据)、动态发现(docker/k8s发现) - [项目与下载](https://github.com/shihuili1218/rssh/releases)
+
+### 2026 年 8 月 13 号添加
+
+#### TREAFREE - [Github](https://github.com/TREAFREE)
+* :white_check_mark: [File Island](https://treafree.top/FileIsland/)：原生 macOS 本地媒体转换工具，驻留在 MacBook 刘海区域，支持图片、视频、音频与混合文件夹批量转换，结果可直接拖入访达或聊天应用，文件不上传云端 - [项目与下载](https://github.com/TREAFREE/FileIsland)
+
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+* :white_check_mark: [Pixonara](https://pixonara.com)：AI 图片、视频与提示词工作台，集中浏览 GPT Image、Nano Banana、Midjourney、Seedance 等模型的免费提示词，并结合文字或参考图片制作商品视觉、营销素材和短视频
+
+#### YuuFish(广州) - [Github](https://github.com/YuuFish)
+* :white_check_mark: [Gamepad Tester Pro](https://gamepadtesterpro.org/)：手柄检测与故障排查工具，连接 USB 或蓝牙控制器即可测试按键、摇杆漂移、扳机、死区、轮询率、输入响应和震动
+* :white_check_mark: [Scroll Wheel Test](https://scrollwheeltest.org/)：鼠标滚轮测试工具，可检测上下滚动、滚动方向、响应情况和滚轮输入表现
+* :white_check_mark: [Online Protractor](https://protractoronline.org/)：角度测量工具，可通过屏幕量角器、图片上传和相机辅助测量角度，适合几何学习、物体角度检查和图片角度分析
+
+#### ClauBloom(北京) - [Github](https://github.com/ClauBloom)
+* :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web)：开源 Chrome 浏览器插件，自动扫描评论区（目前已适配 Bilibili），调用大语言模型将带有攻击性、阴阳怪气或负面情绪的评论实时重写为和谐、友善且理性的表达 - [更多介绍](https://www.bilibili.com/video/BV17ugj6qEx2)
+
+#### 王冲 - [Github](https://github.com/androidwangchong)
+* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步——Deep Work 房每天一场固定时间（北京 21:00），其余房间的 25/5 循环全天在跑，进去就能接上；不注册也能直接拆任务、直接进房坐下；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费每月 3 次拆解 + 公共专注房，Pro 10 美元/月，年付 80 美元
+
+### 2026 年 8 月 12 号添加
+
+#### Jett Fu(深圳) - [Github](https://github.com/jianjettfu-oss)
+* :white_check_mark: [Global Solo](https://www.globalsolo.global/?utm_source=cnindie&utm_medium=github)：面向非美国居民创业者的美国 LLC 服务对比站，横向比较 43+ 家注册、银行、税务与合规服务商，提供 24 个「国家 × 维度」组合攻略、风险自查、合规日历和成本计算器；界面为英文
+
+### 2026 年 8 月 11 号添加
+
+#### dayphosphor(北京) - [Github](https://github.com/dayphosphor)
+* :white_check_mark: [Fate Mirror](https://fate-mirror.com)：AI 塔罗占卜与自我探索工具，通过抽牌、AI 个性化解读、引导式问题和私人日记，探索爱情、事业、人际关系与重要选择，相比一次性出结果的传统塔罗网站更注重持续反思与记录
+
+#### Albert - [Github](https://github.com/AlbertAZ1992)
+* :white_check_mark: [EveryCityMap](https://everycitymap.com)：在线风格化城市地图设计工具，覆盖全球 500+ 座城市，可切换多种主题，自定义图层、道路、水域、标签与配色，并导出多种尺寸的高清地图
+
+### 2026 年 8 月 10 号添加
+
+#### 花间魂梦 - [Github](https://github.com/hzy7003-bit)
+* :white_check_mark: [隐私中转站 Android](https://github.com/hzy7003-bit/PrivacyHub-Android-Preview)：本地离线的 Android 隐私分享中转工具，关闭购物和内容 App 的剪贴板读取权限后，仍可通过通知栏或系统分享保存、识别并打开链接与口令 — 无网络权限、无广告、无统计 SDK
+
+#### 想法开工(深圳)
+* :white_check_mark: [豆包超级助手](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag)：对话文件夹、长对话导航、标记注释、提示词模板与多步队列、100+ 模板与划词快捷进入、本机读写文件 — 豆包对话增强 Chrome 插件 - [更多介绍](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag/)
+
+#### ylv01(深圳) - [Github](https://github.com/ylv01)
+* :white_check_mark: [摸鱼助手](https://github.com/ylv01/WindowDockTool-Windows-Window-Docking-Picture-in-Picture-Helper)：把你想看的视频或小说嵌入工作软件摸鱼的小程序，可快速调整浏览器和桌面窗口的位置、尺寸、置顶与透明度，并自动识别浏览器画中画窗口停靠到屏幕指定位置
+
+### 2026 年 8 月 9 号添加
+
+#### nekocode(广州) - [Github](https://github.com/nekocode)
+* :white_check_mark: [SeqLog](https://seqlog.com)：macOS 原生大纲笔记，每条笔记就是磁盘上的一个 Markdown 文件，没有数据库也没有专有格式，ripgrep 和 git 读到的和你看到的是同一份字节；内置 Git 可展开逐行 diff、按单个文件回滚，也能直接打开已有的 Logseq 仓库。界面为英文
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [FeedbackHi](https://feedbackhi.com)：可嵌入任意网站的用户反馈工具，两行代码即可收集功能建议、Bug 报告和投票，并提供公开反馈看板、状态管理与官方回复
+
+#### gna1280072(福建) - [Github](https://github.com/gna1280072)
+* :white_check_mark: [LeePanel](http://www.leepanel.com)：开源桌面端 Linux 服务器管理面板，所有操作通过本地 SSH 完成，服务器端零安装零残留，从根本上消除传统网页面板的安全风险 - [源码](https://github.com/gna1280072/LeePanel)
+
 ### 2026 年 8 月 8 号添加
 
 #### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
@@ -46,9 +126,6 @@
 #### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
 * :white_check_mark: [AI 比价](https://www.china-ai-arbitrage.xyz)：全网 AI 信息聚合比价站——国产官方套餐（GLM / Kimi / 通义 / 豆包等）的真实 Token 额度与限速、各家 API 单价、免费 Token 活动、低价 API 中转与海外账号行情一张表横向比，按「每元可用量」选出最划算方案
 
-#### 不空团队 - [Github](https://github.com/Hanshihao111)
-* :white_check_mark: [不空：钓鱼天气与鱼情记录](https://bhtq.cn)：面向野钓用户的钓鱼天气与分鱼种鱼情工具，网页免登录查询十种目标鱼的当前评分、未来 24 小时趋势和较好时段；iPhone App 另提供未来 7 日鱼情、私有钓点和鱼获记录 - [App Store](https://apps.apple.com/cn/app/id6791599314)
-
 ### 2026 年 8 月 6 号添加
 
 #### AKAama(南京) - [Github](https://github.com/AKAama), [个人主页](https://ismyh.cn/)
@@ -63,7 +140,7 @@
 * :white_check_mark: [Shotyard](https://shotyard.ai/)：AI 图片与视频生成/编辑平台，一站式使用主流 AI 模型，可一次输出多个图片或视频，对生成结果的二次操作友好
 
 #### 妙小记(北京) - [Github](https://github.com/MeetMiaoji)
-* :white_check_mark: [Meet妙记](https://www.mionote.com.cn/)：可随身携带的 AI 语音助手，记会议、记灵感、记待办，记录你的每一天；专注工作/生活/学习/闲谈/灵感等场景的语音记录，支持实时语音转写、说话人区分、AI 智能摘要一键生成，历史会议可按主题回看，iOS、Android、Mac、Windows 四端覆盖，单次录音最长 4 小时，内置 19 种行业纪要模板
+* :white_check_mark: [Meet妙记](https://www.mionote.com.cn/?utm_source=cnindie&utm_medium=github&utm_campaign=2026q3)：可随身携带的 AI 语音助手，记会议、记灵感、记待办，记录你的每一天；专注工作/生活/学习/闲谈/灵感等场景的语音记录，支持实时语音转写、说话人区分、AI 智能摘要一键生成，历史会议可按主题回看，iOS、Android、Mac、Windows 四端覆盖，单次录音最长 4 小时，内置 19 种行业纪要模板
 
 #### FlowPick - [Github](https://github.com/ezwebtools/flowpick)
 * :white_check_mark: [FlowPick](https://flowpick.net)：自动检测并下载网页中的视频、音频和图片等媒体资源 — 免费开源浏览器扩展
@@ -568,7 +645,7 @@
 * :white_check_mark: [Text Tray](https://github.com/Jingyuan-Zheng/TextTray)：原生 macOS 临时文本托盘，无需打开完整文本编辑器即可快速查看、编辑、清理、统计、翻译、复制和保存临时文本，并可修复从 PDF 复制产生的断行 - [更多介绍](https://github.com/Jingyuan-Zheng/TextTray)
 
 #### Tristan Tang - [Github](https://github.com/tristan666666)
-* :white_check_mark: [Agent Island](https://agent-island.dev/)：Claude Code 与 Codex 的开源状态伴侣，在 macOS 和 Windows 上显示实时会话状态，并在需要你接手时提醒；本地监控，无需账号 - [查看仓库](https://github.com/tristan666666/agent-island)
+* :white_check_mark: [Agent Island](https://agent-island.dev/)：免费、MIT 开源的原生 AI 编程伴侣，统一支持 Claude Code、Codex、Antigravity、Grok 与 Cursor，提供本地会话状态、轮到你提醒和服务商用量视图；无需 Agent Island 账号，无产品遥测 - [查看仓库](https://github.com/tristan666666/agent-island)
 
 #### Pectics - [GitHub](https://github.com/Pectics)
 * :white_check_mark: [claude-i18n](https://chromewebstore.google.com/detail/claude-i18n/fkfmbjccelbeolkoekeaegajhhdndajj)：[Claude.ai](https://claude.ai) 网页端简体中文 / 繁體中文语言包，提供接近原生的语言切换与国际化体验，并为新语言包贡献提供完整加载支持 - [查看仓库](https://github.com/Pectics/claude-i18n)

@@ -29,6 +29,94 @@ So we specially created this repository. All developers are welcome to add your 
 
 ## 3. Project List
 
+### Added on August 16, 2026
+
+#### Moresyl - [Github](https://github.com/Moresyl)
+* :white_check_mark: [MetaClean](https://github.com/Moresyl/metaclean): Cross-platform local file metadata cleaning tool, supports batch processing of images, PDF, Office and text files, files are not uploaded to the cloud - [Projects and Downloads](https://github.com/Moresyl/metaclean/releases/latest)
+
+
+### Added on August 15, 2026
+
+#### kugua233 - [Github](https://github.com/kugua233)
+* :white_check_mark: [AiMovieFinder](https://www.aimoviefinder.net): Identify movies through plot, scenes, lines, screenshots, clip frames, actor or director clues, and give matching results
+* :white_check_mark: [SeatingChartGenerator](https://www.seatingchartgenerator.app): Free online seating chart generator, supports drag and drop arrangement of wedding, party, classroom and event guests, and can be exported to PNG or PDF after completion
+#### linuxscreen - [Github](https://github.com/linuxscreen)
+* :white_check_mark: [Duo Translator](https://duotranslator.com/): AI translation and writing assistant (browser plug-in), supports web bilingual translation, word delineation translation, writing enhancement, YouTube bilingual subtitles and other functions - [Project and Download](https://github.com/linuxscreen/duo-translator)
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [DSH Meme Hub](https://dsh-meme-hub.cdqyfdbymn.me/): DeepSeek Harness community plug-in navigation station, including 87 plug-ins, 13 categories, daily updated star rankings, integrated plug-ins are placed separately in the Meme Zone, bilingual in Chinese and English, open to submission - [GitHub Project](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub)
+
+
+### Added on August 14, 2026
+
+#### ggb(Shenzhen) - [Github](https://github.com/jiangyifeng96)
+* :white_check_mark: [Background Remover Video](https://backgroundremover.video/): AI video background removal tool, which can automatically separate the subject without a green screen, export transparent WebM or solid color background MP4, and retain the original audio
+
+#### Eason-87 - [Github](https://github.com/Eason-87)
+* :white_check_mark: [Morse Code Translator](https://morsecodeinterpreters.com): A two-way conversion tool between text and Morse code, supporting real-time highlighting, speed adjustment, phone vibration and one-click audio export
+
+#### RSSH - [Github](https://github.com/shihuili1218/rssh)
+* :white_check_mark: [RSSH](https://rssh.ofcoder.com): A new generation of SSH client, command block (define command input and output), AI analysis (zero server cli), multi-platform data synchronization (zero server), Cli-First (providing cli tools to use rssh data on any terminal), dynamic discovery (docker/k8s discovery) - [Projects and Downloads](https://github.com/shihuili1218/rssh/releases)
+
+
+### Added on August 13, 2026
+
+#### TREAFREE - [Github](https://github.com/TREAFREE)
+* :white_check_mark: [File Island](https://treafree.top/FileIsland/): Native macOS local media conversion tool, residing in the MacBook notch area, supports batch conversion of pictures, videos, audios and mixed folders. The results can be directly dragged into the Finder or chat application, and the files are not uploaded to the cloud - [Projects and Downloads](https://github.com/TREAFREE/FileIsland)
+
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+* :white_check_mark: [Pixonara](https://pixonara.com): AI picture, video and prompt word workbench, browse free prompt words of GPT Image, Nano Banana, Midjourney, Seedance and other models, and combine text or reference pictures to create product visuals, marketing materials and short videos
+
+#### YuuFish(广州) - [Github](https://github.com/YuuFish)
+* :white_check_mark: [Gamepad Tester Pro](https://gamepadtesterpro.org/): Controller detection and troubleshooting tool, connect USB or Bluetooth controller to test buttons, joystick drift, triggers, dead zone, polling rate, input response and vibration
+* :white_check_mark: [Scroll Wheel Test](https://scrollwheeltest.org/): Mouse wheel test tool, which can detect up and down scrolling, scrolling direction, response and wheel input performance
+* :white_check_mark: [Online Protractor](https://protractoronline.org/): Angle measurement tool, which can measure angles through screen protractor, picture upload and camera assistance, suitable for geometry learning, object angle inspection and picture angle analysis
+
+#### ClauBloom(Beijing) - [Github](https://github.com/ClauBloom)
+* :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web): Open source Chrome browser plug-in, automatically scans the comment area (currently adapted to Bilibili), and calls a large language model to rewrite offensive, weird or negative comments into harmonious, friendly and rational expressions in real time - [More introduction](https://www.bilibili.com/video/BV17ugj6qEx2)
+
+#### 王冲 - [Github](https://github.com/androidwangchong)
+* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github): Break down the thing you have never wanted to do into the first step that is so small that you can start without making up your mind, and then enter the real-time focus room to do things at the same pace as others (body doubling); no need to turn on the camera, no chatting, no appointment matching, the focus period and the rest period are synchronized in the whole room - the Deep Work room has a fixed time every day (Beijing) 21:00), the 25/5 loop in the other rooms is running all day long, you can pick it up when you go in; you can directly dismantle tasks and sit down in the room without registering; supports 12 languages ​​(including simplified and traditional Chinese), the task dismantling follows the language of the task itself rather than the interface language; free 3 dismantlings per month + public focus room, Pro 10 US dollars / month, annual payment 80 US dollars
+
+
+### Added on August 12, 2026
+
+#### Jett Fu(深圳) - [Github](https://github.com/jianjettfu-oss)
+* :white_check_mark: [Global Solo](https://www.globalsolo.global/?utm_source=cnindie&utm_medium=github): A US LLC service comparison site for non-US resident entrepreneurs, horizontally comparing 43+ registration, banking, tax and compliance service providers, providing 24 "country × dimension" combination strategies, risk self-examination, compliance calendar and cost calculator; the interface is in English
+
+
+### Added on August 11, 2026
+
+#### dayphosphor (Beijing) - [Github](https://github.com/dayphosphor)
+* :white_check_mark: [Fate Mirror](https://fate-mirror.com): AI tarot divination and self-exploration tool. Through card drawing, AI personalized interpretation, guided questions and private diaries, you can explore love, career, interpersonal relationships and important choices. Compared with traditional tarot websites that provide one-time results, it pays more attention to continuous reflection and recording.
+
+#### Albert - [Github](https://github.com/AlbertAZ1992)
+* :white_check_mark: [EveryCityMap](https://everycitymap.com): An online stylized city map design tool, covering 500+ cities around the world. You can switch multiple themes, customize layers, roads, waters, labels and colors, and export high-definition maps of multiple sizes.
+
+
+### Added on August 10, 2026
+
+#### Huajianhunmeng - [Github](https://github.com/hzy7003-bit)
+* :white_check_mark: [Privacy Hub Android](https://github.com/hzy7003-bit/PrivacyHub-Android-Preview): A local offline Android privacy sharing relay tool. After turning off the clipboard reading permission of shopping and content apps, you can still save, identify and open links and passwords through the notification bar or system sharing - no network permissions, no ads, no statistics SDK
+
+#### Idea started (Shenzhen)
+* :white_check_mark: [Beanbao Super Assistant](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag): dialogue folder, long dialogue navigation, mark annotation, prompt word template and multi-step queue, 100+ Quick access to templates and word-marking, native reading and writing of files - Beanbao dialogue enhancement Chrome plug-in - [More introduction](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag/)
+
+#### ylv01(Shenzhen) - [Github](https://github.com/ylv01)
+* :white_check_mark: [Moyu Assistant](https://github.com/ylv01/WindowDockTool-Windows-Window-Docking-Picture-in-Picture-Helper): Embed the video or novel you want to watch into the working software Moyu applet, which can quickly adjust the position, size, top and transparency of the browser and desktop windows, and automatically identify the browser's picture-in-picture window and dock it to the specified position on the screen
+
+
+### Added on August 9, 2026
+
+* :white_check_mark: [SeqLog](https://seqlog.com): macOS native outline notes. Each note is a Markdown file on the disk. There is no database and no proprietary format. What ripgrep and git read are the same bytes you see. The built-in Git can expand line-by-line diff, rollback by single file, and can also directly open the existing Logseq warehouse. The interface is in English
+* :white_check_mark: [SeqLog](https://seqlog.com): macOS native outline notes. Each note is a Markdown file on the disk. There is no database and no proprietary format. What ripgrep and git read are the same bytes you see. The built-in Git can expand line-by-line diff, rollback by single file, and can also directly open the existing Logseq warehouse. The interface is in English
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [FeedbackHi](https://feedbackhi.com): A user feedback tool that can be embedded in any website. With two lines of code, you can collect feature suggestions, bug reports and votes, and provide a public feedback board, status management and official replies.
+
+#### gna1280072(Fujian) - [Github](https://github.com/gna1280072)
+* :white_check_mark: [LeePanel](http://www.leepanel.com): Open source desktop Linux server management panel, all operations are completed through local SSH, zero installation and zero residue on the server side, fundamentally eliminating the security risks of traditional web panels - [Source Code](https://github.com/gna1280072/LeePanel)
+
+
 ### Added on August 8, 2026
 
 #### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
@@ -50,12 +138,19 @@ So we specially created this repository. All developers are welcome to add your 
 * :white_check_mark: [PublicHoliday](https://public-holidays.shop): Query 150+ national statutory holidays and holidays, 11 languages ​​support switching by year and one-click export calendar subscription (.ics)
 
 #### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
-* :white_check_mark: [AI Price Comparison](https://www.china-ai-arbitrage.xyz): The entire network's AI information aggregation and price comparison site - the real Token quota and speed limit of domestic official packages (GLM / Kimi / Tongyi / Doubao, etc.), each API unit price, free Token activities, low-price API transfer and overseas account market are compared horizontally in one table, and the most cost-effective plan is selected based on "available amount per dollar"
+* :white_check_mark: [AI Price Comparison](https://www.china-ai-arbitrage.xyz): The entire network's AI information aggregation and price comparison site - the real Token quota and speed limit of domestic official packages (GLM / Kimi / Tongyi / Doubao, etc.), each API unit price, free Token activities, low-price API transfer and overseas account prices are compared horizontally in one table, and the most cost-effective plan is selected based on "available amount per dollar"
 
-#### Bu Kong Team - [Github](https://github.com/Hanshihao111)
-* :white_check_mark: [Not empty: Fishing weather and fish condition records](https://bhtq.cn): A tool for fishing weather and fish species classification for wild fishing users. The web page allows you to check the current scores, trends and better times of ten target fishes in the next 24 hours without logging in; the iPhone App also provides fish conditions, private fishing spots and fish catch records for the next 7 days - [App Store](https://apps.apple.com/cn/app/id6791599314)
+### Added on August 6, 2026
 
+#### AKAama(Nanjing) - [Github](https://github.com/AKAama), [Personal Homepage](https://ismyh.cn/)
+* :white_check_mark: [fishing calendar](https://calendar.ismyh.cn/): A daily fishing calendar for migrant workers, showing the number of days until Friday, rest day and next holiday, as well as the progress of this week, month and this year; there is also a countdown to get off work on Friday, fishing bingo and lunch gashapon machine
+* :white_check_mark: [Evenly](https://app.ismyh.cn/): A shared accounting app for couples, roommates and multi-person travel, supporting member confirmation, automatic splitting and settlement suggestions, reducing hand calculations and repeated communication in joint consumption - [App Store](https://apps.apple.com/cn/app/evenly/id6784235151)
+* :white_check_mark: [Breakup Calm Room](https://calm.ismyh.cn/): AI emotional sorting tool in relationship conflicts. It analyzes the emotional intensity before sending impulsive messages. It helps users clarify their true intentions through three reflection questions before deciding whether to send them.
 
+#### Miracle(Hangzhou) - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [PixelListing](https://pixellisting.com/): An AI product image generation tool for e-commerce sellers, helping sellers to quickly create product images that are more suitable for listing and marketing without the need for a studio, designer, or Photoshop process.
+
+#### MuYi(Wuhan) - [Github](https://github.com/MuYiBo)
 ### Added on August 6, 2026
 
 #### AKAama(Nanjing) - [Github](https://github.com/AKAama), [Personal Homepage](https://ismyh.cn/)
@@ -70,22 +165,10 @@ So we specially created this repository. All developers are welcome to add your 
 * :white_check_mark: [Shotyard](https://shotyard.ai/): AI picture and video generation/editing platform, one-stop use of mainstream AI models, can output multiple pictures or videos at one time, and is friendly to secondary operations of generated results
 
 #### MeetMiaoji (Beijing) - [Github](https://github.com/MeetMiaoji)
-* :white_check_mark: [Meet Miaoji](https://www.mionote.com.cn/): A portable AI voice assistant that records meetings, inspirations, and to-dos, and records your every day; focuses on voice recording in work/life/study/chat/inspiration scenarios, supports real-time voice transcription, speaker distinction, and AI intelligent summary generation with one click. Historical meetings can be reviewed by topic. Four-terminal coverage is available for iOS, Android, Mac, and Windows. The maximum single recording is 4 Hours, built-in 19 industry minutes templates
+* :white_check_mark: [Meet Miaoji](https://www.mionote.com.cn/?utm_source=cnindie&utm_medium=github&utm_campaign=2026q3): A portable AI voice assistant that records meetings, inspirations, to-dos, and your every day; focuses on voice recording of work/life/study/chat/inspiration and other scenes, supports real-time voice transcription, speaker distinction, AI Intelligent summaries are generated with one click, and historical meetings can be reviewed by topic. Covered by iOS, Android, Mac, and Windows. A single recording can last up to 4 hours. There are 19 built-in industry minutes templates.
 
 #### FlowPick - [Github](https://github.com/ezwebtools/flowpick)
 * :white_check_mark: [FlowPick](https://flowpick.net): Automatically detect and download media resources such as videos, audios and pictures in web pages - free and open source browser extension
-
-
-### Added on August 5, 2026
-
-#### PigFetch Team - [Github](https://github.com/my-name-7)
-* :white_check_mark: [VidLux AI](https://vidlux.ai/): AI video generation and editing platform, supporting Wensheng video, Tusheng video, reference student video and video editing
-
-#### Mosquito - [Github](https://github.com/coderWenzi)
-* :white_check_mark: [VidLux AI](https://vidlux.ai/): AI video generation and editing platform, supporting Wensheng video, Tusheng video, reference student video and video editing
-
-
-### Added on August 4, 2026
 
 #### gf1023456 - [Github](https://github.com/gf1023456)
 #### Eric(Shanghai) - [Github](https://github.com/EricChenBuilds)
@@ -1675,38 +1758,38 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [MarkIt](https://chromewebstore.google.com/detail/markit-%E7%BD%91%E9%A1%B5%E6%A0%87%E6%B3%A8%E4%B8%8E%E5%8F%8D%E9%A6%88%EF%BC%8C%E8%AE%A9-ai-%E5%B0%91%E7%8C%9C%E4%B8%80%E7%82%B9/dndiinkkhpmdipaffabjkaagoogjlome): Circle elements on web pages, take screenshots and write requirements, generate structured feedback including page position, element information and acceptance criteria
 
 #### Jake (Overseas) - [Github](https://github.com/jakeluo734)
-* :white_check_mark: [AgentCeres](https://agentceres.com): AI growth team for independent developers and outbound products, automatically does competitor research, drafts SEO articles and social media posts, all external publishing is approved by you, 14-day free trial no card required
+### Added on July 14, 2026
 
-### Added on July 13, 2026
+#### 1146345502 - [Github](https://github.com/1146345502)
+* :white_check_mark: [Aural](https://aural-ai.com): Open source AI interview platform, supports voice, chat and video interviews, provides adaptive questioning, structured scoring, interview practice and self-hosting - [View repository](https://github.com/1146345502/aural-oss)
 
-#### capybara-zy - [Github](https://github.com/capybara-zy)
-* :white_check_mark: [Xiaoye AI](https://xiaoye.io/): Open source multimodal AI content creation platform, supports Gemini, Seedream, Seedance and Veo models to generate images and videos, and provides batch generation of e-commerce images and prompt optimization - [More intro](https://github.com/capybara-zy/xiaoye-ai)
+#### HarlonWang - [Github](https://github.com/HarlonWang)
+* :white_check_mark: [TrendingAI](https://trendingai.cn/app/): Chinese information station on overseas technology hotspots. AI is selected and interpreted in depth every day from GitHub Trending, Hacker News, and Product Hunt. It supports Apps, web pages, emails, and RSS subscriptions - [View Warehouse](https://github.com/HarlonWang/TrendingAI)
+* :white_check_mark: [Tono](https://tonote.app/): A minimalist Android to-do and note-taking app. Take notes as soon as you open it. Capture your ideas and tasks in one place and never lose them.
 
-#### yaowei - [Github](https://github.com/lumian2015)
-* :white_check_mark: [MeshRefinery](https://meshrefinery.com/): Repair, convert and optimize 3D files in the browser, free to use, files never leave the local device
+#### Jingyuan Zheng - [Github](https://github.com/Jingyuan-Zheng), [Blog](https://jingyuan-zheng.github.io/zh/)
+* :white_check_mark: [Text Tray](https://github.com/Jingyuan-Zheng/TextTray): Native macOS temporary text tray, you can quickly view, edit, clean, count, translate, copy and save temporary text without opening a full text editor, and can repair line breaks caused by copying from PDF - [More introduction](https://github.com/Jingyuan-Zheng/TextTray)
 
-#### yeguozi - [Github](https://github.com/yeguozi)
-* :white_check_mark: [Wild Berries (yeguozi)](https://www.yeguozi.com): Movie home aesthetics inspiration library, extracts wall soft furnishing color schemes from selected movie stills, supports browsing by color and sharing long color scheme images, covering 87 movies and 4400+ screenshots - [More intro](https://github.com/yeguozi/yeguozi)
+#### Tristan Tang - [Github](https://github.com/tristan666666)
+* :white_check_mark: [Agent Island](https://agent-island.dev/): Free, MIT open source native AI programming companion, unified support for Claude Code, Codex, Antigravity, Grok and Cursor, providing local session status, your turn reminder and service provider usage view; no Agent Island account required, no product telemetry - [View Warehouse](https://github.com/tristan666666/agent-island)
 
-#### HankGuo - [Github](https://github.com/HankGuo)
-* :white_check_mark: [Independent Gold Rush Map](https://berich.aichi.food): Money-making guide for beginners, integrating independent revenue-generating opportunities that can be done by one person
+#### Pectics - [GitHub](https://github.com/Pectics)
+* :white_check_mark: [claude-i18n](https://chromewebstore.google.com/detail/claude-i18n/fkfmbjccelbeolkoekeaegajhhdndajj): [Claude.ai](https://claude.ai) Web-side Simplified Chinese/Traditional Chinese language pack, providing near-native language switching and internationalization experience, and providing complete loading support for new language pack contributions - [View repository](https://github.com/Pectics/claude-i18n)
 
-#### charles - [Github](https://github.com/charleslee8266)
-* :white_check_mark: [CardNav](https://cardnav.xyz): One-stop AI large model account purchase navigation, aggregating transit stations, card networks, official subscription price comparisons, model rankings, user guides and practical tools - [More intro](https://github.com/charleslee8266/cardnav-web)
+#### dhr2333(温州) - [Github](https://github.com/dhr2333/Beancount-Trans)
+* :white_check_mark: [Beancount-Trans](https://trans.dhr2333.cn/): Upload bills, automatically convert to auditable Beancount double-entry accounting data, and view financial statements in minutes
 
-#### xsf0221 (Shenzhen)
-* :white_check_mark: [Listlift](https://listlift.dev): Content engine for Etsy sellers, converting own product Listings into Pinterest and Instagram content that matches the seller's tone and is auditable and editable
+* :white_check_mark: [Atomi](https://atomi.chat): Verified trading market for AI tools and digital services - sandbox execution, receipt as proof, and loan release after verification
 
-#### evertrain (Hangzhou) - [Github](https://github.com/evertrain)
-* :white_check_mark: [Puqi](https://www.zendong.com.cn): Generate exercises from learning content like books, Bilibili, Dedao, etc., helping to master new knowledge, supports App, Chrome extension and Agent Skill - [More intro](https://mp.weixin.qq.com/s/HRRpKg2oAt_toZNTpY-foA)
+#### gtn1024 - [Github](https://github.com/gtn1024)
+* :white_check_mark: [ieltssh](https://ieltssh.com/): AI-based IELTS speaking material library, customized for personal use
 
-#### MuRong - [Github](https://github.com/murongg)
-* :white_check_mark: [Markra](https://editor.markra.app/): WYSIWYG Markdown editor, local first, open source, supports Web, macOS, Windows and Linux, AI modifications can be previewed before applying - [More intro](https://github.com/markrahq/markra/blob/main/README.zh-CN.md)
+#### pasca520
+* :white_check_mark: [MarkIt](https://chromewebstore.google.com/detail/markit-%E7%BD%91%E9%A1%B5%E6%A0%87%E6%B3%A8%E4%B8%8E%E5%8F%8D%E9%A6%88%EF%BC %8C%E8%AE%A9-ai-%E5%B0%91%E7%8C%9C%E4%B8%80%E7%82%B9/dndiinkkhpmdipaffabjkaagoogjlome): Circle elements on the web page, take screenshots and write requirements, and generate structured feedback including page location, element information and acceptance criteria.
 
-#### ghosty (Overseas) - [Github](https://github.com/n1-ghosty)
-* :white_check_mark: [SaaSCity](https://saascity.io): Submit SaaS products for free, each product becomes a building on an isometric city map, manual review and online within 24 hours, paid version comes with dofollow backlinks
+#### Jake (overseas) - [Github](https://github.com/jakeluo734)
+* :white_check_mark: [AgentCeres](https://agentceres.com): For independent developers and AI growth teams of overseas products, automatically conduct competitive product research, draft SEO articles and social media posts, all external releases are approved by you, 14-day free trial without card binding
 
-### Added on July 12, 2026
 
 #### Banlon - [Github](https://github.com/Banlon)
 * :white_check_mark: [upload](https://upload.one): Cross-AI long-term memory layer, letting ChatGPT, Claude, Codex, Hermes, OpenClaw, WorkBuddy, etc. share the same memory, continue from where you left off when switching tools or devices, register to use without installing plugins
