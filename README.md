@@ -29,6 +29,79 @@ So we specially created this repository. All developers are welcome to add your 
 
 ## 3. Project List
 
+### Added on August 22, 2026
+
+* :white_check_mark: [SocialEcho](https://www.socialecho.cn/): A full social media AI workbench for overseas enterprises and cross-border sellers. It manages the content creation and publishing, comment private messages, social monitoring, data analysis and automation of 11 overseas social platforms in one workspace.
+* :white_check_mark: [SocialEcho](https://www.socialecho.cn/): A full social media AI workbench for overseas enterprises and cross-border sellers. It manages the content creation and publishing, comment private messages, social monitoring, data analysis and automation of 11 overseas social platforms in one workspace.
+
+#### woshiliyana - [Github](https://github.com/woshiliyana)
+#### Zheng Cheng - [Github](https://github.com/1c7)
+
+#### Zheng Cheng - [Github](https://github.com/1c7)
+* :white_check_mark: [MaxUsage](https://github.com/1c7/max-usage/blob/main/README-zh-CN.md): Help users who subscribe to multiple AI programming packages at the same time make full use of the quota of each package; recommend which one to use based on the remaining quota and reset time, and display the usage and reset dates of all packages in the macOS menu bar
+
+#### Leochens(北京) - [Github](https://github.com/leochens)
+* :white_check_mark: [sticker MewSticker](http://sticker.guantou.site): AI sticker generator. Enter text or upload a reference image to generate a single sticker, three views of the character and a unified style sticker collection. It supports intelligent cutout, automatic segmentation by subject, adding white borders and graffiti text, free typesetting and batch export of transparent PNGs.
+
+#### 33hodl - [Github](https://github.com/33hodl)
+* :white_check_mark: [Hermes Startup](https://hermesstartup.com): A free, practical path to making your first real dollar income with Hermes Agent - answer 10 private questions, get 3 business ideas that match you for free (no income promised), optional one-time US$10 built and run by Hermes Startup for you; open source, no subscription, no registration required
+
+#### momochoog - [Github](https://github.com/momochoog)
+* :white_check_mark: [AIXiamo](https://www.aixiamo.com/?utm_source=cnindie&utm_medium=github): ChatGPT Plus / Pro domestic recharge and subscription payment service, for users without overseas bank cards, supports Alipay, USDT, order inquiry and 7×24 hours customer service entrance; independent third party, not OpenAI official - [Public tutorials and service instructions](https://github.com/momochoog/gpt-daichong)
+
+
+### Added on August 21, 2026
+
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [DSH Quality](https://dshquality.com): DeepSeek Harness plug-in quality scoring and security inspection platform - independent scoring (maintenance/documentation/npm/ecological health), real-time security warnings, A-D grades, to help you find plug-ins worth installing and avoid cheating.
+* :white_check_mark: [HǎoWèi好吃](https://haoweirecipes.com): English recipes for home-cooked Chinese dishes (for the English-speaking world) - from mapo tofu to tomato scrambled eggs, each dish provides ingredient substitutions, Chinese and English bilingual terms and step-by-step photos, allowing you to make authentic Chinese meals at home
+* :white_check_mark: [Codex Pet Generator](https://codexpetgenerator.com/?utm_source=cnindie&utm_medium=github): Upload a photo, AI will generate an exclusive animated pixel pet (spritesheet.webp + pet.json), and load a line of commands into the OpenAI Codex terminal, a pixel partner who accompanies you in writing code
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### 王冲 - [Github](https://github.com/androidwangchong)
+* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github): Divide that thing you have never wanted to do into the first step that is so small that you can start without making up your mind, and then enter the real-time focus room to do things at the same pace as others (body doubling); no need to turn on the camera, no chat, no appointment matching, the focus period and the rest period are synchronized in the whole room - Deep Work The room has a fixed number of shows every day (the page shows the next show time according to your time zone), and the 25/5 cycle of the other rooms is running all day long, and you can pick it up when you enter it; you can directly dismantle tasks and enter the room to sit down without registering; supports 12 languages ​​(Chinese including simplified and traditional), and the task dismantling follows the language of the task itself rather than the interface language; free 3 dismantlings per month + public focus room, Pro ¥25/month, ¥198/year (price in mainland China, settled in local currency in other regions)
+
+#### Sword - [Github](https://github.com/330132662/douyin)
+* :white_check_mark: [DouYin](https://gitee.com/jeffcat/douyin): Douyin AI customer acquisition assistant, VLM visual large model automatically analyzes the video screen, automatically likes and collects according to keyword conditions, supports walking mode and filtering of intended customers in the comment area, Android accessibility service runs without root
+
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [GetCreditWorth](https://getcreditworth.com): Helps you calculate how much an Audible point is worth ($14.95), ranks 300+ audiobooks according to "cost of listening to books per hour", and tells you which book is the most cost-effective to exchange for and which book is more valuable to buy directly; tool type (SaaS + content)
+
+
+### Added on August 20, 2026
+
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [MailMergeOnline](https://mailmergeonline.com/): Online PDF batch generation tool with built-in ready-made templates for certificates, contracts, payslips, invoices, etc. Import Excel/CSV and map fields to batch generate personalized PDFs, and the data does not leave the browser - no installation required
+
+
+### Added on August 19, 2026
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [TempCanvas](https://tempcanvas.com/): A free temporary online whiteboard that does not require registration. You can quickly draw pictures, handwriting records and export PNGs when you open it. The content is only saved locally in the browser.
+
+
+### Added on August 17, 2026
+
+#### ChihooZeng - [Github](https://github.com/ChihooZeng)
+* :white_check_mark: [Loamery](https://loamery.com/): Save or refine valuable answers in ChatGPT, Claude, Gemini, DeepSeek, Doubao, and Kimi with one click. Through search, collection, and project organization, scattered AI conversations are precipitated into a personal knowledge base that can be searched for a long time. Data is saved locally first - browser plug-in
+
+#### zhoujungis(Shenzhen) - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [Numerology Handbook](https://destiny-ai.pages.dev/): AI free fortune telling, asking about name, time, color, luck, knowing what you want to know and thinking about you
+
+#### ximing - [Github](https://github.com/ximing)
+* :white_check_mark: [AIMO](https://aimo.plus/?utm_source=cnindie&utm_medium=github): AI First card notes, jot down ideas, semantic search, association and review are completed by the system, Docker one-click self-hosting, supports Web / macOS / Windows / Android - [Source Code](https://github.com/ximing/aimo)
+
+#### my19940202(Shanghai) - [Github](https://github.com/my19940202)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [CareerAce](https://careerace.app): AI simulated video interview and job search coaching tool, conducts dialogue questions based on resume and real-time answers, and provides evaluation report after the interview - supports Web, iOS, Android
+
+#### Imaginify - [Github](https://github.com/Imaginify-ai)
+* :white_check_mark: [Imaginify](https://imaginify.app/): AI image generation and editing tool, supports text generation, reference image redrawing, local modification, background processing and image quality enhancement, provides a variety of image models and up to 4K output
+* :white_check_mark: [HomeDesign](https://homedesigns.app/): AI space and home decoration design tool. Upload real photos of rooms, building exteriors or floor plans to preview the indoor and outdoor decoration and transformation effects, and generate 2D layouts, 3D renderings and 360° panoramic views.
+
+
 ### Added on August 16, 2026
 
 #### Moresyl - [Github](https://github.com/Moresyl)
@@ -72,11 +145,7 @@ So we specially created this repository. All developers are welcome to add your 
 * :white_check_mark: [Online Protractor](https://protractoronline.org/): Angle measurement tool, which can measure angles through screen protractor, picture upload and camera assistance, suitable for geometry learning, object angle inspection and picture angle analysis
 
 #### ClauBloom(Beijing) - [Github](https://github.com/ClauBloom)
-* :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web): Open source Chrome browser plug-in, automatically scans the comment area (currently adapted to Bilibili), and calls a large language model to rewrite offensive, weird or negative comments into harmonious, friendly and rational expressions in real time - [More introduction](https://www.bilibili.com/video/BV17ugj6qEx2)
-
-#### 王冲 - [Github](https://github.com/androidwangchong)
-* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github): Break down the thing you have never wanted to do into the first step that is so small that you can start without making up your mind, and then enter the real-time focus room to do things at the same pace as others (body doubling); no need to turn on the camera, no chatting, no appointment matching, the focus period and the rest period are synchronized in the whole room - the Deep Work room has a fixed time every day (Beijing) 21:00), the 25/5 loop in the other rooms is running all day long, you can pick it up when you go in; you can directly dismantle tasks and sit down in the room without registering; supports 12 languages ​​(including simplified and traditional Chinese), the task dismantling follows the language of the task itself rather than the interface language; free 3 dismantlings per month + public focus room, Pro 10 US dollars / month, annual payment 80 US dollars
-
+* :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web): An open source Chrome browser plug-in that automatically scans the comment area (currently adapted to Bilibili), and calls a large language model to rewrite offensive, weird or negative comments into harmonious, friendly and rational expressions in real time - [More introduction](https://www.bilibili.com/video/BV17ugj6qEx2)
 
 ### Added on August 12, 2026
 
@@ -6039,14 +6108,14 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 ---
 #### marticztn / FuzzyEra Softworks LLC (Jinhua, Zhejiang)
 * :white_check_mark: [Minimalist Wooden Fish (iOS)](https://apps.apple.com/cn/app/id6445845846): The simplest, easiest to use, and lag-free wooden fish tapping App
-* :white_check_mark: [Minimalist Wooden Fish (Android - Google Play)](https://play.google.com/store/apps/details?id=com.marticztn.woodenfish): The simplest, easiest to use, and lag-free wooden fish tapping App
-
-### Added on September 29, 2023
+### Added on October 11, 2023
 ---
-#### Jianju Tech (Hangzhou) -  [Official Website](http://jianju.3ddysj.com/)
-* :x: [Jianju QQ Zone Album Export Tool](http://jianju.3ddysj.com/qqkongjian.html): One-click automatically download and export all pictures from QQ Zone albums
+#### codelover - [Github](https://github.com/lovercode)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on September 25, 2023
+#### sx1989827 - [Github](https://github.com/sx1989827)
+* :x: [Teamlinker](https://team-linker.com/): Team collaboration platform. You can contact members, assign tasks, start meetings, arrange various affairs, manage files, etc.
+
 ---
 #### xerduo (Chongqing)
 * :x: [iChat](https://ichatt.cn): Smart AI assistant, supporting ChatGPT 3.5, 4.0, Ernie Bot, built-in 90+ industry AI roles, multi-language reading aloud, available in web version, App, and Windows application - [More introduction](https://ichatt.cn)

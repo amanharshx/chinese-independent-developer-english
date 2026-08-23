@@ -24,6 +24,74 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 22 号添加
+
+#### Samuel-Kuang(广州) - [Github](https://github.com/Samuel-Kuang)
+* :white_check_mark: [SocialEcho](https://www.socialecho.cn/)：面向出海企业和跨境卖家的全社媒 AI 工作台，在一个工作区统一管理 11 个海外社交平台的内容创作与发布、评论私信、社交监听、数据分析和自动化
+
+#### woshiliyana - [Github](https://github.com/woshiliyana)
+* :white_check_mark: [SubtitleGenerator](https://subtitlegenerator.app/)：AI 字幕生成与校对工具，自动标出不确定的词并显示剩余检查数，在同一浏览器工作流里完成生成、校对、整轨翻译、字幕样式和视频导出；无需注册可免费处理最长 10 分钟视频
+
+#### 郑诚 - [Github](https://github.com/1c7)
+* :white_check_mark: [MaxUsage](https://github.com/1c7/max-usage/blob/main/README-zh-CN.md)：帮助同时订阅多个 AI 编程套餐的用户充分利用每个套餐的额度；根据剩余额度和重置时间推荐当前该用哪个，并在 macOS 菜单栏集中展示所有套餐的用量与重置日期
+
+#### Leochens(北京) - [Github](https://github.com/leochens)
+* :white_check_mark: [贴纸喵MewSticker](http://sticker.guantou.site)：AI 贴纸生成器，输入文字或上传参考图即可生成单张贴纸、角色三视图及统一风格贴纸合集，支持智能抠图、按主体自动切分、添加白边与涂鸦文字，自由排版并批量导出透明 PNG
+
+#### 33hodl - [Github](https://github.com/33hodl)
+* :white_check_mark: [Hermes Startup](https://hermesstartup.com)：用 Hermes Agent 赚取第一笔真实美元收入的免费实操路径——回答 10 个私人问题，免费获得 3 个与你匹配的商业想法（不承诺收入），可选一次性 US$10 由 Hermes Startup 帮你构建并运行；开源、无订阅、无需注册
+
+#### momochoog - [Github](https://github.com/momochoog)
+* :white_check_mark: [AIXiamo](https://www.aixiamo.com/?utm_source=cnindie&utm_medium=github)：ChatGPT Plus / Pro 国内充值与订阅代付服务，面向没有海外银行卡的用户，支持支付宝、USDT、订单查询与 7×24 小时客服入口；独立第三方，非 OpenAI 官方 - [公开教程与服务说明](https://github.com/momochoog/gpt-daichong)
+
+### 2026 年 8 月 21 号添加
+
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [DSH Quality](https://dshquality.com)：DeepSeek Harness 插件的质量评分与安全检查平台——独立打分（维护/文档/npm/生态健康）、实时安全警告、A-D 等级，帮你找出值得装的插件，避开踩坑货
+* :white_check_mark: [HǎoWèi 好味](https://haoweirecipes.com)：家常中国菜英文食谱（面向英文世界）——从麻婆豆腐到番茄炒蛋，每道菜提供食材替代方案、中英双语术语与分步状态照片，让你在家也能做出地道中餐
+* :white_check_mark: [Codex Pet Generator](https://codexpetgenerator.com/?utm_source=cnindie&utm_medium=github)：上传一张照片，AI 生成专属动画像素宠物（spritesheet.webp + pet.json），一行命令装进 OpenAI Codex 终端，陪你写代码的像素伙伴
+* :white_check_mark: [Awesome Codex Skin](https://awesomecodexskin.com/?utm_source=cnindie&utm_medium=github)：汇集全网 OpenAI Codex 桌面端与 CLI 皮肤、主题引擎与画廊的中立索引站，按风格（暗夜/霓虹/动漫/复古等）、配色与平台筛选，复制一条命令即可安装，另收录宠物与工作区美化插件，支持 12 种语言
+
+#### 王冲 - [Github](https://github.com/androidwangchong)
+* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步——Deep Work 房每天有固定场次（页面按你所在时区显示下一场几点），其余房间的 25/5 循环全天在跑，进去就能接上；不注册也能直接拆任务、直接进房坐下；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费每月 3 次拆解 + 公共专注房，Pro ¥25/月、¥198/年（中国大陆价，其他地区按当地货币结算）
+
+#### Sword - [Github](https://github.com/330132662/douyin)
+* :white_check_mark: [DouYin](https://gitee.com/jeffcat/douyin)：抖音 AI 获客助手，VLM 视觉大模型自动分析视频画面，按关键词条件自动点赞收藏，支持散步模式和评论区意向客户筛选，Android 无障碍服务免 Root 运行
+
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [GetCreditWorth](https://getcreditworth.com)：帮你算清一张 Audible 积分到底值多少钱（$14.95），并按"每小时听书成本"给 300+ 有声书排名，告诉你换哪本最划算、哪本直接买更值；工具型（SaaS + 内容）
+
+### 2026 年 8 月 20 号添加
+
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [MailMergeOnline](https://mailmergeonline.com/)：在线 PDF 批量生成工具，内置证书、合同、工资单、发票等现成模板，导入 Excel/CSV 并映射字段即可批量生成个性化 PDF，数据不出浏览器 — 无需安装
+
+### 2026 年 8 月 19 号添加
+
+#### 超能刚哥(长沙) - [Github](https://github.com/margox)
+* :white_check_mark: [TempCanvas](https://tempcanvas.com/)：免费、无需注册的临时在线白板，打开即可快速画图、手写记录和导出 PNG，内容仅保存在浏览器本地
+
+### 2026 年 8 月 17 号添加
+
+#### ChihooZeng - [Github](https://github.com/ChihooZeng)
+* :white_check_mark: [沉淀记 Loamery](https://loamery.com/)：一键保存或提炼 ChatGPT、Claude、Gemini、DeepSeek、豆包、Kimi 中有价值的回答，通过搜索、收藏和项目整理，把零散的 AI 对话沉淀成可长期查找的个人知识库，数据本地优先保存 — 浏览器插件
+
+#### zhoujungis(深圳) - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [命理手札](https://destiny-ai.pages.dev/)：AI 免费算命，问名、问时、问色、问运，知你想知，想你所想
+
+#### ximing - [Github](https://github.com/ximing)
+* :white_check_mark: [AIMO](https://aimo.plus/?utm_source=cnindie&utm_medium=github)：AI First 卡片笔记，随手记下想法，语义搜索、关联和复习由系统完成，Docker 一键自托管，支持 Web / macOS / Windows / Android - [源码](https://github.com/ximing/aimo)
+
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [democue](https://democue.aizeten.me)：DemoCue 是一款录屏悬浮提纲引导工具，可AI生成讲解提纲，生成悬浮提纲帮你稳定完成教程、Demo 和 技术等偏知识类的分享。
+
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [CareerAce](https://careerace.app)：AI 模拟视频面试与求职辅导工具，根据简历与实时回答进行对话提问，并在面试后提供评估报告 — 支持 Web、iOS、Android
+
+#### Imaginify - [Github](https://github.com/Imaginify-ai)
+* :white_check_mark: [Imaginify](https://imaginify.app/)：AI 图像生成与编辑工具，支持文字生图、参考图重绘、局部修改、背景处理和画质增强，提供多种图像模型与最高 4K 输出
+* :white_check_mark: [HomeDesign](https://homedesigns.app/)：AI 空间与家装设计工具，上传房间实拍、建筑外观或户型图，即可预览室内外装修改造效果，并生成 2D 布局、3D 效果图与 360° 全景
+
 ### 2026 年 8 月 16 号添加
 
 #### Moresyl - [Github](https://github.com/Moresyl)
@@ -65,9 +133,6 @@
 
 #### ClauBloom(北京) - [Github](https://github.com/ClauBloom)
 * :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web)：开源 Chrome 浏览器插件，自动扫描评论区（目前已适配 Bilibili），调用大语言模型将带有攻击性、阴阳怪气或负面情绪的评论实时重写为和谐、友善且理性的表达 - [更多介绍](https://www.bilibili.com/video/BV17ugj6qEx2)
-
-#### 王冲 - [Github](https://github.com/androidwangchong)
-* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步——Deep Work 房每天一场固定时间（北京 21:00），其余房间的 25/5 循环全天在跑，进去就能接上；不注册也能直接拆任务、直接进房坐下；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费每月 3 次拆解 + 公共专注房，Pro 10 美元/月，年付 80 美元
 
 ### 2026 年 8 月 12 号添加
 
@@ -5661,7 +5726,7 @@
 ### 2023年10月11号添加
 ---
 #### codelover - [Github](https://github.com/lovercode)
-* :white_check_mark: [MyServers](https://myservers.codeloverme.cn/)：一个 App 监控管理你所有的服务器以及各种服务端个人应用
+* :white_check_mark: [MyServers](https://myservers.plus/)：iOS 原生服务器运维 App，可集中监控多台服务器，远程管理 Docker、终端与文件、下载器、Proxmox VE 和 FRP 等服务；内置插件市场，并支持借助 Agent Skill 开发自定义插件，把更多服务接入 Dashboard 和原生交互界面
 
 #### sx1989827 - [Github](https://github.com/sx1989827)
 * :x: [Teamlinker](https://team-linker.com/): 团队协作平台。可以联系成员，分配任务，开始会议，安排各项事务，管理文件等。
