@@ -29,6 +29,91 @@ So we specially created this repository. All developers are welcome to add your 
 
 ## 3. Project List
 
+### Added on August 30, 2026
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on August 28, 2026
+
+#### Lisa W (Berlin)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### mikewaynecn - [Github](https://github.com/mikewaynecn-cell)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on August 27, 2026
+
+#### PhilFan - [GitHub](https://github.com/Phil-Fan)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on August 26, 2026
+
+#### Justin Gao - [Github](https://github.com/encyc)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Corey - [Github](https://github.com/iamcorey)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Dkphhh - [Github](https://github.com/dkphhh)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [Video to Text](https://video2text.net): Video to text, supports four export formats: CSV, TXT, SRT, and VTT. It can be attached with timestamps and speaker tags. It supports 99 languages. In addition to uploading files, it also supports video links from social media platforms such as YouTube, TikTok, and Instagram.
+
+#### Nitin Gurbani - [Github](https://github.com/Ritavidhata)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Jay - [Github](https://github.com/chenminjie24)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on August 25, 2026
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on August 24, 2026
+
+#### Zhang Bo - [Github](https://github.com/Mr-ZhangBo)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### EthanYoQ - [Github](https://github.com/EthanYoQ)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on August 4, 2026
+
+#### gf1023456 - [Github](https://github.com/gf1023456)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
 ### Added on August 22, 2026
 
 * :white_check_mark: [SocialEcho](https://www.socialecho.cn/): A full social media AI workbench for overseas enterprises and cross-border sellers. It manages the content creation and publishing, comment private messages, social monitoring, data analysis and automation of 11 overseas social platforms in one workspace.
@@ -71,8 +156,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 ### Added on August 20, 2026
 
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
-* :white_check_mark: [MailMergeOnline](https://mailmergeonline.com/): Online PDF batch generation tool with built-in ready-made templates for certificates, contracts, payslips, invoices, etc. Import Excel/CSV and map fields to batch generate personalized PDFs, and the data does not leave the browser - no installation required
-
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ### Added on August 19, 2026
 
@@ -158,14 +242,13 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 #### dayphosphor (Beijing) - [Github](https://github.com/dayphosphor)
 * :white_check_mark: [Fate Mirror](https://fate-mirror.com): AI tarot divination and self-exploration tool. Through card drawing, AI personalized interpretation, guided questions and private diaries, you can explore love, career, interpersonal relationships and important choices. Compared with traditional tarot websites that provide one-time results, it pays more attention to continuous reflection and recording.
 
+### Added on August 11, 2026
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 #### Albert - [Github](https://github.com/AlbertAZ1992)
-* :white_check_mark: [EveryCityMap](https://everycitymap.com): An online stylized city map design tool, covering 500+ cities around the world. You can switch multiple themes, customize layers, roads, waters, labels and colors, and export high-definition maps of multiple sizes.
-
-
-### Added on August 10, 2026
-
-#### Huajianhunmeng - [Github](https://github.com/hzy7003-bit)
-* :white_check_mark: [Privacy Hub Android](https://github.com/hzy7003-bit/PrivacyHub-Android-Preview): A local offline Android privacy sharing relay tool. After turning off the clipboard reading permission of shopping and content apps, you can still save, identify and open links and passwords through the notification bar or system sharing - no network permissions, no ads, no statistics SDK
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### Idea started (Shenzhen)
 * :white_check_mark: [Beanbao Super Assistant](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag): dialogue folder, long dialogue navigation, mark annotation, prompt word template and multi-step queue, 100+ Quick access to templates and word-marking, native reading and writing of files - Beanbao dialogue enhancement Chrome plug-in - [More introduction](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag/)
@@ -199,21 +282,20 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 #### ShanLeiGuang(河北) - [Github](https://github.com/shanleiguang)
 * :white_check_mark: [vPlayer HiFi App](https://apps.apple.com/cn/app/vplayer-hifi/id6783141736): HiFi lossless music player, supports MP3, AIFF, WAV, FLAC, DSD (DFF/DSF) and other audio formats, supports SACD-R ISO parsing and Track extraction, Samba access, memory loading and playback, SRC/FIR Multiple resampling algorithms, support AirPlay, Bluetooth, external DAC output - [Source Code](https://github.com/shanleiguang/vPlayer)
+### Added on August 8, 2026
 
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [ClassroomTimers](https://classroomtimers.app/): A free online timing tool for teachers and classroom scenarios, focusing on large-screen projection, full-screen display, and no registration required
 
-### Added on August 7, 2026
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### xiaoxiao - [Github](https://github.com/863683348)
-* :white_check_mark: [PublicHoliday](https://public-holidays.shop): Query 150+ national statutory holidays and holidays, 11 languages ​​support switching by year and one-click export calendar subscription (.ics)
+#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
-* :white_check_mark: [AI Price Comparison](https://www.china-ai-arbitrage.xyz): The entire network's AI information aggregation and price comparison site - the real Token quota and speed limit of domestic official packages (GLM / Kimi / Tongyi / Doubao, etc.), each API unit price, free Token activities, low-price API transfer and overseas account prices are compared horizontally in one table, and the most cost-effective plan is selected based on "available amount per dollar"
+#### ShanLeiGuang(河北) - [Github](https://github.com/shanleiguang)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on August 6, 2026
-
-#### AKAama(Nanjing) - [Github](https://github.com/AKAama), [Personal Homepage](https://ismyh.cn/)
-* :white_check_mark: [fishing calendar](https://calendar.ismyh.cn/): A daily fishing calendar for migrant workers, showing the number of days until Friday, rest day and next holiday, as well as the progress of this week, month and this year; there is also a countdown to get off work on Friday, fishing bingo and lunch gashapon machine
-* :white_check_mark: [Evenly](https://app.ismyh.cn/): A shared accounting app for couples, roommates and multi-person travel, supporting member confirmation, automatic splitting and settlement suggestions, reducing hand calculations and repeated communication in joint consumption - [App Store](https://apps.apple.com/cn/app/evenly/id6784235151)
 * :white_check_mark: [Breakup Calm Room](https://calm.ismyh.cn/): AI emotional sorting tool in relationship conflicts. It analyzes the emotional intensity before sending impulsive messages. It helps users clarify their true intentions through three reflection questions before deciding whether to send them.
 
 #### Miracle(Hangzhou) - [Github](https://github.com/zhoulianbo)
@@ -601,12 +683,11 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 #### James zhou - [Github](https://github.com/nanobanana-co)
 * :white_check_mark: [pixsprout.com](https://pixsprout.com/text-to-stamp): An AI tool focused on generating retro rubber stamp effects, supporting text generation stamps, image transfer stamps and automatic bottom removal - [More introduction](https://pixsprout.com/image-to-stamp)
+### Added on January 20, 2026
 
-#### wufuliang561 - [Github](https://github.com/wufuliang561)
-* :white_check_mark: [Img2Img.net](https://img-2-img.net/): AI image to image generator, supports multiple art style conversions, such as Ghibli, cyberpunk, oil painting, etc.
+#### monsoonw
+* :white_check_mark: [MP3 to Text, TXT & SRT Converter](https://mp3totext.net): MP3 to text tool, which can convert MP3 to TXT or SRT (subtitles)
 
-#### Hugh - [Blog](https://pixsprout.com/posts)
-* :white_check_mark: [pixsprout.com](https://pixsprout.com/text-to-stamp): An AI tool focused on generating retro rubber stamp effects, supporting text generation stamps, image transfer stamps and automatic bottom removal - [More introduction](https://pixsprout.com/image-to-stamp)
 
 
 ### Added on January 16, 2026
@@ -1077,13 +1158,12 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 * :white_check_mark: [BlueSky tool directory site](https://bskyinfo.com): The most complete BlueSky tool collection site at present
 
 
-### Added on December 11, 2024
-* :white_check_mark: [UnblurImage AI](https://unblurimage.ai/zh): Image lossless enlargement and clarity website (free without widening)
-* :white_check_mark: [UnblurImage AI](https://unblurimage.ai/zh): Image lossless enlargement and clarity website (free without widening)
+### Added on December 24, 2024
+#### KIAN
+* :white_check_mark: [XShorts](https://xshorts.pro/): Convert high-quality Tweets into digital human short videos with one click. Customized sounds, AI background images, and automated publishing. Easily create short videos with high-quality content
 
-#### Terry (Shanghai) - [Github](https://github.com/jamieme)
-* :white_check_mark: [PodExtra AI](https://www.podextra.ai/): Podcast content summary generator (with transcripts and mind maps) - [More introduction](https://www.podextra.ai/)
-
+#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ### Added on December 6, 2024
 * :x: [SECSSOSO Safe Search](https://secsoso.com/): AI search in the vertical field of network security, safe search, search security - [More introduction](https://www.producthunt.com/products/secsoso)
@@ -1488,37 +1568,37 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 
 #### yipeng-git - [Github](https://github.com/yipeng-git)
 * :white_check_mark: [Paste It](https://paste-it.app): macOS local clipboard manager, OCR searchable screenshot text, and optional local MCP for Agent to retrieve history - [More intro](https://github.com/yipeng-git/paste-it)
+### Added on July 23, 2026
+
+#### maowei8888 - [Github](https://github.com/maowei8888)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### slamancn - [Github](https://github.com/slamancn)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### yipeng-git - [Github](https://github.com/yipeng-git)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### bobochang - [GitHub](https://github.com/can4hou6joeng4)
-* :white_check_mark: [Semaphore](https://semaphore.bobochang.cn): Drag pictures into the browser to turn into ASCII character art in seconds, no upload or registration needed, one-click copy as plain text to paste into terminals, code comments, chat windows, supports Braille dot matrix high-density mode and txt / PNG / share card export - [Source code](https://github.com/can4hou6joeng4/Semaphore)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on July 22, 2026
-
-#### wisemonkey1990 - [GitHub](https://github.com/wisemonkey1990)
-* :white_check_mark: [Shijing Reading](https://song-of-books.github.io/): Full text reading of 305 poems from "Classic of Poetry" (Shijing), with annotations, translations, pinyin annotations and traditional Chinese rice paper experience, supports collection and search - [GitHub Repository](https://github.com/song-of-books/song-of-books.github.io)
-
-### Added on July 21, 2026
-
-#### cobola - [Github](https://github.com/cobola)
-* :white_check_mark: [RailNet Tester](https://play.google.com/store/apps/details?id=com.xg.railnettester): High-speed rail mobile network quality recorder, conducts TCP tests + GPS synchronous continuous collection in high-speed mobile environments and forms charts
-* :white_check_mark: [0trace](https://0trace.org): Pure P2P browser end-to-end chat and file transfer, no server transit, no registration required, ready to use upon opening - [GitHub](https://github.com/momo2029/0trace)
-
-#### weidacn - [Github](https://github.com/weidacn)
-* :white_check_mark: [Voor AI](https://voor.ai): Browser-side AI creation platform, supports video, image and audio generation, editing and workflow collaboration, unified management of shared credits
-* :white_check_mark: [Krea 2 AI](https://krea2.org): AI image workbench dedicated to Krea 2, supports multiple generation specifications, style exploration and rapid iteration
-* :white_check_mark: [Seedance 2.5 AI](https://seedance2-5ai.im): Seedance 2.5 AI video workbench, supports text-to-video, image-to-video and reference image-to-video
-* :white_check_mark: [Seedream 5.0 Pro](https://seedream5-pro.im): Multi-model AI image workbench, supports text-to-image, image-to-image, complex layouts and multilingual text editing
-
-#### DevEloLin - [Github](https://github.com/DevEloLin)
-* :white_check_mark: [EloLin](https://elolin.com): A solo product studio homepage, browse all products I made in one place, and log in to all products with the same account
-* :white_check_mark: [PhotoAI](https://photoai.elolin.com): Upload a selfie, select a style and generate an ID photo, avatar, pet photo or character portrait with one click, no need to write prompt words throughout the process, photos are automatically deleted on the same day
-* :white_check_mark: [EloLin Domains](https://domains.elolin.com): Get your own subdomain for free, and manage its DNS resolution yourself, taking effect in seconds
-* :white_check_mark: [Zivoe](https://zivoe.elolin.com): Desktop tool for industrial design, turn vague ideas into product concept main images and three-view drawings with a reference picture to inspire inspiration and facilitate communication with factories
-
-#### alice51849 - [Github](https://github.com/alice51849)
-* :white_check_mark: [Lumi & Friends iOS App Finder](https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html): Find 29 listed iPhone/iPad Apps by purpose, privacy and payment method, covering learning, productivity, photos, travel and health, with direct access to App Store for each; supports Apple's official 50 localized regions
-
-#### Xiaoming - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Vibe Coding Atlas](https://vibecoding.aicake.io): Web version of the Chinese Independent Developer Project List, daily refresh of the Markdown list to generate a searchable and filterable static directory, and supplements public GitHub Stars - [GitHub Repository](https://github.com/xiaomingio/vibe-coding-atlas)
 
 #### Mil0R (Beijing) - [Github](https://github.com/Mil0R)
@@ -1554,50 +1634,52 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 #### Ethan - [Github](https://github.com/ethannelson2000)
 * :white_check_mark: [VioEvo](https://www.vioevo.com): AI creative studio, supports image generation, image to video and AI video creation, integrating multiple leading generative models
 
-#### hugh999999 - [Github](https://github.com/hugh999999)
-* :white_check_mark: [NFC Card Read/Write Tool](https://github.com/hugh999999/nfc_tool_share_key): NFC M1 card key scanning tool, dual platform support for WeChat mini program and Android APP, smart sector priority scanning, breakpoint resume scanning, multiple format export
+### Added on July 21, 2026
 
-#### ys-ll (Tianjin) - [Github](https://github.com/ys-ll)
-* :white_check_mark: [uniTerm](https://github.com/ys-ll/uniterm): Lightweight terminal tool, supports over 20 protocols such as SSH, RDP, VNC, SFTP, databases, built-in AI Agent that can execute autonomously - [Software Homepage](https://uniterm.net)
+#### cobola - [Github](https://github.com/cobola)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on July 19, 2026
+#### weidacn - [Github](https://github.com/weidacn)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### xiaoshangmin (Shenzhen) - [Github](https://github.com/xiaoshangmin)
-* :white_check_mark: [Next BConvert](https://nextbconvert.com/zh): 70+ free tools, supporting image, video, audio, PDF and text processing, runs locally in the browser, no upload, no account, no limits
+#### DevEloLin - [Github](https://github.com/DevEloLin)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Mr.Baoboer (Beijing) - [Github](https://github.com/MrBaoboer/)
-* :white_check_mark: [Fen Cun](https://github.com/MrBaoboer/FenCun): Lightweight and elegant "perfume decision" mini program, tells you which perfume is best to wear today according to real-time weather and attending occasions, and how to use it just right - [More intro](https://github.com/MrBaoboer/FenCun)
+#### alice51849 - [Github](https://github.com/alice51849)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### wfly - [Github](https://github.com/Miofly)
-* :white_check_mark: [wflynn Tool Station](https://tools.wflynn.cn/): Developer online toolset, providing common development auxiliary tools like JSON formatting, image processing, code conversion, etc.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### duzexu - [Github](https://github.com/duzexu)
-* :white_check_mark: [desktop-pet](https://github.com/duzexu/desktop-pet): Put your pet on your desktop — open source - [More intro](https://duzexu.github.io/desktop-pet/#home)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on July 18, 2026
+#### fatwang2 - [Github](https://github.com/fatwang2)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### wnma3mz - [Github](https://github.com/wnma3mz)
-* :white_check_mark: [Yuxin](https://wnma3mz.github.io/yuxin/): Real-time calculation of today's earnings, countdown to off-work and holidays, no account needed, runs offline and data is only saved locally
+#### Phaeris - [Github](https://github.com/PhaerisWakfu/OneTokenIsEnough)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Mao Di (Shanghai) - [Github](https://github.com/maundytime)
-* :white_check_mark: [Await (iOS)](https://apps.apple.com/cn/app/id6755678187): Widget workshop, you can DIY any widget - [More intro](https://awaitwidget.com)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Mr.Baoboer (Beijing) - [Github](https://github.com/MrBaoboer/)
-* :white_check_mark: [PayDance](https://paydance.vercel.app/): Lightweight and elegant "real-time salary" small software, dynamically calculates the income growth of every second based on the user's salary and commute time, visualizing the value of labor time - [More intro](https://github.com/MrBaoboer/PayDance)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
-* :white_check_mark: [Fullmira](https://fullmira.com/): One-stop AI creation platform, integrating multiple models like GPT, Claude, Gemini, completing text, image, video and audio generation in the same interface, built-in 100+ dedicated tools covering writing, image editing and video production
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Yana Li - [Github](https://github.com/woshiliyana)
-* :white_check_mark: [CreateFaceless](https://createfaceless.com/en): AI faceless YouTube Shorts one-click generation tool, automatically completes from script, visuals, voiceover, subtitles to cover and final cut, no editing experience required
-* :white_check_mark: [PawsLullaby](https://pawslullaby.com/en): AI pet memorial creation tool, turn pet stories and photos into exclusive memorial songs, memorial videos and letters that can continue to reply, can be saved privately or shared with relatives and friends
-* :white_check_mark: [Jung Room](https://www.jungroom.com): Not an AI chat that forgets after chatting, based on Jungian analytical psychology, starting from a dream, an emotion or a relationship confusion, precipitating recurring inner patterns into session notes and an ever-growing inner map controlled by the user
-
-#### EthanYoQ - [Github](https://github.com/EthanYoQ)
-* :white_check_mark: [AgentHive](https://github.com/EthanYoQ/AgentHive/releases/latest): Windows desktop AI roundtable workbench, throw business problems to configurable Product, Marketing, Opposition, Summary Agents to deduce in the same field, automatically output conclusions, risk points and hypotheses to be verified, used for decision stress testing and evidence organizing (default roles need to be installed and logged into Codex CLI / Claude Code CLI yourself) - [View Repository](https://github.com/EthanYoQ/AgentHive)
-
-#### Jerry - [Github](https://github.com/jerrycodelife)
-* :white_check_mark: [CraftVis AI Photo Editor](https://craftvis.com): AI image tool, use simple text to generate images, modify images, optimize product photos, make advertising materials and social media visual content
+#### aqua5230 - [Github](https://github.com/aqua5230)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### ctan0 (Chengdu)
 * :white_check_mark: [Kou Tailing Tool Station](https://www.ctan0.top/): Common tools bundled in one stop, continuously updating
@@ -1983,13 +2065,13 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 ### Added on June 30, 2026
 
 #### yeshimin (Wenzhou) - [Github](https://github.com/yeshimin)
-* :white_check_mark: [Cha Cha Notes](https://blog.yeshimin.com/2026/05/12/product-todo5/): Local workbench integrating notes, to-dos, schedule, tools and password management, searchable and installable from the macOS App Store desktop version
+### Added on July 9, 2026
 
-#### JDK9762 - [Github](https://github.com/JDK9762)
-* :white_check_mark: [VideoMonkey](https://videomonkey.cc): Local video toolbox running directly in the browser, supports compression, format conversion, audio extraction, no software installation required, local execution
+#### haibo.chen - [Github](https://github.com/duiniuluantanqin/MediaInsightHub/)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### hwlvipone - [Github](https://github.com/hwlvipone)
-* :white_check_mark: [Attachment Style Test](https://attachmentstyletest.app/): In-depth emotional attachment relationship test website
+#### JeremyGDM
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### yoga666996 - [Github](https://github.com/yoga666996)
 * :white_check_mark: [Seed Audio](https://seed-audio.org): AI voice generation and online music creation tool
@@ -2027,28 +2109,28 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [ClassGamify](https://classgamify.com): Teaching platform that turns classroom content into interactive learning games
 * :white_check_mark: [xtimer](https://xtimer.app): Remote timer for presentations, workshops, classrooms and live events
 * :white_check_mark: [Mobyform](https://mobyform.com): Online form building tool, supports surveys, workflows and response collection
+### Added on July 6, 2026
 
-#### aivideolab12 - [Github](https://github.com/aivideolab12)
-* :white_check_mark: [Seedance 2.5](https://aiseedance25.ai): Seedance 2.5 video generation model online experience, input text or images to generate high-quality AI videos
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### junwei000 - [Github](https://github.com/junwei000)
-* :white_check_mark: [aniv](https://aniv.ai): One-stop AI creation tool site, ready to use in the browser: AI text-to-image, AI text-to-video, video quality enhancement, subtitle synthesis
+#### SignalTo Team
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on June 24, 2026
+#### xianyu110 - [Github](https://github.com/xianyu110)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Daodao - [Github](https://github.com/sfss5362)
-* :white_check_mark: [Markclip](https://chromewebstore.google.com/detail/markclip-copy-any-part-of/hibnhmfncpddjendfainhipkbnblpdee): One-click copy any snippet of Claude replies as clean Markdown, preserving tables/code/formulas/mermaid completely
+#### xianyu110 - [Github](https://github.com/xianyu110)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Levine - [Github](https://github.com/Enivel)
-* :white_check_mark: [Kepo](https://kepo.ai): AI Mac desktop widget tool, turning web pages, RSS and social media updates into desktop widgets that can be summoned with one click
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### biboom (Guangzhou) - [Github](https://github.com/li150)
-* :white_check_mark: [X Comment Shield](https://www.cloxapps.com/x-comment-shield): Locally collect X post comments, identify risky comments and support batch blocking and reporting of single comments, etc.
+#### xianyu110 - [Github](https://github.com/xianyu110)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### jankarong - [Github](https://github.com/jankarong)
-* :white_check_mark: [Before After Photo Maker](https://beforeafterphotomaker.com/): Free online maker for before and after contrast photos, supports multiple layouts like side-by-side, slider, split, suitable for fitness, renovation, makeup and other scenarios
-
-### Added on June 23, 2026
+#### Felix - [Github](https://github.com/greek-zzf)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### Corey Chiu (Shenzhen) - [Github](https://github.com/iAmCorey)
 * :white_check_mark: [Show Me the Codes](https://showmethe.codes/): Link-in-bio product made for independent developers, Builders and one-person companies to showcase your products
@@ -2072,14 +2154,14 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 
 ### Added on June 21, 2026
 
-#### JaxonZhou - [Github](https://github.com/yuzhou6)
-* :white_check_mark: [CreateYourMusic AI](https://createyourmusic.ai): AI music generator, turn text descriptions, lyrics or verses into complete songs with vocals, melodies and arrangements, supports multi-style generation and MP3/WAV downloads
+### Added on July 5, 2026
 
-#### batecn (Beijing) - [Github](https://github.com/batecn)
-* :white_check_mark: [MacroAI](https://sowe.com/): Windows desktop macro automation tool, supports image recognition, OCR, interface change detection, Lua scripts and visual node orchestration, ad-free - [More intro](https://github.com/batecn/MacroAI)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on June 20, 2026
-
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+  
 #### asdf17128 - [Github](https://github.com/asdf17128)
 * :white_check_mark: [BiliTV](https://github.com/asdf17128/bili-webos): Open source Bilibili client for LG webOS TVs, remote control operation, supports bullet chats, anime and live broadcasts, pure local execution without proxy
 
@@ -2145,16 +2227,16 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 #### pang3fan-creator - [Github](https://github.com/pang3fan-creator)
 * :white_check_mark: [ExtractKeywords](https://extractkeywords.com): AI-driven keyword extraction tool, supports Chinese and English, free to use, no registration required, pure front-end implementation, privacy and security
 
-### Added on June 12, 2026
+### Added on June 26, 2026
 
-#### biboom (Guangzhou)
-* :white_check_mark: [Quick Jump - Select Anywhere](https://chromewebstore.google.com/detail/leximixer-%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC-%E9%9A%8F%E5%A4%84%E9%80%89%E4%B8%AD%EF%BC%8C%E5%8D%B3%E5%88%BB%E6%90%9C%E7%B4%A2/mddlokbokgdcfcdabimfhjmbplokgkif?hl=zh-CN&utm_source=ext_sidebar): Select any web text and send it with one click to tools like LexiMixer, Google, ChatGPT, etc.
+#### ethanjamescolez - [Github](https://github.com/ethanjamescolez)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### zxcHolmes - [Github](https://github.com/zxcHolmes)
-* :white_check_mark: [JustOpenFile](https://justopenfile.com/zh): Open any file in the browser, no installation or account required, supports dozens of formats like PDF, Word, Excel, ZIP, video, etc.
+#### azt1112
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Jimmy - [Github](https://github.com/jimmy0256)
-* :white_check_mark: [PhotoEditorAI](https://photoeditorai.online/): Online AI image editing tool, use one sentence to turn a picture into what you want, supports NanoBanano 2, GPT images 2 models, supports infinite canvas.
+#### tain082888
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ### Added on June 10, 2026
 
@@ -2166,21 +2248,21 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 
 #### xmm (Hangzhou) - [Github](https://github.com/xmm852003204)
 * :white_check_mark: [vocal range test](https://vocalrangetest.org): Visual music website, providing vocal range tests, pitch tests, musical ear tests, timbre tests, etc., a tool website with a musical atmosphere
+### Added on June 25, 2026
 
-#### yvonuk - [Twitter](https://x.com/mcwangcn)
-* :white_check_mark: [just talk english](https://talk.babel.town): Completely free real-time AI voice chat service, no login required, ad-free, can be interrupted anytime
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on June 9, 2026
+#### aivideolab12 - [Github](https://github.com/aivideolab12)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Narcooo - [Github](https://github.com/Narcooo)
-* :white_check_mark: [InkOS](https://github.com/Narcooo/inkos): AI content creation Agent, autonomously creating long and short novels, plays and text-based open worlds. Persistent state, memory, context management, continuously ensuring stability of characters, world and clues
+#### junwei000 - [Github](https://github.com/junwei000)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Yang Tingyi (Chengdu) - [Github](https://github.com/BND-1), [Blog](https://yangsir.net)
-* :white_check_mark: [SkillForge](https://skills.yangsir.net): Claude Skill discovery and distribution platform, organizing 5700+ skills covering 30 vertical domains by professional scenarios, install to Claude Code / Cursor with one line of command, log in to retain your own toolset
-* :white_check_mark: [LearnAgent Wiki](https://learnagent.wiki): AI Agent Chinese learning site, 4 independent wikis for Agent / MCP / Skills / CLI + unified search across 224 cards, providing a clean portal for those who really want to get hands-on, no selling courses or memberships
-* :white_check_mark: [HorseMD](https://horsemd.yangsir.net): Free and open source Typora alternative Markdown editor, fits an entire folder in a single window + tab switching + file tree + WYSIWYG, Windows / macOS dual platform MIT open source
-* :white_check_mark: [AI Daily](https://ai.daily.yangsir.net): AI daily news site, daily selected AI news (from personal collections + Karpathy recommended sources), Agent runs end-to-end fetching / summarizing / database insertion / publishing, full local pipeline requiring no human intervention
-* :white_check_mark: [PMTI](https://pmti.live): Product manager style mini test, a few questions inspired by MBTI / SBTI / CBTI to judge your PM style, free and no registration required, a lightweight tool for teams to align collaboration styles
 
 #### Chesten - [Github](https://github.com/Chesten223)
 * :white_check_mark: [Developer Tools Hub](https://devtools-site-cos.pages.dev): Collection of 35+ free online developer tools, including JSON→TypeScript conversion, CSS gradient generation, regex testing, Diff comparison, etc., no registration required, ready to use in the browser
@@ -2217,20 +2299,20 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 
 ### Added on June 5, 2026
 
-#### carl4carter - [Github](https://github.com/carl4carter)
-* :white_check_mark: [PropertyPhotoVideo](https://propertyphotovideo.com): Convert real estate photos into stunning videos
+### Added on June 22, 2026
 
-#### z1991817 - [Github](https://github.com/z1991817)
-* :white_check_mark: [moyuHot](https://moyuhot.com/): Hot search aggregation and news reading platform, supports real-time hot lists from Weibo, Zhihu, Bilibili, Douyin, GitHub Trending, V2EX, etc. - [GitHub Repository](https://github.com/z1991817/moyuhot)
+#### pandaupup - [Github](https://github.com/pandaupup)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### zeweihan - [Github](https://github.com/zeweihan)
-* :white_check_mark: [AI Workdeck](https://github.com/zeweihan/aiworkdeck): AI-native IDE workspace for legal and document-intensive workflows
+#### jankarong - [Github](https://github.com/jankarong)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### nanos (Hangzhou) - [Github](https://github.com/cabbagehao)
-* :white_check_mark: [Bear-type Romance Test](https://kumatype-shindan.xyz/): 20-question Japanese bear-type romance test, providing 16 results, compatibility comparisons and MBTI difference explanations.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Duxinglu - [Github](https://github.com/yzlee)
-* :white_check_mark: [Duxinglu](https://opcmenu.com): The "Yelp" and communication network for one-person companies, has collected thousands of One-Person Company (OPC) principals and their products, allowing browsing, discovery, reviewing and scoring, principals can also follow, private message, and team up with each other
 
 #### kbmjj123 
 * :white_check_mark: [BulkPicTools](https://bulkpictools.com): Free browser-based image batch processing tool, supports **toolchain concatenation** (compression→format conversion→cropping done at once, no repeated uploading), local AI background removal/face blurring (WebGPU, no API Key needed), supports batch processing of 200+ images, files are not uploaded to the server.
@@ -2260,29 +2342,29 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [YiceKit](https://yicekit.com/): AI tool navigation and online toolbox, organizes AI tools by scenarios such as writing, drawing, video, programming, office, marketing and SEO, and also provides ready-to-use mini tools like SEO title checker, Meta Description checker, Slug generator and robots.txt generator.
 
 #### bad-superman - [Github](https://github.com/bad-superman)
-* :white_check_mark: [Perler Bead Pattern Generator](https://pindou.amz-tools.xyz/): Upload an image and turn it into a perler bead pattern in seconds
+### Added on June 18, 2026
 
-#### Ahrisy - [Github](https://github.com/Ahrisya), [Blog](https://ahrisy.com/)
-* :white_check_mark: [Curlo](https://curlo.ahrisy.com): Purely local AI-driven Mac audio management and search App, supports semantic search, similar audio search, metadata search and editing, UCS categorization and tagging, and local API
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on June 2, 2026
+#### lilyli-crypto - [Github](https://github.com/lilyli-crypto)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### ch3coohlink - [Github](https://github.com/ch3coohlink)
-* :white_check_mark: [ch3 music editor](https://ch3graph.com): Text-driven music editor focusing on interactive experience
+#### Harries - [Github](https://github.com/Harries)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on June 1, 2026
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Daodao - [Github](https://github.com/sfss5362)
-* :white_check_mark: [DropLink Portal](https://idroplink.com/): Select a file and turn it into a link in seconds, recipient can download in any browser with zero installation
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### lumian2015 - [Github](https://github.com/lumian2015)
-* :white_check_mark: [PaperCheck](https://aiturnitinchecker.com): Pre-submission self-check tool for papers, provides Turnitin plagiarism check + AI writing detection report, helping students find problems before formal submission
-* :white_check_mark: [AIFlowMusic](https://aiflowmusic.com): AI music generation website
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### mertenhindsman-source - [Github](https://github.com/mertenhindsman-source)
-* :white_check_mark: [mbti types](https://www.typesmbti.com/): 16 personality types free test, cognitive function details, type comparison analysis
-
-### Added on May 30, 2026
+#### gg896877825-star - [Github](https://github.com/gg896877825-star)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### Jankaaa Rong - [Github](https://github.com/jankarong)
 * :white_check_mark: [RoomDecorFinds](https://roomdecorfinds.com/): Home decor reference and room planning website, providing style guides, color scheme references, room inspiration and practical measurement/layout tools
@@ -2307,18 +2389,18 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 #### tonik (Hangzhou)
 * :white_check_mark: [Zilivo AI](https://zilivo.io): AI image and video creation platform
 
-### Added on May 28, 2026
+### Added on June 16, 2026
 
-#### nanobanana-co - [Github](https://github.com/nanobanana-co)
-* :white_check_mark: [banana video](https://bananavideo.ai/zh): AI video and image generation platform, integrating Veo 3.1, Nano Banana 2, GPT Image 2 and Seedance 2.0 models, supporting the full creation workflow from text-to-image, image editing to cinematic video generation
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### yvonuk - [Twitter](https://x.com/mcwangcn)
-* :white_check_mark: [babel.town](https://babel.town): Public chat room where other users' speeches are automatically translated into your language, achieving barrier-free communication
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### benny (Foshan)
-* :white_check_mark: [htmltourl](https://htmltourl.com/): Quick launch tool specially designed for AI programming, paste HTML code to generate an online access link with one click
-
-#### vampirewy - [Github](https://github.com/vampirewy)
+#### Tom - [GitHub](https://github.com/ykphdzz)
+* :white_check_mark: [TarotYet](https://tarotyet.com/): Free AI tarot card divination platform. Provides situationally aware Yes/No tarot readings and deep love tarot readings to help make clear, actionable decisions
+#### Vin - [Github](https://github.com/vinxu)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 * :white_check_mark: [Launchumo](https://launchumo.com/): Navigation site focusing on AI SaaS products from independent developers, helping users quickly discover practical AI tools, and helping AI SaaS entrepreneurs and independent developers gain more exposure, letting users find new AI products worth trying without sifting through cluttered information through a clearer and more focused product collection method.
 
 #### zhugezifang - [Github](https://github.com/zhugezifang)
@@ -2353,17 +2435,17 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 ### Added on May 23, 2026
 
 #### HaMuh - [GitHub](https://github.com/HarryMuh)
-* :white_check_mark: [Gemini Omni](https://omni-gemini.ai/): AI video generation tool, supports text/image/conversation to generate 4K cinematic short videos with native synchronous sound effects, provides multimodal references, character consistency locking and conversational editing
+### Added on June 12, 2026
 
-### Added on May 22, 2026
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### asui (Quanzhou) - [Github](https://github.com/xingxingc),
-* :white_check_mark: [Random Avatar](https://appgallery.huawei.com/app/detail?id=com.xing.suijitouxiang): HarmonyOS App, supports HarmonyOS 5.0 and above, one-click generation of various goofy avatars, supports downloading
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### morvanzhou
-* :white_check_mark: [MeTool](https://metool.online): Pure front-end online toolbox, 86+ tools covering six major categories including images, video, 3D, documents, and development, fully processed locally in the browser, files are not uploaded, no registration required
+#### Jimmy - [Github](https://github.com/jimmy0256)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### SnowPeakMa - [GitHub](https://github.com/SnowPeakMa)
 * :white_check_mark: [isCompress](https://www.iscompress.com/): Privacy-secure online image compression tool, processed completely locally in the browser, supports batch compression and ZIP packaged downloads
 
 ### Added on May 20, 2026
@@ -2525,26 +2607,26 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 
 ### Added on May 3, 2026
 
+### Added on May 28, 2026
+
 #### nanobanana-co - [Github](https://github.com/nanobanana-co)
-* :white_check_mark: [GPT Image 2](https://gptimg2.io/zh): A one-stop image generation and editing tool powered by OpenAI's most advanced image models.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### ScanRead Team
-* :white_check_mark: [ScanRead.ai](https://scanread.ai): OCR text extraction tool, supports 100+ languages, can extract text from images, PDFs, screenshots, and handwritten documents.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### my19940202(Shanghai) - [Github](https://github.com/my19940202)
-* :white_check_mark: [aihaibao-AI Poster](https://aihaibao.org/): Posters for small shops can also look high-end! No need to cut out shop main images and detail long images one by one: upload real shots + selling points, generate multiple sets of listing images with one click; want to align with competing products? Paste the link to replicate the style, batch generate the same tone materials in minutes.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on April 30, 2026
-
-#### weird94 - [Github](https://github.com/weird94)
-* :white_check_mark: [Scrapilot](https://scrapilot.cc): AI crawler plugin, zero-code collection of arbitrary web page data, running in real browsers, naturally anti-crawling, supporting scheduled automated workflows.
+#### vampirewy - [Github](https://github.com/vampirewy)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### zhugezifang - [Github](https://github.com/zhugezifang)
-* :white_check_mark: [Xiaohongshu Image, Video, Live Photo Download - Watermark-free Free Download](https://rednote-downloader.online/zh): Xiaohongshu video download tool, supports downloading videos and images, keeps original image quality, no watermark, no installation required.
-* :white_check_mark: [Xiaohongshu Watermark-free Video Downloader](https://www.xhs-download.org/zh): Xiaohongshu watermark-free video downloader, can save Xiaohongshu videos, high-quality watermark-free, no registration required, suitable for all devices.
-* :white_check_mark: [Xiaohongshu Watermark Removal Tool - Free Download Watermark-free Xiaohongshu Videos and Images](https://rednotevideodownload.org/zh): Xiaohongshu watermark removal downloader, one-click watermark removal for downloading videos and images, keeps high-definition image quality, no registration required.
+* :white_check_mark: [notepad link](https://notepadlink.online/): Notepad, supports creating text and sharing through links and QR codes
 
-#### yvonuk - [Twitter](https://x.com/mcwangcn)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 * :white_check_mark: [Moono AI Helps You Write Songs](https://music.stockai.trade): AI music generator.
 
 ### Added on April 28, 2026
@@ -2564,14 +2646,14 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 #### jankarong - [Github](https://github.com/jankarong)
 * :white_check_mark: [Create Fillable PDFs](https://createfillablepdfs.com/): PDF form generator, supports starting from scratch or uploading existing PDFs, adding interactive text boxes, checkboxes, and signatures, and creating fillable PDF documents through drag-and-drop fields and customized properties.
 
-#### tancky - [Github](https://github.com/tancky777)
-* :white_check_mark: [GPT Image 2](https://gptimg-2.org/): AI image generation website, enter scene descriptions, select results, and turn daily ideas into real pictures, product photos, posters, avatars, ad images, and social media illustrations.
+### Added on May 26, 2026
 
-#### dexterdeng - [Github](https://github.com/dexterdeng)
-* :white_check_mark: [WithoutAD](https://withoutad.com/?locale=zh-CN): A learning and puzzle game platform for children, helping children master knowledge through gamification, covering learning tools such as vocabulary memorization, idiom solitaire, mental arithmetic practice, function curves, make 24, as well as classic puzzle games like Sudoku, Sokoban, and Tetris. The whole site is ad-free and without paywalls.
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### lumian2015 - [Github](https://github.com/lumian2015)
-* :white_check_mark: [GPT Image 2](https://gptimage2.design): AI image generator, supports text-to-image, image-to-image, 4K images, in-image text generation, and a Prompt example library, suitable for creating product images, posters, ad images, and social media illustrations.
+####ysykzheng(Wuhan)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### daxia-dong - [Github](https://github.com/daxia-dong)
 * :white_check_mark: [SENTHUB](https://senthub.vercel.app): Markdown to PDF tool, pure frontend, no upload required, supports real-time editing and preview, native Chinese typesetting, one-click PDF export, dark mode, open source and free.
@@ -2644,25 +2726,25 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [LoRA AI](https://loraai.me): Create amazing AI images in seconds
 * :white_check_mark: [aighostface.org](https://aighostface.org/): Ghostface AI generator, turns photos into 90s horror style
 
-#### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
-* :white_check_mark: [Destiny Matrix](https://destinymatrix.ai): Generate destiny matrix charts and use AI to interpret the results
+### Added on May 17, 2026
 
-#### bytevirts - [Github](https://github.com/bytevirts)
-* :white_check_mark: [Nano Banana Free](https://nanobananafree.org): Image editing and video generation workbench, supports product image retouching, portrait retouching, background replacement, and video generation, and integrates multiple AI tools into one workflow.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### futurearrived - [Github](https://github.com/futurearrived)
-* :white_check_mark: [Nano Banana Labs](https://nanobananalabs.io): AI old photo restoration and image enhancement tool, upload old photos or low-resolution images, automatically repair scratches, restore clarity, support portrait enhancement and color optimization, no registration required to use.
+#### jankarong - [Github](https://github.com/jankarong)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on April 18, 2026
+#### xueboyang1985 - [Github](https://github.com/xueboyang1985)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### erickkkyt - [Github](https://github.com/erickkkyt)
-* :white_check_mark: [GPTIMG2 AI](https://gptimg2.ai): AI image and video generation platform oriented towards real creative processes, supporting product visuals, poster materials, in-image text generation, reference image revision, and extending from static images to video workflows.
+#### peter - [Github](https://github.com/peter1234503)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on April 17, 2026
-
-#### null-object-0000 (Shanghai) - [Github](https://github.com/null-object-0000/ai-clash)
-* :white_check_mark: [AI Collider](https://null-object-0000.github.io/ai-clash/): Large model on-screen competition Chrome extension, built-in referee automatically summarizes the ultimate answer.
 
 #### zongguowu - [Github](https://github.com/zongguowu)
 * :white_check_mark: [Wan AI](https://wanai.dev/): AI video generator that can convert text or images into videos
@@ -2873,31 +2955,31 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 
 ### Added on April 1, 2026
 
-#### kristoff
-* :white_check_mark: [IndieAI Directory](https://indieai.directory/): Collects AI Saas from independent developers.
+### Added on April 22, 2026
 
-#### qqxufo - [Github](https://github.com/qqxufo)
-* :white_check_mark: [Image To 3D](https://imageto3d.cc/?source=github): Convert images to 3D models.
+#### Qiuner - [Github](https://github.com/Qiuner)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on March 31, 2026
+#### bytevirts - [Github](https://github.com/bytevirts)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### vampirewy - [Github](https://github.com/vampirewy)
-* :white_check_mark: [AI Family Photo Generator](https://aifamilyphotogenerator.org): Online tool to create realistic family photos and family portraits from individual photos. Upload individual photos of family members or describe your desired portrait, and the tool will generate a natural family image that can be downloaded, shared, printed, or saved.
+#### weipengfei
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### luzedong - [Github](https://github.com/luzedong)
-* :white_check_mark: [Anycoding](https://github.com/luzedong/anycoding): CLI-First AI programming workbench, unifying Claude Code, Codex, Cursor, Gemini, OpenCode, and other CLIs into a desktop/Web interface, completing multi-session development with fewer switches.
+#### fishisnow - [Github](https://github.com/fishisnow)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [Stock Scope](https://invest.fishisnow.xyz/): In one platform, quickly see investment opportunities, market breadth, and today’s strong list.
 
-#### jacobmillerv - [Github](https://github.com/jacobmillerv)
-* :white_check_mark: [Mee Manga Translator](https://mangatranslator.me/): AI-based manga translation tool, supports one-click translation of Japanese manga, Korean manga, and other images into the target language, and automatically retains the original layout and bubble positions, achieving a natural, highly readable manga translation experience.
+#### kiddyu - [Github](https://github.com/kiddyuchina)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Shiji(Shanghai) - [Github](https://github.com/Albert-Weasker)
-* :white_check_mark: [DevIntro 2.0](https://www.intent-leads.com): Find the first 1,000 high-intent users within 72 hours, use real signals to complete cold starts.
-
-#### azt1112 - [Github](https://github.com/azt1112)
-* :white_check_mark: [Nano Banana 2 Pro](https://nanobananapro2.pro/): Professional AI image editor with flawless text rendering capabilities, edits and enhances images using perfect typography, native 4K resolution, and 100+ language support.
-
-#### daipeng - [Github](https://github.com/daipeng)
-* :white_check_mark: [MarkdownToWord.pro](https://markdowntoword.pro): Online Markdown to Word/PDF/HTML tool, supports LaTeX formulas, Mermaid charts, GFM syntax, processed locally in the browser, no registration required.
 * :white_check_mark: [MarkdownConverter.pro](https://markdownconverter.pro): Two-way Markdown document format conversion tool, supports Markdown to PDF/Word/HTML conversion, built-in LaTeX rendering and code highlighting, supports batch processing and API calls.
 
 ### Added on March 30, 2026
@@ -3026,23 +3108,23 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [WMHub](https://wmhub.io/): All-in-one AI creation workspace, supporting video, image, and 3D generation, helping teams produce high-quality media assets faster.
 
 #### Ajian(Hangzhou) - [Github](https://github.com/hugh2nd), [Blog](https://parseword.net/blog)
-* :white_check_mark: [Parseword](https://parseword.net): Aggregates multiple classic daily word puzzles.
+### Added on April 12, 2026
 
-#### damotiansheng(Guangzhou) - [Github](https://github.com/damotiansheng)
-* :white_check_mark: [Deep Nostalgia AI](https://deep-nostalgia-ai.com/): With the help of AI photo animation, transform family photos into fascinating animated videos, a website that breathes life into precious memories.
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [Before After Photo Maker](https://beforeafterphotomaker.site/): Before and after comparison pictures, videos, GIF animation production, supports a variety of comparison layouts (side-by-side display, interactive slider comparison, split view, vertical stacking)
 
-#### newbe36524(Fujian) - [Github](https://github.com/newbe36524)
-* :white_check_mark: [Hagicode](https://hagicode.com/): Redefine the AI coding experience with OpenSpec workflow, multi-Agent multi-instance parallelism, and Hero Dungeon gamification.
+#### garfi99 - [Github](https://github.com/garfi99)
+* :white_check_mark: [名](https://nomai.data-ext.com): A website that uses AI to pick good names to find unique and easy-to-brand names.
 
-#### Woshi Ouyang
-* :white_check_mark: [Astrocartography Tool](https://astrocarto.net): After users input their birth date, birth time, and birth location, it can directly generate a global astrocartography map, projecting the AS / DS / MC / IC lines of different planets onto the world map, used to compare which cities are more suitable for living, working, traveling, short stays, or making life stage choices. I made this project mainly because existing similar tools are not very friendly to ordinary users: either the interface is relatively old, or they only give a map without explaining the results, making it difficult for first-time users to truly use them. So this version emphasizes "ready to use" and "lowering the understanding threshold".
-* :white_check_mark: [Image to Video AI](https://imagetovideoai.pro/): AI tool to generate video from static images.
+#### kerryhank - [Github](https://github.com/kerryhank)
+* :white_check_mark: [KK Investing](https://kkinvesting.io): A multi-language cryptocurrency education platform that provides exchange registration tutorials, crypto card reviews, and DeFi lending guides
 
-#### yvonuk - [Twitter](https://x.com/mcwangcn)
-* :white_check_mark: [Markdown to PDF Bot](https://mdpdf.xyz): Telegram bot that can render Markdown messages containing tables/formulas into PDF, which is very useful for friends playing OpenClaw in Telegram.
+#### bytevirts - [Github](https://github.com/bytevirts)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### hwlvipone - [Github](https://github.com/hwlvipone)
-* :white_check_mark: [Kling Motion Control](https://kling-motion-control.com/): AI Motion Transfer with Kling 3.0
+#### vorojar - [Github](https://github.com/vorojar)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 
 #### my19940202(Shanghai) - [Github](https://github.com/my19940202)
 * :white_check_mark: [macLaunchpads macOS 26's Best Launchpad Alternative](https://maclaunchpad.aizeten.me/): Not used to the macOS 26 launchpad redesign? Then directly visit maclaunchpad.aizeten.me to return to the original feeling.
@@ -3182,26 +3264,26 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [NewTool.site](https://newtool.site/): AI-driven tool navigation site and inclusion platform, helping startup tools increase DR and be seen - [More Introduction](https://newtool.site/about)
 
 ### Added on February 24, 2026
-#### mickey(Hangzhou) - [github](https://github.com/mymickey/kidblocker)
-* :white_check_mark: [KidBlocker](https://kidblocker.com): My child spends too much time watching YouTube, so I wanted to find a browser extension to block it. I didn't find a satisfactory one on the Chrome Web Store, so I made one myself—sharing it here to see if it can help others.
+### Added on March 31, 2026
 
-### Added on February 23, 2026
-#### jjleng(USA) - [Github](https://github.com/jjleng)
-* :white_check_mark: [Gliss](https://gliss.pro): AI Music Agent for song generation, cover singing, MIDI editing, mastering, and cover art; can generate royalty-free vocals and accompaniment, and supports precise track separation/element extraction.
+#### vampirewy - [Github](https://github.com/vampirewy)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### my19940202(Shanghai) - [Github](https://github.com/my19940202)
-* :white_check_mark: [Download Pilot - Auto-organize Download + Smart Naming Plugin](https://www.downloadpilot.top/zh): Chrome extension: Automatically organizes downloads into folders by file type, and supports turning garbled/hash filenames into readable names based on webpage context, making the download folder tidy, easy to find, and searchable.
+#### luzedong - [Github](https://github.com/luzedong)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
+#### jacobmillerv - [Github](https://github.com/jacobmillerv)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on February 21, 2026
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Remember(HangZhou) - [Github](https://github.com/wuqinqiang)
-* :white_check_mark: [Reloop - AI transcribe English, Japanese, Korean, French, German, etc. (iOS)](https://apps.apple.com/cn/app/reloop-ai%E8%BD%AC%E5%BD%95%E4%B8%8E%E9%87%8D%E5%A4%8D/id6752853818): Multilingual listening App, supports importing Podcast and YouTube links, providing bilingual subtitles, shadowing practice, and in-depth analysis of sentence structures. Supports synthesizing text materials into audio listening materials, and users can also quickly import relevant YouTube videos using natural language descriptions.
+#### azt1112 - [Github](https://github.com/azt1112)
+* :white_check_mark: [Nano Banana 2 Pro](https://nanobananapro2.pro/): Professional AI image editor with flawless text rendering, edit and enhance images with perfect typography, native 4K resolution and 100+ language support
 
-### Added on February 20, 2026
-
-#### HuzefaUsama25 - [Github](https://github.com/HuzefaUsama25)
-* :x: [FaceFinder](https://facefinder.id/): AI facial search and reverse image search tool
+#### daipeng - [Github](https://github.com/daipeng)
+* :white_check_mark: [MarkdownToWord.pro](https://markdowntoword.pro): Markdown to Word/PDF/HTML tool, supports LaTeX formulas, Mermaid charts, GFM syntax, browser local processing, no registration required
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### nanobanana-co - [Github](https://github.com/nanobanana-co)
 * :white_check_mark: [Seadance AI](https://seadanceai.net): Video and image generation platform (powered by Seedance 2.0), integrating the world's leading AI models into a unified workflow, generating cinematic 1080p videos (with synchronized audio), optimizing frames frame by frame with director-level editing, and creating high-fidelity images through a single credit system designed specifically for creators, marketers, and agencies.
@@ -3493,16 +3575,16 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [Floaty](https://www.floatytool.com/): A tool to keep any window on top in macOS
 
 #### amierhan - [Github](https://github.com/amierhan)
-* :x: [banana-pro.com](https://banana-pro.com/): Banana Pro AI image and video creation platform. Integrates Nano Banana Pro, Nano Banana and Sora2 models. It efficiently generates high-resolution images (up to 4K) and smooth videos while delivering intelligent cue optimization, character consistency, contextual understanding of complex scenes, and more
+### Added on February 25, 2026
 
-#### huashengjieguo
-* :white_check_mark: [Free online hardware testing platform](https://volumeshader.org/zh): GPU test, screen test, FPS test, network test, camera test, sound test, mouse test, keyboard test
+#### elng12(Liuzhou)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-* :white_check_mark: [Did you remember today](https://flingyp.online/posts/%E4%BB%8A%E5%A4%A9%E8%AE%B0%E4%BA%86%E4%B9%88.html): WeChat applet for daily recording of check-in goals. Use science to check in and turn self-discipline into a simple daily routine
-* :white_check_mark: [Did you remember today](https://flingyp.online/posts/%E4%BB%8A%E5%A4%A9%E8%AE%B0%E4%BA%86%E4%B9%88.html): WeChat applet for daily recording of check-in goals. Use science to check in and turn self-discipline into a simple daily routine
+#### Reake(Shanghai)
+* :white_check_mark: [SVGView](https://svgview.com/?utm_source=github): SVG viewing, compression, format conversion tool, the entire process is processed locally by the browser, and no files are uploaded
 
-#### lucen
-* :white_check_mark: [online-timer](https://icebreaker-games.org/online-timer): Online meeting timer to keep your stand-ups, seminars and speeches efficient and on time.
+#### Cyan(北京) - [Github](https://github.com/ShaodongDev)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### SoftRoyals
 ### Added on November 23, 2025
@@ -3826,22 +3908,24 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 #### anywhereto(beijing) - [Github](https://github.com/anywhereto)
 * :white_check_mark: [banana nana ai](https://bananananoai.net/): AI picture tool, AI face changing, AI background clearing, AI y2k style portrait
 
-* :white_check_mark: [Image to Pixel Art](https://pixelartvillage.org/): Image to Pixel Art Converter – Convert PNG or JPG images to pixel art with instant preview and palette control, and image to pixel conversion helps me generate images like
-* :white_check_mark: [Image to Pixel Art](https://pixelartvillage.org/): Image to Pixel Art Converter – Convert PNG or JPG images to pixel art with instant preview and palette control, and image to pixel conversion helps me generate images like
+### Added on November 25, 2025
+#### fayecat - [Github](https://github.com/fayecat)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
-* :white_check_mark: [PDFLance](https://www.pdflance.com): PDF toolset, all run locally in the browser. Your files will not be uploaded elsewhere. Merge, split, edit, convert PDF for free, we value your privacy
+#### amierhan - [Github](https://github.com/amierhan)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on September 27, 2025
-#### PopcornBoom(深圳) - [Github](https://github.com/POPCORNBOOM), [Bilibili](https://space.bilibili.com/271218438)
-* :white_check_mark: [EZHolo](https://github.com/POPCORNBOOM/EZHolodotNet/releases/latest): Easily create hand-drawn or machine-printed scratch holographic paths from photos and other flat images - [more introduction](https://github.com/POPCORNBOOM/EZHolodotNet)
+#### huashengjieguo
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Xiami - [Blog](https://blog.2pp.link)
-* :white_check_mark: [opus to mp3](https://opustomp3.online): Free online music format conversion website. Supporting multiple languages ​​around the world, free to use, no need to register, no need to download APP, convenient and fast is our slogan. Designed for converting opus format to mp3 so that everyone can hear the sound
+#### flingyp(Shanghai) - [Github](https://github.com/flingyp)
+* :white_check_mark: [Did you remember today](https://flingyp.online/posts/%E4%BB%8A%E5%A4%A9%E8%AE%B0%E4%BA%86%E4%B9%88.html): WeChat applet for daily recording of check-in goals. Use science to check in and turn self-discipline into a simple daily routine
 
-### Added on September 26, 2025
-#### Pipika
-- :white_check_mark: [Watermarkzero](https://watermarkzero.com/): AI removes image watermarks for free. Erase unwanted watermarks, text or logos from your photos. Rather than just smearing or blurring the watermark, it intelligently reconstructs the background behind the watermark. The result is a perfectly clean, natural photo, as if the watermark never existed
+#### lucen
+* :white_check_mark: [online-timer](https://icebreaker-games.org/online-timer): Meeting timer to keep your stand-ups, seminars and speeches efficient and on time.
+
+#### SoftRoyals
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### yvonuk - [Twitter](https://x.com/mcwangcn)
 - :white_check_mark: [Free AI for Everyone](https://free.stockai.trade): No login required, completely free AI (models include Grok 4 Fast, DeepSeek V3.1, etc.). The available models may be adjusted in the future, but this service will be available long-term and is completely free
@@ -3861,18 +3945,18 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [Color Blindness Test](https://color-blindness-test.com): Test whether you are color blind
 
 #### BOS1980 - [Github](https://github.com/BOS1980)
-* :white_check_mark: [GPU performance testing tool](https://www.volumeshader.dev/): Check graphics card performance. Test and evaluate the 3D rendering performance of your computer's graphics card (GPU). Target users: People who want to understand the 3D rendering capabilities of their computer graphics cards, compare the performance of different devices, or developers who need to test the WebGL rendering effect
+### Added on November 20, 2025
+#### zhugezifang
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### iam-tin - [Github](https://github.com/iam-tin)
-* :white_check_mark: [White Pic - White background picture](https://whitepic.online): Download any resolution white background picture
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [Word to Time Calculator](https://wordtotime.org): A small tool to quickly calculate reading, speech, and reporting time based on the number of words in the manuscript.
 
-### Added on September 23, 2025
-#### Sean(Chengdu)
-* :white_check_mark: [Mushroom Identification](https://mushroomidentification.online): Mushroom AI identification tool (fast, accurate), the results include warnings about toxicity and high-risk similar species
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [Yule Spring City Post](https://www.springcitypost.cn): Real mailbox agent, easily manage your mail - [More Introduction](https://www.springcitypost.cn/zh-CN/qna)
 
-### Added on September 22, 2025
-#### Radish (Nanchang)
-* :white_check_mark: [WheelPage - Online Wheel](https://wheelpage.com/zh/): Online wheel, supports lottery, games and quick decision-making (simple and easy to use)
+#### JL
+* :white_check_mark: [Compare Two Word](https://compare2word.com/): Word document online comparison tool, supports Word, Excel, PDF, PPT, TXT, making document comparison simple and safe
 
 #### Horace - [Github](https://github.com/lianhr12)
 * :white_check_mark: [SmartCV](https://smartcv.cc): AI intelligent resume production platform, providing resume templates, AI optimization suggestions, multiple format exports and other functions
@@ -4076,33 +4160,33 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 
 ### Added on August 22, 2025
 ####monsoonw(Hangzhou)
-* :white_check_mark: [Free Qwen Image Edit AI](https://qwen-image.co)：Qwen Image Edit website. Advanced AI image editing and perfect text rendering, perfectly supporting Chinese and English text rendering.
+### Added on October 20, 2025
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on August 21, 2025
-####kajian(Guangzhou)
-* :white_check_mark: [codebox-Interesting QR code platform](https://www.codebox.club): Super cute free QR code generator, every QR code has a story
+#### zhugezifang
+* :white_check_mark: [Online Notepad – Free online text editor and note sharing](https://onlinenotepad101.org/): Notepad for distraction-free writing, note-taking and text editing. Free, no registration required, share notes with others
 
-#### Lin Yueji (Hangzhou)
-* :white_check_mark: [Chat Recap AI](https://chatrecap.io)：揭示你對話中隱藏的模式、情緒與紅旗，讓你真正理解你的關係
+#### Aris(USA) - [Github](https://github.com/AriesApp)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### BOS1980
-* :white_check_mark: [Soulmate Sketch｜AI Soulmate Sketch (Astrology Portrait Generation)](https://soulmatedrawing.live): Use AI + astrology to generate your exclusive black and white hand-drawn style "Soulmate Portrait"; 10-20 seconds extremely fast rendering, multi-language website, mobile-friendly
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [AI Detector](https://gptdetect.ai/): Check whether your text is generated by AI
+* :x: [Image to Image](https://imagetoimage.app/)： AI picture editing
+* :white_check_mark: [Image Describer](https://imagedescriber.cc/): Use AI to generate intelligent descriptions for images
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### nogeek (Hangzhou)
-* :white_check_mark: [Startup to Startup](https://startuptostartup.com): Free publishing site & directory site
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [SyncTunnel](nnpyro.fwh.is): Cross-platform efficient file synchronization and remote management software
 
-#### Lingglee - [Github](https://github.com/lingglee)
-* :white_check_mark: [Avif2Png](https://avif2png.com/)：Avif to PNG tool station
+#### Ting
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :x: [nano banana](https://nano-banana.pro/)：AI driven image editor
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [ai review generator](https://reviewgenerator.org/): AI tool for generating product reviews
 
-#### Honwhy Wang - [Github](https://github.com/honwhy)
-* :white_check_mark: [Public account reading enhancer](https://wxreader.honwhy.wang/): Makes the reading experience of WeChat public accounts more comfortable, automatically generates article directories, optimizes picture viewing, so that long articles are no longer lost, and improves browsing experience - [More introduction](https://github.com/honwhy/WeChatReaderEnhancer)
-
-### Added on August 19, 2025
-#### Panda (Shenzhen)
-* :white_check_mark: [Salary Dance](https://money-dance.com/): A WeChat applet that records work and fishing. It can display the income and progress of the day in real time. It can record and count how much money was earned in how many minutes of fishing, as well as data statistics and visualization in various dimensions.
-
-#### tanchaowen84 (Shenzhen) - [Github](https://github.com/tanchaowen84)
-* :white_check_mark: [Voice Clone - AI-driven voice cloning platform](https://voice-clone.org): Users only need to record or upload a piece of audio, and the system can generate a user's own voice model in a few seconds. Supports speech generation for any text, sounds natural and smooth, almost close to real human speech. The entire process does not require complicated equipment or technical background, and truly achieves "training your own voice with a few words" - [GitHub repository](https://github.com/tanchaowen84/voice-clone)
+#### Ethan Sunray
+* :white_check_mark: [Sora Watermark Adder](https://sorawatermarkadder.org): Add professional Sora AI same watermark to videos, completed locally in the browser, no need to upload, protect your privacy, free to use forever
 
 ### Added on August 17, 2025
 #### xibobo(Shanghai) - [Github](https://github.com/my19940202)
@@ -4194,16 +4278,16 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [FreeConvert](https://www.freeconvert.cc/): Provides image format conversion, supporting formats like HEIC, HEIF, PNG, JPG, PDF, etc.
 
 ### Added on July 28, 2025
-#### sk(Guangzhou)
-* :white_check_mark: [AIColoringPages](https://ai-coloring-pages.art): Provides various types of coloring pages. Supports bookmarking and PDF downloads. All pages are AI-generated and updated daily. Future plans include allowing users to generate their own coloring pages with AI.
+### Added on October 4, 2025
+* :white_check_mark: [Teleprompter](https://teleprompteronline.org): Teleprompter for video creators, speakers and educators
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### minutes
-* :white_check_mark: [Runway Aleph](https://runwayaleph.net/): A new way to edit videos. Runway Aleph is an AI video editing platform that transforms video content through simple text prompts. Users can add/remove objects, generate new perspectives, apply style transfers, and adjust lighting to easily achieve professional-level results.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [sora2ai.ai](https://sora2ai.ai): The latest AI video generation model. Create realistic and physically accurate videos with synchronized audio, dialogue, and effects.
 
-#### Brice(Nanjing)
-* :x: [kawaii coloring](https://kawaiicoloring.org/): Provides cute line art, continuously updated.
+#### fanison(Beijing)
+* :white_check_mark: [NanoImg](https://nanoimg.net/): AI image engine based on Nano Banana, bringing a simple and efficient image editing experience. Upload images, enter your requirements, and instantly generate the visual effects you want.
 
-#### nogeek(Nanjing)
 * :white_check_mark: [Days Launch](https://dayslaunch.com/): Build daily, launch daily. A launch and directory site where developers can freely publish their works for user acquisition and promotion.
 
 #### Shanshi(Wuhan) - [Github](https://github.com/Shanshi66)
@@ -4272,13 +4356,13 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 #### Q.Jin - [Github](https://github.com/qijin-3)
 * :x: [Haoyou Links Digital Business Card](https://links.haoyou.tech): A digital business card tool supporting multi-identity management and Chinese password sharing. Helps you create independent cards for each social identity, binding different accounts, content cards, and contacts. Share different versions of yourself in different situations, so people can quickly understand you without repetitive introductions. Supports WeChat sharing and Chinese password binding for fun, lightweight searching. - [Mini Program QR Code](https://links.haoyou.tech/Drawing_bed/Slide_16_9_-_25.png)
 
-#### Hnher(Zhengzhou) - [Blog](https://www.hnher.com)
-* :white_check_mark: [Member Times Card](https://emember.hnher.com): Membership times card management system.
-* :white_check_mark: [Huyou Xia](https://egame.hnher.com): Game card collection album.
+### Added on September 22, 2025
+* :white_check_mark: [WheelPage - Online Wheel](https://wheelpage.com/zh/): Wheel, supports lottery, games and quick decision-making (simple and easy to use)
+* :white_check_mark: [WheelPage - Online Wheel](https://wheelpage.com/zh/): Wheel, supports lottery, games and quick decision-making (simple and easy to use)
 
-### Added on July 18, 2025
-#### fx(Shenzhen) - [Github](https://github.com/limxfx)
-* :white_check_mark: [ContactHelper](https://apps.apple.com/us/app/contacthelper/id6738916060): Edit contact properties to support T9 dialing on iPhone and sorting in non-Chinese systems.
+#### Horace - [Github](https://github.com/lianhr12)
+* :white_check_mark: [SmartCV](https://smartcv.cc): AI intelligent resume production platform, providing resume templates, AI optimization suggestions, multiple format exports and other functions
+
 * :white_check_mark: [Gone & Left](https://apps.apple.com/us/app/gone-left/id6744050306): Time visualization. Feel the passage of every moment. Supports iPhone widgets.
 
 ### Added on July 17, 2025
@@ -4407,13 +4491,13 @@ You can also use an eMoji to represent and record your mood at the moment. Later
 * :white_check_mark: [AI Dog Olympics Generator](https://www.dogolympics.net/): Create unique, viral animal Olympics AI videos.
 
 ### Added on June 27, 2025
-#### toby(Nanjing)
-* :white_check_mark: [FantasyGen](https://fantasygen.net/): AI generation of fantasy maps and characters.
+### Added on September 4, 2025
+#### AprDeci - [Github](https://github.com/AprDeci)
+* :white_check_mark: [OnePractice](https://moon.onepractice.top): English CET-4 and CET-6 real test website
 
-#### sing1ee(Shanghai)
-* :white_check_mark: [Curate Click](https://curateclick.com/): Directory site collecting products and tools.
+#### Ethan Sunray
+* :white_check_mark: [Brave Pink Hero Green](https://bravepinkherogreen.com): Beautify your photos with pink and green duotone photo filters. Processing is fast, private, and done entirely in your browser.
 
-#### james(Hangzhou)
 * :white_check_mark: [fluxcontext](https://fluxcontext.app/) : Edit images with AI (using FLUX KONTEXT AI), Professional Online Image Enhance with FLUX KONTEXT AI.
 
 ### Added on June 26, 2025
@@ -5110,11 +5194,11 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 * :white_check_mark: [Highlight "ad"](https://github.com/DuckDuckStudio/highlight-ad-extension): An extension for highlighting the word "ad" in a specific page - [Effect Document](https://duckduckstudio.github.io/highlight-ad-extension/#/effect)
 
 ### Added on September 30, 2024
-#### Frey(Shenzhen) - [Blog](https://5ea.org)
-* :white_check_mark: [IP.IM](https://ip.im): Simple and accurate IP information query website, high-precision IP query, supports curl
+### Added on March 20, 2025
+#### Duan - [Github](https://github.com/duanduanhh)
+* :white_check_mark: [VIEW PRE](https://viewpre.com/): China Viewing Index Forecast. It currently provides three-day index forecasts for Taishan, Huangshan, and Wugong Mountain Cloud Sea, and will expand to include more scenic spot index forecasts in the future. I hope everyone will not be disappointed in their trip!
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on September 28, 2024
-#### xurenda (Beijing) - [Github](https://github.com/xurenda)
 * :white_check_mark: [enjoy-player](https://github.com/xurenda/enjoy-player): Online video player, supporting Web pages and Windows, Mac, and Linux desktop applications. Mainly used for online browsing of CMS video collection station resources, and realizing online playback of HLS video streams (m3u8)
 
 ### Added on September 27, 2024
@@ -5290,10 +5374,10 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 * :white_check_mark: [Comment Fast](https://commentfast.com/): AI-based fast comment tool that generates high-quality comments for any post or article
 
 ### Added on August 10, 2024
-#### 木木木
-* :white_check_mark: [MP4 to MP3](https://mp4t.com/zh/): Free, safe and fast MP4 to MP3 tool
+### Added on January 22, 2025
+* :white_check_mark: [Minute Timer](https://minutetimers.net/): Timer (lightweight and user-friendly)
+* :white_check_mark: [Minute Timer](https://minutetimers.net/): Timer (lightweight and user-friendly)
 
-### Added on August 8, 2024
 #### zxcHolmes
 * :x: [SpeakGo real-time simultaneous interpretation tool](https://speakgo.app): an efficient and convenient real-time simultaneous interpretation tool
 
@@ -5500,22 +5584,22 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 * :white_check_mark: [Download Google Chrome plug-in for Xiaohongshu video cover](https://chromewebstore.google.com/detail/%E5%B0%8F%E7%BA%A2%E4% B9%A6%E8%A7%86%E9%A2%91%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7%E2%80 %94%E2%80%94%E5%85%8D%E8%B4%B9%E8%A7%86%E9%A2%91%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%B D%E5%B7%A5%E5%85%B7/lfkdbogbagdclonopjbdbclpagbkdfal?hl=zh-CN&authuser=0)：Little Red Book video cover download - [Usage Tutorial](https://www.bilibili.com/video/BV1Gz421e7rA/?spm_id_from=333.999.0.0)
 
 #### Larry Zhu - [Github](https://github.com/LarryZhu-dev)
-* :white_check_mark: [AutoFit browser plug-in](https://chromewebstore.google.com/detail/autofit/ablniobpojpaihhohacpjhgcbnkhmfeo?hl=zh-CN&utm_source=ext_sidebar): Make the web page scale according to the browser window
-
-### Added on May 20, 2024
-#### sagasu - [Github](https://github.com/s87343472)
-* :white_check_mark: [AIMangaTranslator](https://aimangatranslator.com/): Use AI to translate comics - [More introduction](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2120097059)
-
-### Added on May 17, 2024
-#### Dataflare - [X/Twitter](https://x.com/DataflareApp)
-* :white_check_mark: [Dataflare](https://dataflare.app): A simple, easy-to-use database management tool that supports dozens of databases such as `PostgreSQL` `MySQL` `SQLite` `SQL Server` `libSQL` `Cloudflare D1`.
+### Added on October 10, 2024
+* :white_check_mark: [Investment Strategy Simulator]( https://investment-simulator.toolsnav.top): Help investors and learners simulate and compare the performance of different investment strategies under various market trends. This tool allows users to have an in-depth understanding of the pros and cons of various investment strategies through an intuitive visual interface and detailed data analysis, thereby making more informed investment decisions - [More Introduction](https://www.cnblogs.com/hackersay/articles/18455394/investment-strategy-simulator)
+* :white_check_mark: [Investment Strategy Simulator]( https://investment-simulator.toolsnav.top): Help investors and learners simulate and compare the performance of different investment strategies under various market trends. This tool allows users to have an in-depth understanding of the pros and cons of various investment strategies through an intuitive visual interface and detailed data analysis, thereby making more informed investment decisions - [More Introduction](https://www.cnblogs.com/hackersay/articles/18455394/investment-strategy-simulator)
 
 #### Zhuge Zifang
-* :white_check_mark: [bilibili Video download Google Chrome plug-in](https://chromewebstore.google.com/detail/bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E2%80%94%E2%80%94%E6%9C%80%E6%96%B0%E5%8 5%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/bjoodghhkboffngfjancdaplbjjibjnp?hl=zh-CN&authuser=0): bilibili Video and cover download - [More introduction](https://www.bilibili.com/video/BV1Xm421T7ns/?spm_id_from=333.999.0.0)
+- :white_check_mark: [Image Splitter](https://image-splitter.online): Free online image splitting tool, split the image into multiple pieces and download it
 
-#### luhaifeng666 - [Github](https://github.com/luhaifeng666)
-* :white_check_mark: [Bunpou](https://luhaifeng666.github.io/bunpou/): Japanese grammar compilation, including grammar in the N5-N1 stage, and is currently being updated.
-* :white_check_mark: [Kana playground](https://luhaifeng666.github.io/kana-playground/): A website for practicing kana, suitable for novice Japanese learners.
+#### whinc - [Github](https://github.com/whinc)
+- :white_check_mark: [Small but beautiful tool](https://whinc.github.io/ucalc-website): WeChat applet with temperature, perpetual calendar/Old calendar/Gregorian calendar/Lunar calendar/Buddhist calendar/Taoist calendar/solar terms/festivals/children (0-7 years old) growth assessment/adolescents (7-18 years old) growth assessment/adult obesity assessment/relative names/scientific calculator/statutory retirement age calculator/flashlight/DNF assistant - [Github](https://github.com/whinc/ucalc-website)
+
+#### handsometong(Xiamen)
+- :white_check_mark: [Poster Generator](https://postergenerator.online): Poster Generator, create stunning custom posters with Poster Generator, free for personal or commercial use
+
+#### caorushizi - [Github](https://github.com/caorushizi/mediago)
+- :white_check_mark: [mediago](https://downloader.caorushizi.cn/?form=github)：Video download, m3u8 video extraction tool - [More introduction](https://github.com/caorushizi/mediago)
+
 
 ### Added on May 15, 2024
 #### wells2333(广州) - [Github](https://github.com/wells2333/sg-exam)
@@ -5542,15 +5626,15 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 * :white_check_mark: [China Independent Developer Project List (web version)](https://developer.hubing.online/home): A web version based on the data of this project (Note: The website developer is a third party and developed the web version because he liked the information provided by this project. This website has nothing to do with the owner of this warehouse and there is no cooperative relationship between the two parties. This list will permanently exist in the form of a Github warehouse and will not be converted into commercial operations (meaning it will not be profitable) in the future) - [More introduction](https://github.com/1c7/chinese-independent-developer/issues/353)
 
 #### azhubaby (Shanghai) - [Github](https://github.com/johanazhu), [Blog](https://blog.azhubaby.com/)
-* :x: [Chinese Colors](https://chinese-colors.com): Traditional Chinese colors, Forbidden City color and other functions will be added in the future
+### Added on October 2, 2024
+- :white_check_mark: [Web AI Assistant](https://web.stockai.trade): Minimalist, free, and easy-to-use ChatGPT. No registration required, just log in via email. The GPT-4o-mini model is free to use. It supports the GPT-4o model and supports real-time networking.
+- :white_check_mark: [Web AI Assistant](https://web.stockai.trade): Minimalist, free, and easy-to-use ChatGPT. No registration required, just log in via email. The GPT-4o-mini model is free to use. It supports the GPT-4o model and supports real-time networking.
 
-### Added on May 11, 2024
-#### bairdhh(Wuhan) - [Github](https://github.com/huhan-123)
-* :white_check_mark: [Rap Generator](https://rapgenerator.net/): A free AI tool that generates rap lyrics and songs. Users can enter prompt words, select emotions, generate personalized lyrics that match the description, and create two customized rap songs for free based on the lyrics selection. AI-generated rap songs can be downloaded and listened to for free. We hope that every Rap music lover can easily create the music they like
+#### 0xJoanne - [Github](https://github.com/0xjoanne)
+* :white_check_mark: [QRCode.fun](https://qrcode.fun): QR code generation tool
 
-### Added on May 9, 2024
-#### Q-Sansan
-* :white_check_mark: [Brick Center](https://www.brickcenter.net/): If you are a Lego enthusiast who is keen on creating various Lego images, BrickCenter can automatically generate Lego designs from your ideas. AI LEGO Generator turns your text into custom LEGO sets. Easily create your own mini-dolls from photos. If you think LEGO avatars are cool, you can also use your selfie pictures to generate LEGO avatars. You can also come to the website to browse unique LEGO works carefully crafted by enthusiasts - [More Introduction](https://www.bilibili.com/video/BV1VS411c7oG)
+#### DuckDuck「カモ」(Xiamen) - [GitHub](https://github.com/DuckDuckStudio), [Personal webpage](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: [Highlight "ad"](https://github.com/DuckDuckStudio/highlight-ad-extension): An extension used to highlight the word "ad" in a specific page - [Effect Document](https://duckduckstudio.github.io/highlight-ad-extension/#/effect)
 
 ### Added on May 6, 2024
 #### fengfeng(Chengdu) - [Github](https://github.com/iOSFDTeam), [Official website](https://dreamforge.top)
@@ -5565,10 +5649,10 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 ### Added on May 5, 2024
 #### wish - [Github](https://github.com/Shouheng88), [Nuggets](https://juejin.cn/user/3685218704691469)
 - :x: [English Wang](https://meiyan.tech/app/home?app=english&lang=en): English word query, sentence translation and review tool, personal English vocabulary book. The application is designed based on heat maps, supports Android and iOS versions, and supports immersive translation and text scanning.
-- :x: [yanye](https://meiyan.tech/app/home?app=note&lang=zh_CN): Android note-taking software, Markdown notes, quick notes, supports cloud synchronization, notes are stored in the form of md or other format files, supports multi-level directories and tags, two note management methods, and can be used with note-taking software on other platforms through data synchronization.
-- :x: [Any Secret](https://apps.apple.com/cn/app/any-secret/id6448714682): Password management software for iOS platform, supports cloud synchronization and independent passwords.
+### Added on September 28, 2024
+* :white_check_mark: [enjoy-player](https://github.com/xurenda/enjoy-player): Video player, supports web pages and Windows, Mac, and Linux desktop applications. Mainly used for online browsing of CMS video collection station resources, and realizing online playback of HLS video streams (m3u8)
+* :white_check_mark: [enjoy-player](https://github.com/xurenda/enjoy-player): Video player, supports web pages and Windows, Mac, and Linux desktop applications. Mainly used for online browsing of CMS video collection station resources, and realizing online playback of HLS video streams (m3u8)
 
-### Added on May 1, 2024
 #### yvonuk - [Twitter](https://twitter.com/mcwangcn)
 * :white_check_mark: [iMessage AI Assistant](https://stockai.trade/chat): No need to install App, no need to bypass the wall, use iMessage on Apple devices to talk directly to native ChatGPT
 
@@ -6049,21 +6133,179 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 ### Added on November 2, 2023
 ---
 #### Selenium39 (Guangzhou) - [Github](http://github.com/Selenium39)
-* :x: [ChatPPT](http://chatppt.closeai.red): Quickly create PowerPoints with ChatGPT-4
+### Added on April 25, 2024
+* :white_check_mark: [SubRenamer](https://github.com/qwqcode/SubRenamer): Tool for batch renaming of subtitle files
+* :white_check_mark: [SubRenamer](https://github.com/qwqcode/SubRenamer): Tool for batch renaming of subtitle files
 
-#### marmot-z (Hangzhou) - [GitHub](https://github.com/marmot-z)
-* :white_check_mark:  [Baicizhan Assistant](https://www.bilibili.com/video/BV1zj411Z7LM): A browser translation extension that collaborates in real-time with the Baicizhan APP
+#### R1ckShi - [Github](https://github.com/R1ckShi) 
+* :white_check_mark: [FunClip](https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary): Fully automatic video editing tool (open source and free): automatic and accurate speech recognition, free selection and cropping, automatic subtitle generation - [More introduction](https://github.com/modelscope/FunClip)
 
-#### changwu - [GitHub](https://github.com/changwu/)
-* :white_check_mark:  [Xiada](https://xiada.cn): BestGPT + Knowledge Base AI: It only takes 3 minutes to have your own intelligent agent
+#### 7small7(Chengdu) - [GitHub](https://github.com/7small7)
+* :white_check_mark: [Tutu Answers](https://www.tutudati.com): Exam answering system, which can be used in WeChat exams, paid exams, social questionnaires, celebrity knowledge questions and answers, employee training assessments, simulated self-tests, corporate interviews, test question banks and other scenarios. Supports one-click import, intelligent paper judging, post-test analysis, unlimited terminals and other functions.
 
-#### soar - [Twitter](https://twitter.com/codersoar)
-* :x:  [Lazy Enthusiast Weekly](https://toolight.zhubai.love/): Sharing products, tools, and news, published every Wednesday
+#### waylonzheng (Shenzhen) - [Blog](https://www.waylon.online/)
+* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html): Manage your new tab page, support free ChatGPT, manage bookmarks, massive wallpapers, PDF conversion, data cloud synchronization and other functions - [More introduction](https://waylon.online/ovo-tab/)
 
-### Added on November 1, 2023
----
-#### assmdx - [Twitter](https://x.com/assmdx)
-* :x:  [Wenchou](https://wenchou.top): A better AI assistant platform, [App Version](https://wenchou.top/laxin.html): 
+#### octopus331 - [Github](https://github.com/octopus331)
+* :x: [图生码](https://www.octopus31.com/code/generate): Generate front-end page code based on web page screenshots and web page URLs
+
+### Added April 24, 2024
+#### zggsong - [Github](https://github.com/ZGGSONG), [Blog](https://zggsong.com)
+* :white_check_mark: [STranslate](https://stranslate.zggsong.com): A ready-to-use, ready-to-use translation (OCR) tool
+
+#### Aissen
+* :x: [Real-time Gold Price](https://goldprice.fun): A simple and intuitive gold price query website
+
+#### Quanzhitong - [Github](https://github.com/Quanzhitong)
+* :white_check_mark: [Honey Tab](https://chromewebstore.google.com/detail/honey-tab/ecopjmjelpndnffeaionilmoiocbjcii?hl=zh-CN&utm_source=ext_sidebar): A simple and easy-to-use browser tab and window management tool with only three shortcut keys
+
+#### Zhuge Zifang
+* :white_check_mark: [Google Chrome OCR plug-in](https://chromewebstore.google.com/detail/ocr/cglnhoallkkhcelfbcdaglcioccollfb?hl=zh-CN&authuser=0): OCR plug-in that recognizes screenshots as text - [More introduction](https://www.bilibili.com/video/BV1Xz4216756)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Yu-Core
+* :white_check_mark: [Swashbuckler Diary](https://github.com/Yu-Core/SwashbucklerDiary): Local Diary App (open source, cross-platform)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Ayden - [Twitter](https://twitter.com/aydengen)
+- :white_check_mark: [ElemSnap](https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna): Capture web page elements and convert them into browser plug-ins that automatically beautify images.
+
+#### Ethan Sunray (New York)
+- :white_check_mark: [AI Image Generator](https://aiimagegenerator.io/): Free online AI text to image generation tool, supports AI tattoo generator, AI animation generator, AI 3D expression generator, AI Pokémon generator, etc. No login required, unlimited usage.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Shooter Technology (Zhuhai)
+* :white_check_mark: [Self-accounting app](https://www.zijizhang.com/): Suitable for entrepreneurs who register a company in the early stages of starting a business and need zero declaration of business. Be your own boss, keep your own accounts, and file taxes automatically
+* :white_check_mark: [Self-issuing invoice app](https://www.zikaipiao.com): Invoice for a whole year, only scan your face once
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :x: [RunFlow](https://myrest.top/zh-cn/myflow): A cross-platform efficiency tool similar to Wox and Alfred, which can launch applications and search files, etc. The function is triggered by keywords and supports extending program functions through plug-ins - [More introduction](https://myrest.top/zh-cn/blog)
+
+#### Tutu (Hong Kong)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### ideasworkcn
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Honwhy Wang - [Github](https://github.com/honwhy)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### ChengKeJ - [Github](https://github.com/ChengKeJ)
+* :white_check_mark: [smind.app](https://www.smind.app): Thinking mind map: custom theme, meditation mode, import and export, structuring, import pictures, icons, stickers, etc.
+
+#### mydearcc - [Github](https://github.com/mydearcc/tools)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+### Added April 17, 2024
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Mose - [Github](https://github.com/1003715231)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [AI Humanizer](https://aihumanize.io/): It is also an AI rewriting tool, but it interacts differently with aiundetect and targets different SEO vocabulary.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### didid - [Github](https://github.com/dodid)
+* :white_check_mark: [Minitrade](https://dodid.github.io/minitrade/): A quantitative backtest trading system designed for individual investors
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### seven - [Github](https://github.com/SGAMERyu)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Touchumind - [Github](https://github.com/thundernet8)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Framist - [GitHub](https://github.com/framist)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Qiwei - [GitHub](https://github.com/qiweiii)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### MarkZhao - [Twitter](https://twitter.com/mark_zhao_)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### DawnRiver - [Twitter](https://twitter.com/LuTcdspring)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ### Added on October 31, 2023
 ---
@@ -6284,19 +6526,19 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 #### IndieKKY (Zhejiang) - [Github](https://github.com/IndieKKY)
 * :white_check_mark: [Bilibili Subtitle List](https://github.com/IndieKKY/bilibili-subtitle): Subtitle display, download, summary, translation
 
-### Added on May 13, 2023
----
-#### Feidao (Beijing)
-* :white_check_mark: [Wucai Extension](https://www.dotalk.cn/product/wucai): Web page highlight annotation note tool, supports syncing to Obsidian - [More introduction](https://www.yuque.com/makediff/wucai)
+### Added on March 3, 2024
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on May 9, 2023
----
-#### mattewwung (Dalian)
-* :white_check_mark: [Pocket CET-4](https://apps.apple.com/cn/app/id1673721668): High-frequency words must be memorized for CET-4 - [More introduction](https://apps.apple.com/cn/app/id1673721668)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on May 8, 2023
----
-### aizuzi - [Github](https://github.com/aizuzi) 
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### LucasChenZQ
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 * :white_check_mark: [Weight Loss Assistant](https://apps.apple.com/cn/app/id1583776291): A small tool during weight loss to help record weight and calories - [More introduction](https://ohee.cn/static/download/index.html)
 
 ### Added on April 30, 2023
@@ -6361,10 +6603,10 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 * :white_check_mark: [MuJing](https://github.com/tangshimin/MuJing): Immersive English learning, use movies, American dramas or documents you are interested in to generate a vocabulary (word book). When memorizing words, you can practice spelling and watch related video clips to better understand and memorize words. When playing a movie, review words from the vocabulary in the form of bullet comments, making word memorization no longer a tedious task. 
 
 
-### Added on February 18, 2023
----
-#### Darkce (Beijing) - [Github](https://github.com/luoxuhai)
-* :white_check_mark: [Night Vision App](https://github.com/luoxuhai/NightVision): An iOS App (open source) that can scan and detect distances in a completely dark environment, using the LiDAR scanner on the rear of the iPhone and iPad.
+### Added on February 25, 2024
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ### Added on February 11, 2023
 
@@ -6399,13 +6641,13 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 * :white_check_mark: [webhub123](https://www.webhub123.com/#/home/more): A website to manage and share high-quality website collections, not limited to blogs, hoping to cover all areas of the entire network - [More introduction](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-1400422591)
 
 ### Added on January 22, 2023
----
-#### Sworld (Wenzhou) - [Github](https://github.com/mcthesw), [Blog](http://blog.sworld.club/)
-* :white_check_mark: [Game Save Manager](https://github.com/mcthesw/game-save-manager): Simple, beautiful game save management software - [More introduction](https://www.bilibili.com/read/cv15774558)
+### Added on January 18, 2024
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on January 14, 2023
----
-#### GeorgeZou - [Github](https://github.com/georgezouq)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 * :white_check_mark: [Xingda MtBird](https://github.com/staringos/mtbird) - 💻 Mini program, H5 website no/low code platform, no code needed, drag and drop operations to quickly generate page applications, data visualization access, customizable business free expansion.
 
 
