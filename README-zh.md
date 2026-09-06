@@ -23,11 +23,106 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 6 号添加
+
+#### codeugar - [Github](https://github.com/codeugar)
+* :white_check_mark: [Seadanse](https://seadanse.com)：多模型 AI 视频生成平台，支持通过 Composer 工作台生成带声多镜头视频，并提供一句话自动拆解广告分镜与故事板的 AI Video Agent 功能 - [更多介绍](https://seadanse.com/ai-video-agent)
+
+### 2026 年 9 月 5 号添加
+
+#### zibo-chen - [Github](https://github.com/zibo-chen)
+* :white_check_mark: [SubnetDesk](https://github.com/zibo-chen/SubnetDesk)：跨平台远程桌面应用，在局域网或 VPN 内通过 mDNS 自动发现设备并用 IP 或主机名直连，无需公网设备 ID、信令或中继；支持 Windows、macOS、Linux 和 Android，AGPL-3.0 开源
+
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [DTCwise](https://dtcwise.com/?utm_source=cnindie&utm_medium=github)：DTC/跨境电商独立站卖家的运营工具目录与评测站，数据驱动收录 104 个工具（Sellvia、Mangools、Spocket 等），含对比评分与佣金返利链接，免费无需注册
+* :white_check_mark: [CrossTool](https://crosstool.online/?utm_source=cnindie&utm_medium=github)：跨境卖家本地隐私工具箱，52 个工具 100% 在浏览器内运行（视频压缩、图片转 PDF、成本计算等），零上传零服务器，面向 Amazon/TikTok Shop/Shopify 卖家，免费无需注册
+
+#### coderWenzi - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [Gemini Omni](https://geminiomni.video/)：免费生成和编辑视频，保持角色一致性，音频同步
+
+
+### 2026 年 9 月 4 号添加
+
+#### zeroXu1 - [Github](https://github.com/zeroXu1)
+* :white_check_mark: [HTMLShare](https://www.htmlshare.page/)：将静态 HTML 发布为可分享的预览链接，方便快速分享和评审原型页面，无需 Git、生产部署和注册账号
+
+### 2026 年 9 月 3 号添加
+
+#### Seagnson - [Github](https://github.com/seagnson)
+* :white_check_mark: [RGB TO CMYK](https://rgbtocmyk.net/)：基于印刷行业专业色彩转换引擎设计的 RGB 转 CMYK 在线工具，支持内置及自定义 ICC 配置文件，实现无与伦比的色彩保真度
+
+#### CoderLim(北京) - [Github](https://github.com/CoderLim)
+* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI-powered tool to erase text, captions, and subtitles from any video
+
+#### dong13 - [Github](https://github.com/dong13yu)
+* :white_check_mark: [PicEditor](https://piceditor.org/)：AI 图片编辑和生成工具，用自然语言换背景、移除物体、修改图片文字或生成新图，首次使用无需注册
+
+#### CH0918 - [Github](https://github.com/CH0918)
+* :white_check_mark: [YourArt](https://yourart.app)：AI 设计 Agent 工作台，在同一空间调用主流图片和视频模型，生成、编辑素材并在无限画布编排工作流；按量付费，无需订阅
+
+#### 蝉息 - [Github](https://github.com/wh000wh000)
+* :white_check_mark: [cc8.cc](https://www.cc8.cc/zh)：面向独立开发者、网站和 App 的公开 C 位竞价曝光榜：¥1 起，金额决定名次，每日北京时间 0 点在榜金额重置为 ¥1，条目不撤下，追平即可占位
+
+### 2026 年 9 月 2 号添加
+
+#### edenSu - [Github](https://github.com/edenSu-git)
+* :white_check_mark: [unblurry](https://unblurry.tools)：AI 照片去模糊工具，处理失焦、抖动与低分辨率造成的画质损失，另有锐化、降噪和老照片修复；免注册免费试 2 次，按次购买 credit，不订阅
+
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+* :white_check_mark: [Lunalisa](https://luna-lisa.art)：面向产品团队的 AI 视觉工作台，用提示词和获许可的参考图生成、迭代产品视觉素材
+
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [BulkCerts](https://bulkcerts.com/)：批量证书生成器，上传 Excel 或 CSV 列表、选择模板，即可为每位收件人生成个性化的 PDF 或 PNG 证书
+
+#### ooklwq(成都) - [Github](https://github.com/ooklwq)
+* :white_check_mark: [StitchCraft](https://crossstitchpatternmaker.app/)：十字绣图纸生成器（免费），照片拖进浏览器几秒变成可绣的 DMC 图纸，454 色自动匹配色号、算好每种线买几绞，导出 PDF 直接打印；无需注册、照片不上传服务器，可选 AI 重绘，支持中文界面 - [更多介绍](https://github.com/ooklwq/cross-stitch-pattern-maker)
+
+#### Cairne - [Github](https://github.com/cairne)
+* :white_check_mark: [Image3D AI](https://www.aiimageto3d.com/)：AI 图片转 3D 模型平台，集成 Tripo、Meshy、Hunyuan、Pixal3D 等多个 3D 生成模型，并提供 AI 贴图、Retopology、UV 展开和模型组件分离工具，从图片生成到 3D 后处理可在一个平台完成
+
+#### haihiaen - [Github](https://github.com/haihiaen)
+* :white_check_mark: [PdfCompare](https://pdfcompare.app/)：免费免登录的在线 PDF 对比与文本转换工具，基于浏览器 WebAssembly 纯本地运行，毫秒级词级红绿高亮差异与图纸图层叠图对比，文档数据 100% 零上传云端，零泄露风险 - [开源仓库](https://github.com/haihiaen/pdf-compare)  
+
+#### Dashu
+* :white_check_mark: [XiuStore](https://store.xiu.ai/en/)：AI 订阅和数字服务商城，商品页公开价格、交付方式、有效期、质保和售后，付款后可在订单中找到对应交付入口
+  
+### 2026 年 9 月 1 号添加
+
+#### heyu17625-glitch - [Github](https://github.com/heyu17625-glitch)
+* :white_check_mark: [Vibe Coding 首切片](https://dify-feishu-qa-first10.heyhui.chatgpt.site/domestic-dev-first-slice)：把小程序、网站、APP 或 AI/API 的模糊需求先拆成一条可运行、可验收的核心流程；公开合成演示与隐私门控受理表可直接查看，需求范围图 ¥99 起
+
+#### LuKaka - [Github](https://github.com/Masker99)
+* :white_check_mark: [MoveToZero](https://movetozero.site/)：iPhone 久坐提醒 App，定时提醒起身走动，通过步数目标和完成记录帮助安排工作、学习间隙的休息；配套网站 [Stand Up Reminder](https://standupreminder.com/) 提供网页休息计时器和办公提醒指南
+* :white_check_mark: [Chat2Mind](https://chat2mind.site/)：将 ChatGPT 对话或粘贴的文本转成可编辑思维导图，帮助梳理笔记、复习知识和组织内容，支持图片、PDF 和 Markdown 导出
+* :white_check_mark: [BookmarkHell](https://bookmarkhell.com/)：浏览器书签整理工具，导入 Chrome 或 Edge 导出的书签文件，去重、分类，检查和调整后导回浏览器
+* :white_check_mark: [BigWalkTools](https://bigwalktools.com/)：Big Walk 非官方解谜辅助站，根据颜色、物体、声音等线索查找谜题，分层查看提示，并与队友共享探索进度
+* :white_check_mark: [WARDOGS Companion](https://wardogs-game.com/)：WARDOGS 非官方攻略与玩家工具站，汇总游戏资料、PC 配置要求和常见问题，帮助玩家准备游戏和查找攻略
+
+#### pluone(北京) - [Github](https://github.com/pluone/EchoWord)
+* :white_check_mark: [EchoWord](https://chromewebstore.google.com/detail/echoword/ifjpabfblikdkfgchnhdcplgbpjhoila?hl=zh-CN)：查词划词翻译，通过 TTS 朗读单词和例句，在语境中理解发音，帮助程序员、独立开发者和出海从业者告别哑巴英语 — Chrome / Edge 插件
+
+### 2026 年 8 月 31 号添加
+
+#### chenchiwei - [Github](https://github.com/chenchiwei)
+* :white_check_mark: [HelloGen](https://hellogen.ai/)：AI 图片和视频生成工作台，图片免费不限量、无水印、可商用，视频按次计费；助手根据需求自动选模型（Seedream、Nano Banana、GPT Image 2、Veo、Kling、Seedance），生成前先报价，失败不扣费
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [AniMot](https://animot.app/)：一键让照片跳舞，让宠物跳舞
+
+#### leo(上海) - [Github](https://github.com/TangSirOnGit)
+* :white_check_mark: [CardShopDir](https://cardshopdir.com/)：美国实体卡牌店目录，收录 7700+ 家店铺、覆盖 51 个州，支持按州、城市和游戏筛选，帮玩家找到宝可梦、万智牌、游戏王等卡牌的线下店，每家店附地址、营业时间、支持游戏和评分
+
 
 ### 2026 年 8 月 30 号添加
 
+#### Hongshiqiang - [Github](https://github.com/Hongshiqiang)
+* :white_check_mark: [Ikat](https://ikat.app)：多模型 AI 视频生成工作台，在同一界面使用 Wan 3.0、Kling 3.0、Seedance 2.5、MiniMax H3，支持文生视频和图生视频
+
 #### easymap-gis(合肥) - [Github](https://github.com/easymap-gis)
 * :white_check_mark: [EasyMap Desktop](http://www.easymap.online/)：面向测绘、规划、应急与数据治理的桌面 GIS 平台工具集，地图制图、数据目录、58 个地理处理工具、模型构建器与在线地图下载器一站齐备，解压即用、数据不出内网
+
+#### Viki Wu - [Github](https://github.com/wxixuan118-ship-it)
+* :white_check_mark: [FishCare AI](https://www.fishcareai.com/)：观赏鱼饲养指南与免费工具站，买鱼前先查混养兼容性（4000+ 鱼种组合对照页）、鱼缸最小尺寸、水质参数和投喂量，覆盖斗鱼、孔雀鱼、七彩神仙等常见品种，免费无需注册
 
 ### 2026 年 8 月 28 号添加
 

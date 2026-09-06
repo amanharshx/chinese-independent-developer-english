@@ -29,11 +29,113 @@ So we specially created this repository. All developers are welcome to add your 
 
 ## 3. Project List
 
+### Added on September 6, 2026
+
+#### codeugar - [Github](https://github.com/codeugar)
+* :white_check_mark: [Seadanse](https://seadanse.com): A multi-model AI video generation platform that supports the generation of multi-lens videos with sound through the Composer workbench, and provides an AI Video Agent function that automatically disassembles advertising footage and storyboards in one sentence - [More introduction](https://seadanse.com/ai-video-agent)
+
+
+### Added on September 5, 2026
+
+#### zibo-chen - [Github](https://github.com/zibo-chen)
+* :white_check_mark: [DTCwise](https://dtcwise.com/?utm_source=cnindie&utm_medium=github): Operation tool directory and evaluation station for DTC/cross-border e-commerce independent sellers, data-driven collection of 104 tools (Sellvia, Mangools, Spocket, etc.), including comparative scores and commission rebate links, free and no registration required
+
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [DTCwise](https://dtcwise.com/?utm_source=cnindie&utm_medium=github): Operation tool directory and evaluation station for DTC/cross-border e-commerce independent sellers, data-driven collection of 104 tools (Sellvia, Mangools, Spocket, etc.), including comparative scores and commission rebate links, free and no registration required
+* :white_check_mark: [CrossTool](https://crosstool.online/?utm_source=cnindie&utm_medium=github): Local privacy toolbox for cross-border sellers, 52 tools 100% run in the browser (video compression, image conversion to PDF, cost calculation, etc.), zero upload and zero server, for Amazon/TikTok Shop/Shopify sellers, free and no registration required
+
+#### coderWenzi - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [Gemini Omni](https://geminiomni.video/): Generate and edit videos for free, maintain character consistency, and audio synchronization
+
+
+
+### Added on September 4, 2026
+
+#### zeroXu1 - [Github](https://github.com/zeroXu1)
+* :white_check_mark: [HTMLShare](https://www.htmlshare.page/): Publish static HTML as a shareable preview link to facilitate quick sharing and review of prototype pages without the need for Git, production deployment and account registration
+
+
+### Added on September 3, 2026
+
+#### Seagnson - [Github](https://github.com/seagnson)
+#### CoderLim (Beijing) - [Github](https://github.com/CoderLim)
+
+#### CoderLim (Beijing) - [Github](https://github.com/CoderLim)
+* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI-powered tool to erase text, captions, and subtitles from any video
+
+#### dong13 - [Github](https://github.com/dong13yu)
+* :white_check_mark: [PicEditor](https://piceditor.org/): AI picture editing and generation tool. Use natural language to change the background, remove objects, modify picture text or generate new pictures. No registration is required for first time use.
+
+#### CH0918 - [Github](https://github.com/CH0918)
+* :white_check_mark: [YourArt](https://yourart.app): AI design Agent workbench, calling mainstream picture and video models in the same space, generating and editing materials and arranging workflow on unlimited canvas; pay as you go, no subscription required
+
+#### Cicada Breath - [Github](https://github.com/wh000wh000)
+* :white_check_mark: [cc8.cc](https://www.cc8.cc/zh): Public C-position bidding exposure list for independent developers, websites and apps: starting from ¥1, the amount determines the ranking, the amount on the list is reset to ¥1 at 0:00 Beijing time every day, the entry will not be removed, and the spot will be occupied if you tie it
+
+
+### Added on September 2, 2026
+
+#### edenSu - [Github](https://github.com/edenSu-git)
+* :white_check_mark: [unblurry](https://unblurry.tools): AI photo deblurring tool, which handles image quality loss caused by out-of-focus, jitter and low resolution, as well as sharpening, noise reduction and old photo repair; free trial for 2 times without registration, purchase credit per time, no subscription
+
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+* :white_check_mark: [Lunalisa](https://luna-lisa.art): AI visual workbench for product teams, using prompt words and licensed reference images to generate and iterate product visual materials
+
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [BulkCerts](https://bulkcerts.com/): Bulk certificate generator, upload an Excel or CSV list, select a template, and generate personalized PDF or PNG certificates for each recipient
+
+#### ooklwq(成都) - [Github](https://github.com/ooklwq)
+* :white_check_mark: [StitchCraft](https://crossstitchpatternmaker.app/): Cross-stitch drawing generator (free), drag the photo into the browser and turn it into an embroiderable DMC drawing in a few seconds. 454 colors automatically match color numbers, calculate how many skeins of each thread to buy, export PDF for direct printing; no registration required, no photos uploaded to the server, optional AI redrawing, support for Chinese interface - [More introduction](https://github.com/ooklwq/cross-stitch-pattern-maker)
+
+#### Cairne - [Github](https://github.com/cairne)
+* :white_check_mark: [Image3D AI](https://www.aiimageto3d.com/): AI image to 3D model platform, integrating multiple 3D generated models such as Tripo, Meshy, Hunyuan, Pixal3D, etc., and providing AI mapping, Retopology, UV expansion and model component separation tools, from image generation to 3D post-processing can be completed on one platform
+
+#### haihiaen - [Github](https://github.com/haihiaen)
+* :white_check_mark: [PdfCompare](https://pdfcompare.app/): Free login-free online PDF comparison and text conversion tool, based on browser WebAssembly and running purely locally, millisecond word-level red and green highlight differences and drawing overlay comparison, 100% of document data is uploaded to the cloud, zero risk of leakage - [Open Source Warehouse](https://github.com/haihiaen/pdf-compare)
+
+#### Dashu
+* :white_check_mark: [XiuStore](https://store.xiu.ai/en/): AI subscription and digital service mall. The product page discloses the price, delivery method, validity period, warranty and after-sales. After payment, you can find the corresponding delivery entrance in the order.
+  
+
+### Added on September 1, 2026
+
+#### heyu17625-glitch - [Github](https://github.com/heyu17625-glitch)
+* :white_check_mark: [Vibe Coding first slice](https://dify-feishu-qa-first10.heyhui.chatgpt.site/domestic-dev-first-slice): First split the fuzzy requirements of small programs, websites, APPs or AI/APIs into a core process that is runnable and acceptable; the public synthesis demonstration and privacy gated acceptance form can be viewed directly, and the requirement range chart starts from ¥99
+
+#### LuKaka - [Github](https://github.com/Masker99)
+* :white_check_mark: [MoveToZero](https://movetozero.site/): Sedentary Reminder App for iPhone, regularly reminds you to get up and move around, and helps arrange breaks between work and study through step goals and completion records; the supporting website [Stand Up Reminder](https://standupreminder.com/) provides a web rest timer and office reminder guide
+* :white_check_mark: [Chat2Mind](https://chat2mind.site/): Convert ChatGPT conversations or pasted text into editable mind maps to help organize notes, review knowledge and organize content. Supports image, PDF and Markdown export
+* :white_check_mark: [BookmarkHell](https://bookmarkhell.com/): Browser bookmark organization tool, import bookmark files exported from Chrome or Edge, deduplicate, classify, check and adjust and then import them back to the browser
+* :white_check_mark: [BigWalkTools](https://bigwalktools.com/): Big Walk’s unofficial puzzle-solving assistant station. Find puzzles based on clues such as colors, objects, sounds, etc., view hints in layers, and share exploration progress with teammates
+* :white_check_mark: [WARDOGS Companion](https://wardogs-game.com/): WARDOGS unofficial guide and player tool station, which summarizes game information, PC configuration requirements and frequently asked questions to help players prepare for the game and find guides
+
+#### pluone(Beijing) - [Github](https://github.com/pluone/EchoWord)
+* :white_check_mark: [EchoWord](https://chromewebstore.google.com/detail/echoword/ifjpabfblikdkfgchnhdcplgbpjhoila?hl=zh-CN): Look up words and translate them, read words and example sentences aloud through TTS, understand the pronunciation in context, help programmers, independent developers and overseas practitioners say goodbye to dumb English - Chrome / Edge plug-in
+
+
+### Added on August 31, 2026
+
+#### chenchiwei - [Github](https://github.com/chenchiwei)
+* :white_check_mark: [HelloGen](https://hellogen.ai/): AI picture and video generation workbench, free and unlimited pictures, no watermarks, commercially available, videos are billed on a pay-per-view basis; the assistant automatically selects models (Seedream, Nano Banana, GPT Image 2, Veo, Kling, Seedance) based on needs, and quotes are made before generation, and no fees will be deducted if failed
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [AniMot](https://animot.app/): Make photos dance and pets dance with one click
+
+#### leo(Shanghai) - [Github](https://github.com/TangSirOnGit)
+* :white_check_mark: [CardShopDir](https://cardshopdir.com/): American physical card shop directory, including 7700+ stores, covering 51 states, supports filtering by state, city and game, helping players find offline stores for Pokémon, Magic, Yu-Gi-Oh and other cards. Each store has an address, business hours, supported games and ratings.
+
+
+
 ### Added on August 30, 2026
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Hongshiqiang - [Github](https://github.com/Hongshiqiang)
+* :white_check_mark: [EasyMap Desktop](http://www.easymap.online/): A desktop GIS platform tool set for surveying, planning, emergency response and data management. It has map mapping, data catalog, 58 geoprocessing tools, model builder and online map downloader all in one place. It can be decompressed and used, and the data does not leave the intranet.
 
+#### easymap-gis(合肥) - [Github](https://github.com/easymap-gis)
+* :white_check_mark: [EasyMap Desktop](http://www.easymap.online/): A desktop GIS platform tool set for surveying, planning, emergency response and data management. It has map mapping, data catalog, 58 geoprocessing tools, model builder and online map downloader all in one place. It can be decompressed and used, and the data does not leave the intranet.
+
+#### Viki Wu - [Github](https://github.com/wxixuan118-ship-it)
+* :white_check_mark: [FishCare AI](https://www.fishcareai.com/): Ornamental fish breeding guide and free tool station. Before buying fish, check polyculture compatibility (4000+ fish species combination comparison page), minimum fish tank size, water quality parameters and feeding amount, covering common species such as betta fish, guppies, colorful angels, etc., free and no registration required
 
 ### Added on August 28, 2026
 
