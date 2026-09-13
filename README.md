@@ -29,6 +29,159 @@ So we specially created this repository. All developers are welcome to add your 
 
 ## 3. Project List
 
+### Added on September 12, 2026
+
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Ian - [Github](https://github.com/iaminyu)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### wpydcr - [Github](https://github.com/wpydcr)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### breezesamuel - [Github](https://github.com/breezesamuel)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### muzimu217 - [Github](https://github.com/muzimu217)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### yoqu - [Github](https://github.com/yoqu)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### leilosss - [Github](https://github.com/leilosss)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on September 11, 2026
+
+#### LongAotian - [Github](https://github.com/chenchuxin)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### C2Anime Team - [Github](https://github.com/codaaiteam)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on September 10, 2026
+
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Muke - [Github](https://github.com/muke1838-cloud)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### superwang - [Github](https://github.com/lincwang123-bot)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### WXzhongwang - [Github](https://github.com/WXzhongwang)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### hypercube67 - [Github](https://github.com/hypercube67-formal)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on September 9, 2026
+
+#### MuYiBo - [Github](https://github.com/MuYiBo)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### chaojieY26 - [Github](https://github.com/chaojieY26)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Anton Li - [Github](https://github.com/AntonLi-PM)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Felicia - [Github](https://github.com/littlePig-zzf)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### sweesama - [Github](https://github.com/sweesama)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on September 8, 2026
+
+#### zjzno1 - [Github](https://github.com/zjzno1)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### fengmao - [Github](https://github.com/fengmao)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on September 7, 2026
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### emptylower - [Github](https://github.com/emptylower)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### lttxzmj - [Github](https://github.com/lttxzmj)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+#### SiteHunter - [Github](https://github.com/SiteHunter)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+### Added on August 21, 2025
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [Chat Recap AI](https://chatrecap.io)：揭示你對話中隱藏的模式、情緒與紅旗，讓你真正理解你的關係
+
+#### BOS1980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Lingglee - [Github](https://github.com/lingglee)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Honwhy Wang - [Github](https://github.com/honwhy)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
 ### Added on September 6, 2026
 
 #### codeugar - [Github](https://github.com/codeugar)
@@ -58,20 +211,19 @@ So we specially created this repository. All developers are welcome to add your 
 ### Added on September 3, 2026
 
 #### Seagnson - [Github](https://github.com/seagnson)
-#### CoderLim (Beijing) - [Github](https://github.com/CoderLim)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### CoderLim (Beijing) - [Github](https://github.com/CoderLim)
-* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI-powered tool to erase text, captions, and subtitles from any video
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### dong13 - [Github](https://github.com/dong13yu)
-* :white_check_mark: [PicEditor](https://piceditor.org/): AI picture editing and generation tool. Use natural language to change the background, remove objects, modify picture text or generate new pictures. No registration is required for first time use.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### CH0918 - [Github](https://github.com/CH0918)
-* :white_check_mark: [YourArt](https://yourart.app): AI design Agent workbench, calling mainstream picture and video models in the same space, generating and editing materials and arranging workflow on unlimited canvas; pay as you go, no subscription required
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Cicada Breath - [Github](https://github.com/wh000wh000)
-* :white_check_mark: [cc8.cc](https://www.cc8.cc/zh): Public C-position bidding exposure list for independent developers, websites and apps: starting from ¥1, the amount determines the ranking, the amount on the list is reset to ¥1 at 0:00 Beijing time every day, the entry will not be removed, and the spot will be occupied if you tie it
-
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ### Added on September 2, 2026
 
@@ -90,30 +242,29 @@ So we specially created this repository. All developers are welcome to add your 
 #### Cairne - [Github](https://github.com/cairne)
 * :white_check_mark: [Image3D AI](https://www.aiimageto3d.com/): AI image to 3D model platform, integrating multiple 3D generated models such as Tripo, Meshy, Hunyuan, Pixal3D, etc., and providing AI mapping, Retopology, UV expansion and model component separation tools, from image generation to 3D post-processing can be completed on one platform
 
+### Added on September 2, 2026
+
+#### edenSu - [Github](https://github.com/edenSu-git)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### ooklwq(成都) - [Github](https://github.com/ooklwq)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Cairne - [Github](https://github.com/cairne)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 #### haihiaen - [Github](https://github.com/haihiaen)
-* :white_check_mark: [PdfCompare](https://pdfcompare.app/): Free login-free online PDF comparison and text conversion tool, based on browser WebAssembly and running purely locally, millisecond word-level red and green highlight differences and drawing overlay comparison, 100% of document data is uploaded to the cloud, zero risk of leakage - [Open Source Warehouse](https://github.com/haihiaen/pdf-compare)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### Dashu
-* :white_check_mark: [XiuStore](https://store.xiu.ai/en/): AI subscription and digital service mall. The product page discloses the price, delivery method, validity period, warranty and after-sales. After payment, you can find the corresponding delivery entrance in the order.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
   
-
-### Added on September 1, 2026
-
-#### heyu17625-glitch - [Github](https://github.com/heyu17625-glitch)
-* :white_check_mark: [Vibe Coding first slice](https://dify-feishu-qa-first10.heyhui.chatgpt.site/domestic-dev-first-slice): First split the fuzzy requirements of small programs, websites, APPs or AI/APIs into a core process that is runnable and acceptable; the public synthesis demonstration and privacy gated acceptance form can be viewed directly, and the requirement range chart starts from ¥99
-
-#### LuKaka - [Github](https://github.com/Masker99)
-* :white_check_mark: [MoveToZero](https://movetozero.site/): Sedentary Reminder App for iPhone, regularly reminds you to get up and move around, and helps arrange breaks between work and study through step goals and completion records; the supporting website [Stand Up Reminder](https://standupreminder.com/) provides a web rest timer and office reminder guide
-* :white_check_mark: [Chat2Mind](https://chat2mind.site/): Convert ChatGPT conversations or pasted text into editable mind maps to help organize notes, review knowledge and organize content. Supports image, PDF and Markdown export
-* :white_check_mark: [BookmarkHell](https://bookmarkhell.com/): Browser bookmark organization tool, import bookmark files exported from Chrome or Edge, deduplicate, classify, check and adjust and then import them back to the browser
-* :white_check_mark: [BigWalkTools](https://bigwalktools.com/): Big Walk’s unofficial puzzle-solving assistant station. Find puzzles based on clues such as colors, objects, sounds, etc., view hints in layers, and share exploration progress with teammates
-* :white_check_mark: [WARDOGS Companion](https://wardogs-game.com/): WARDOGS unofficial guide and player tool station, which summarizes game information, PC configuration requirements and frequently asked questions to help players prepare for the game and find guides
-
-#### pluone(Beijing) - [Github](https://github.com/pluone/EchoWord)
-* :white_check_mark: [EchoWord](https://chromewebstore.google.com/detail/echoword/ifjpabfblikdkfgchnhdcplgbpjhoila?hl=zh-CN): Look up words and translate them, read words and example sentences aloud through TTS, understand the pronunciation in context, help programmers, independent developers and overseas practitioners say goodbye to dumb English - Chrome / Edge plug-in
-
-
-### Added on August 31, 2026
 
 #### chenchiwei - [Github](https://github.com/chenchiwei)
 * :white_check_mark: [HelloGen](https://hellogen.ai/): AI picture and video generation workbench, free and unlimited pictures, no watermarks, commercially available, videos are billed on a pay-per-view basis; the assistant automatically selects models (Seedream, Nano Banana, GPT Image 2, Veo, Kling, Seedance) based on needs, and quotes are made before generation, and no fees will be deducted if failed
@@ -256,26 +407,25 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 
 ### Added on August 20, 2026
-
-#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-### Added on August 19, 2026
+### Added on August 22, 2026
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-* :white_check_mark: [TempCanvas](https://tempcanvas.com/): A free temporary online whiteboard that does not require registration. You can quickly draw pictures, handwriting records and export PNGs when you open it. The content is only saved locally in the browser.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
+#### woshiliyana - [Github](https://github.com/woshiliyana)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on August 17, 2026
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### ChihooZeng - [Github](https://github.com/ChihooZeng)
-* :white_check_mark: [Loamery](https://loamery.com/): Save or refine valuable answers in ChatGPT, Claude, Gemini, DeepSeek, Doubao, and Kimi with one click. Through search, collection, and project organization, scattered AI conversations are precipitated into a personal knowledge base that can be searched for a long time. Data is saved locally first - browser plug-in
+#### Leochens(北京) - [Github](https://github.com/leochens)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### zhoujungis(Shenzhen) - [Github](https://github.com/zhoujungis)
-* :white_check_mark: [Numerology Handbook](https://destiny-ai.pages.dev/): AI free fortune telling, asking about name, time, color, luck, knowing what you want to know and thinking about you
+#### 33hodl - [Github](https://github.com/33hodl)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### ximing - [Github](https://github.com/ximing)
-* :white_check_mark: [AIMO](https://aimo.plus/?utm_source=cnindie&utm_medium=github): AI First card notes, jot down ideas, semantic search, association and review are completed by the system, Docker one-click self-hosting, supports Web / macOS / Windows / Android - [Source Code](https://github.com/ximing/aimo)
+#### momochoog - [Github](https://github.com/momochoog)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### my19940202(Shanghai) - [Github](https://github.com/my19940202)
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
@@ -377,22 +527,23 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 #### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
 
 #### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
-#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+### Added on August 13, 2026
 
-#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
-* :white_check_mark: [LiveFaceSwap AI](https://livefaceswap.ai/zh): Online real-time AI face-swapping tool, you can experience face-swapping, dress-up and style redrawing in the browser; Windows 11 desktop version can access live broadcast, conference and video call software through virtual camera
-
-#### ShanLeiGuang(河北) - [Github](https://github.com/shanleiguang)
-* :white_check_mark: [vPlayer HiFi App](https://apps.apple.com/cn/app/vplayer-hifi/id6783141736): HiFi lossless music player, supports MP3, AIFF, WAV, FLAC, DSD (DFF/DSF) and other audio formats, supports SACD-R ISO parsing and Track extraction, Samba access, memory loading and playback, SRC/FIR Multiple resampling algorithms, support AirPlay, Bluetooth, external DAC output - [Source Code](https://github.com/shanleiguang/vPlayer)
-### Added on August 8, 2026
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-* :white_check_mark: [ClassroomTimers](https://classroomtimers.app/): A free online timing tool for teachers and classroom scenarios, focusing on large-screen projection, full-screen display, and no registration required
-
+#### TREAFREE - [Github](https://github.com/TREAFREE)
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### YuuFish(广州) - [Github](https://github.com/YuuFish)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### ShanLeiGuang(河北) - [Github](https://github.com/shanleiguang)
@@ -1707,16 +1858,16 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 * :white_check_mark: [FocusLens - Screenshot Focus Editor](https://getfocuslens.com/): Place a magnifying glass locally on your image for enlarged display, focus to draw attention
 
 #### fatwang2 - [Github](https://github.com/fatwang2)
-* :white_check_mark: [Pulse](https://www.pulseticker.app/): macOS native menu bar ticker tool, see US stocks, Hong Kong stocks, A-shares, cryptocurrencies, indices and ETFs at a glance, supports watchlist and position P&L, free and open source - [View Repository](https://github.com/fatwang2/Pulse)
+### Added on July 24, 2026
 
-#### Phaeris - [Github](https://github.com/PhaerisWakfu/OneTokenIsEnough)
-* :white_check_mark: [Yiye Zhiqiu](https://onetoken.phaeris.xyz): Transit API detection tool developed based on the [latest paper](https://arxiv.org/abs/2607.10252). Worried that the transit station secretly swapped to a cheaper model? Fill in their address, we will only ask it a few extremely short questions like "say a random number"—— each answer costs about 1 output token, then compare with the answering habits of known real models to judge the resemblance. Your API Key is only used for on-the-spot detection, we will not record or save it
+#### cocodot2026 - [GitHub](https://github.com/cocodot2026)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### MarthaHuang (Beijing) - [Github](https://github.com/Amybiubiu)
-* :white_check_mark: [Reed - Discover Good Content](https://apps.apple.com/cn/app/%E8%8A%A6%E8%8B%87-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%86%85%E5%AE%B9/id6756805406): Explore premium information sources, connect RSS subscriptions and content discovery - [More intro](https://reeddaily.com/)
+#### KKWANG4444 - [GitHub](https://github.com/KKWANG4444)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Mao Xiaomeng (Hangzhou) - [Github](https://github.com/maoxiaomeng2021)
-* :white_check_mark: [diffMaster](https://diff.boyeye.com): Supports multi-format document comparison
+#### ky3 - [Github](https://github.com/ky3-studio)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 #### jaychouchannel - [Github](https://github.com/jaychouchannel)
 * :white_check_mark: [PlotCraft](https://github.com/jaychouchannel/PlotCraft): Dedicated to researchers, describe charts in natural language, AI automatically generates Nature/Cell level scientific paper vector graphics (SVG), supports 8 chart templates, local sandbox rendering
@@ -2230,20 +2381,20 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 #### xianyu110 - [Github](https://github.com/xianyu110)
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+### Added on July 2, 2026
 
-#### Felix - [Github](https://github.com/greek-zzf)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Corey Chiu (Shenzhen) - [Github](https://github.com/iAmCorey)
-* :white_check_mark: [Show Me the Codes](https://showmethe.codes/): Link-in-bio product made for independent developers, Builders and one-person companies to showcase your products
+#### qqxufo
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Austin - [Github](https://github.com/haywang)
-* :white_check_mark: [SaaSHunt](https://saashunt.net/): Curated SaaS tool navigation website, discover and explore all kinds of high-quality free and paid SaaS products
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on June 22, 2026
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### pandaupup - [Github](https://github.com/pandaupup)
-* :white_check_mark: [Audio Compressor](https://audio-compressor.org/): Online audio compression tool, supports MP3, WAV, M4A, AAC, OGG formats compressed locally in the browser to reduce file size
 * :white_check_mark: [YouTube Playlist Length](https://ytplaylistlengthpro.org/): YouTube playlist length calculator, can calculate total playback time, sped-up viewing time and learning plans
 * :white_check_mark: [Overtime Calculator](https://overtimecalculatorpro.org/): Overtime pay calculator, supports overtime pay, time and a half, double time, time card and other hours estimations
 * :white_check_mark: [Schulte Table](https://schulte-table.org/): Schulte table training, visual attention training tool, supports different size tables and timed practice
@@ -3038,14 +3189,18 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ### Added on April 3, 2026
 
-#### syakadou - [Github](https://github.com/syakadou)
-* :white_check_mark: [Gemini Watermark remover](https://gemini-watermark-remover.net/): Remove AI image watermarks generated by the Gemini App.
+### Added on April 11, 2026
 
-#### xiehuateng - [Github](https://github.com/xiehuateng)
-* :white_check_mark: [x downloader](https://x-video-download.net): Parse AI videos and various video links on Twitter (X), supporting one-click download of videos in various resolutions.
+#### simple-Jian-tw - [Github](https://github.com/simple-Jian-tw)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### jjk340 - [Github](https://github.com/jjk340)
-* :white_check_mark: [Clarioxis](https://clarioxis.com): AI educational agent tool, creating a one-stop learning closed loop of "material analysis + AI video explanation + in-class exercises + intelligent review".
+#### lisa - [Github](https://github.com/shisan12323)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 
 #### my19940202(Shanghai) - [Github](https://github.com/my19940202)
 * :white_check_mark: [Page Direct](https://chromewebstore.google.com/detail/%E5%85%8D%E8%B7%B3%E7%9B%B4%E8%BE%BE/fpljgabmnoghfieaoehmcjgfelboedda): Browser extension that can automatically skip WeChat security confirmations, CSDN/Juejin external link pages, and intermediate jump pages such as X, Facebook, Threads, etc., directly reaching the corresponding links to improve website access speed.
@@ -4211,20 +4366,20 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 * :white_check_mark: [LaunchitX](https://launchitx.com): New product (creative) launch platform, suitable for new product announcements
 
 #### noGeek (Beijing)
-* :white_check_mark: [DR checker](https://drchecker.net): Free/Domain name rating Domain rating detection tool
+### Added on September 12, 2025
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on August 31, 2025
-#### FlickerMi - [Github](https://github.com/FlickerMi)
-* :white_check_mark: [Nano Banana](https://usenanobanana.com): Nano Banana uses Google's latest AI technology to provide powerful functions such as character consistency maintenance, natural language editing, and multi-image fusion. Whether it's character change, scene change or precise local editing, the original characteristics can be maintained, allowing you to have unlimited creative possibilities.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### laine001 (Hangzhou) - [Github](https://github.com/laine001)
-### Added on August 29, 2025
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on August 28, 2025
-#### david_bai(Wuhan) - [Github](https://github.com/david-bai00/PrivyDrop), [Blog](https://www.privydrop.app/blog)
-* :white_check_mark: [PrivyDrop](https://www.privydrop.app): An open source and easy-to-use P2P text file transfer tool webpage that supports the transfer of files of any size - [More introduction](https://www.privydrop.app/features)
+#### Ryan - [Github](https://github.com/Ryan10Yu)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### iam-tin - [Github](https://github.com/iam-tin)
 * :white_check_mark: [Flower Drawing Flower Drawing](https://flowerdrawing.site/): A website focusing on flower drawing. There are different types of flowers to choose from. As long as you describe the appearance in words, you can draw any flower.
 * :white_check_mark: [Fish Drawing Fish Drawing](https://fishdrawing.site/): A website focusing on drawing various fish. You can draw any fish picture you want.
 
@@ -4749,29 +4904,29 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 * :white_check_mark: [AI Baby Generator](https://aibabygenerator.art/): AI-based baby appearance prediction tool.
 
 #### dy
-* :white_check_mark: [Taiwan Dream Interpretation](https://twjiemeng.com/): Fuses AI technology with traditional dream interpretation theories to provide free dream analysis services. Always free to use with no registration required. - [More Info](https://twjiemeng.com/about)
+### Added on June 21, 2025
+#### z3674313
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### mao wei - [Github](https://github.com/mw138)
-* :white_check_mark: [AI Random Image Generator](https://randomimagegenerator.info/index.html): Free AI random image generator supporting various styles like digital art, abstract backgrounds, concept illustrations, etc.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Anna - [Github](https://github.com/fluxstrive)
-* :x: [Bypass Turnitin](https://bypassturnitin.net/): Convert AI-generated content into natural text, bypassing Turnitin and AI detection while preserving the original meaning and quality.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### aipromptdirectory - [Github](https://github.com/aipromptdirectory)
-* :x: [product-rule](https://product-rule.com): Explore and discover the most innovative AI products, tools, and solutions to transform your workflow and boost productivity. Gathers a large number of excellent AI products.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### dy
-* :white_check_mark: [AI Line Art Generator](https://lineart.app/): Powerful AI line art generation platform, providing users with diverse line art creation and acquisition services. - [More Info](https://lineart.app/about)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on June 3, 2025
-#### Amyang - [Github](https://github.com/AmyangXYZ)
-* :white_check_mark: [Proof of Awesome](https://proof-of-awesome.app): An AI-assisted academic peer review consensus mechanism that permanently records your true achievements on the blockchain, replacing traditional mining with meaningful human achievements. - [More Info](https://proof-of-awesome.app/call-for-achievement)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on June 2, 2025
-#### Allen(Shenzhen)
-* :white_check_mark: [FLUX Kontext](https://kontextflux.com): FLUX image generation tool. Achieve professional-level visual creation with simple text-to-image commands.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### sing1ee- [Github](https://github.com/sing1ee)
 * :white_check_mark: [Veo3 video](https://veo3.directory/): Collection of the latest Veo3 generated videos, updated daily.
 
 #### [Github](https://github.com/bear-clicker)
@@ -4878,31 +5033,31 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 ### Added on May 15, 2025
 #### lwj973 - [Github](https://github.com/lwj973)
 * :white_check_mark: [SafeWrite AI](https://safewrite.ai/): A writing tool combining AI Humanizer and AI detection, helping users generate more natural content that is hard to detect as AI. Supports training a private Humanizer to mimic personal writing style while ensuring privacy. Integrates GPTZero, Turnitin, and other detectors for one-click multi-platform results. Through the automated "rewrite-detect-rewrite" process, it effectively improves content passing rates, suitable for students.
+### Added on June 4, 2025
+#### CodaPrime 
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Canyao Copybook - [Github](https://github.com/giroudg)
-* :white_check_mark: [Canyao AI - Poetry Copybook](https://canyaoai.com/copybooks?from=1c7_chinese_independent_developer): Use poetry as handwriting practice content. Practice writing and review poetry for a double reward.
+#### rns
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on March 20, 2025
-#### Duan - [Github](https://github.com/duanduanhh)
-* :white_check_mark: [VIEW PRE](https://viewpre.com/): Chinese scenic spot index prediction. Currently provides 3-day cloud sea index predictions for Mount Tai, Mount Huang, and Wugong Mountain, with plans to expand to more scenic spots. Hope everyone's trip is not disappointing!
-* :x: [Tool Hut](https://tool-hut.com/): Online toolkit. Inner pages support text DIFF, JSON serialization, timestamp conversion, and other small tools, making all tools easy to use.
+#### Ryan
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on March 19, 2025
-#### Ryan - [Github](https://github.com/Ryan10Yu)
-* :white_check_mark: [FLUX AI ART](https://fluxaiart.ai/): Flux-based image generation website.
-* :x: [AI Hairstyle](https://aihairstyle.net/): Upload a photo and use AI to generate images of different hairstyles to help you choose the right one.
+#### dy 
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on March 16, 2025
-#### jiangnanboy - [Github](https://github.com/jiangnanboy), [Blog](https://jiangnanboy.github.io/)
-* :white_check_mark: [Haijia AI Lab Smart Apps](http://117.72.40.129:8001/): Table Q&A, text OCR, table image structure recognition, etc.
+#### mao wei - [Github](https://github.com/mw138)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Jeremyym - [Github](https://github.com/Jeremyymxiao)
-* :white_check_mark: [AI Agents Directory](https://ai-agents-directory.com): AI agent directory site.
-* :white_check_mark: [Chinese Name Generator](https://chinese-name-generator.com): Generate Chinese names for foreigners, based on DeepSeek V3.
-* :white_check_mark: [Learn Kana](https://learnkana.pro): Learn Japanese Hiragana and Katakana, based on DeepSeek V3.
-* :x: [AI Death Calculator](https://aideathcalculator.info): Use AI to calculate how much lifespan you have left.
+#### Anna - [Github](https://github.com/fluxstrive)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on March 15, 2025
+#### aipromptdirectory - [Github](https://github.com/aipromptdirectory)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### dy 
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 #### Juzi Ge
 * :white_check_mark: [TempMail.Love](https://tempmail.love/): Ready-to-use temporary email to protect your personal privacy and security.
 
@@ -4944,21 +5099,21 @@ All efficiency-driven professionals: Tired of wasting precious time overthinking
 #### Space Time - [Github](https://github.com/SpaceTimee), [Blog](https://blog.spacetimee.xyz/)
 * :white_check_mark: [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono): Perfect 2:1 width Chinese-English JetBrains Mono + Maple Mono sans-serif composite font. Neat, elegant, and highly readable.
 
-#### howoii(Shanghai) - [Github](https://github.com/howoii/SmartBookmark)
-* :white_check_mark: [Smart Bookmark](https://chromewebstore.google.com/detail/smart-bookmark/nlboajobccgidfcdoedphgfaklelifoa): AI smart bookmark management plugin. Auto-generates tags, semantic search, say goodbye to tedious management—reconstruct your bookmark experience with AI.
+### Added on May 30, 2025
+#### NoteGen - [Github](https://github.com/codexu/note-gen)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on March 6, 2025
-#### crischr(Chengdu) - [Github](https://github.com/CrisChr), [Blog](https://red666.vercel.app/)
-* :white_check_mark: [Formulas AI](https://formulas-ai.vercel.app/): Helps users generate Excel formulas. An AI tool product based on DeepSeek-V3 (users need to input their own key).
+#### Anna - [Github](https://github.com/fluxstrive)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on February 28, 2025
-#### zhaoxiaozhao(Hangzhou) - [Github](https://github.com/zhaoxiaozhao07)
-* :white_check_mark: [mouse-click](https://github.com/zhaoxiaozhao07/mouse-click): Windows auto clicker with background mode.
-* :white_check_mark: [Dynamic-photo-video-display-wall](https://github.com/zhaoxiaozhao07/Dynamic-photo-video-display-wall): Multi-grid dynamic playback of videos/photos.
+#### Corey Chiu - [Github](https://github.com/iamcorey)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on February 27, 2025
-#### Synexa AI - [Github](https://github.com/synexa-ai)
-* :white_check_mark: [Synexa AI](https://synexa.ai/): Deploy AI models with one line of code (50% cheaper alternative to Replicate). Synexa is the most cost-effective solution for running serverless AI APIs, offering the industry's most competitive A100 GPU prices, saving up to 62% in AI compute costs compared to other providers. - [More Info](https://github.com/1c7/chinese-independent-developer/issues/478)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 
 #### SeaEpoch(Anhui) - [Github](https://github.com/SeaYJ)
 * :white_check_mark: [MouseClick](https://github.com/SeaYJ/MouseClick): Mouse auto-clicker and management tool. Beautiful interface, intuitive operation, supports mouse behavior simulation. Enables efficient automation for work and gaming.
@@ -5592,8 +5747,8 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ### Added on June 22, 2024
 #### wtechtec (Beijing) - [Github](https://github.com/WtecHtec), [Blog](https://blog.csdn.net/weixin_42429220?spm=1000.2115.3001.5343)
-* :white_check_mark: [saysnap](https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?authuser=0&hl=zh-CN): Chrome plug-in that helps users easily discover and save interesting opinions and sentences to cards when surfing the Internet.
-* :white_check_mark: [Group Tab Tree](https://marketplace.visualstudio.com/items?itemName=Herzshen.mgtab): VSCode plug-in to help users easily find their opened Tab labels.
+### Added on August 25, 2024
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ### Added on June 21, 2024
 #### Q-Sansan
@@ -5650,11 +5805,11 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 #### Cat Nine Wallpaper (Guangzhou) - [Github](https://github.com/xiaocp)
 * :white_check_mark: [Cat Nine Wallpaper Selection](http://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cat9.jpeg): Selected high-definition mobile phone wallpapers, beauty wallpapers, couple wallpapers, lock screen wallpapers, avatars, emoticons, landscape wallpapers, couple avatars. (WeChat applet)
 
-### Added on June 3, 2024
-#### Lumian(Hangzhou)
-* :x: [Primary Color](https://r0jo31c9rsb.feishu.cn/docx/YcSzdcXkGoymXbxsJIAcWB7ZnwU): A simple color query tool, based on traditional Chinese colors
+### Added on August 12, 2024
+#### blank - [Twitter](https://x.com/blankwebdev)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### yzqzy - [Github](https://github.com/yzqzy)
 * :white_check_mark: [WeChat Assistant](https://github.com/yzqzy/wechat-assistant): Supports group messaging, scheduled tasks, message withdrawal prevention, chat record backup and other functions - [More Introduction](https://yzqzy.github.io/wechat-assistant/features.html)
 
 
@@ -5898,20 +6053,19 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 * :white_check_mark: [Everything can be DIY](https://douyin.nicen.cn/m.html): H5 application for online DIY production of mobile phone cases, clothes, pillows, water cups and other items
 
 #### seven - [Github](https://github.com/SGAMERyu)
-* :x: [SaaSstores](https://sasstores.top/): A website that collects excellent SaaS software, AI knowledge, and screenshot resources on the Internet
+### Added on May 13, 2024
+#### gofxas - [Github](https://github.com/gofxas)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on April 10, 2024
-#### H Hanfeng (Hangzhou) - [Blog](https://hagerhu.com/), [Twiter](https://twitter.com/hagerhu),
-* :white_check_mark: [TTW: Travel Memoir from Photos](https://apps.apple.com/us/app/ttw-travel-memoir-from-photos/id6473322389): Travel🗺️, use the photos on your phone to generate your travel timeline, the scenery you have seen, and the places you have been!
+#### fengmao(广州) - [Github](https://github.com/fengmao)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### Running Little Wild Boar - [Github](https://github.com/uestccokey), [Twiter](https://twitter.com/uestccokey), [Official website](http://www.ezandroid.cn/)
-* :white_check_mark: [Ah Q Connector](https://www.pgyer.com/connector): A universal Go AI connector on your mobile phone, a must-have for watching chess and walking the dog!
-* :white_check_mark: [Ah Q versus Chess Treasure](https://www.pgyer.com/aqrecorder): Automatically record scores through the camera, upgrading your chessboard to a smart chessboard!
-* :white_check_mark: [Ah Q chess clock](https://www.pgyer.com/aqclock): Beautiful and easy-to-use Go and chess chess clock software
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on April 9, 2024
-#### DuckDuck「カモ」(Xiamen) - [GitHub](https://github.com/DuckDuckStudio), [Personal webpage](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
-* :white_check_mark: [Fufu Toolbox](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/): An open source utility toolbox on Windows that supports various shortcut operations.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
 
 #### SleepyZone (Hangzhou) - [Github](https://github.com/sleepy-zone), [Blog](https://sleepy-zone.github.io/)
 * :white_check_mark: [Photor - Screenshot Beautification](https://www.photor.fun/): A practical, beautiful, and powerful screenshot beautification tool. It also provides online version, browser plug-in, and uTools plug-in.
@@ -6311,10 +6465,56 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+### Added on January 5, 2024
+#### peacefullmind - [Github](https://github.com/peacefullmind)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+---
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* [Indie Hacker](https://www.indiehackers.com/)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* [Awesome Indie](https://github.com/mezod/awesome-indie)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* [Stripe Atlas Guide](https://stripe.com/atlas/guides)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* [Master of Scale](https://mastersofscale.com)
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
+1. [RemoteOK](https://remoteok.io/)
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -6432,21 +6632,179 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 ---
 #### hefengbao (Chengdu) - [Github](https://github.com/hefengbao), [8ug.icu](https://www.8ug.icu)
 * :white_check_mark: [Jingmo](https://github.com/hefengbao/jingmo/releases): Android APP for reading ancient poetry and essays (famous quotes), two-part allegorical sayings, and idioms (open source and free) - [More introduction](https://github.com/hefengbao/jingmo)
+### Added on April 25, 2024
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on October 11, 2023
----
-#### codelover - [Github](https://github.com/lovercode)
-* :white_check_mark: [MyServers](https://myservers.codeloverme.cn/): An App to monitor and manage all your servers and various server-side personal applications
+#### R1ckShi - [Github](https://github.com/R1ckShi) 
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-#### sx1989827 - [Github](https://github.com/sx1989827)
-* :x: [Teamlinker](https://team-linker.com/): Team collaboration platform. You can contact members, assign tasks, start meetings, arrange various affairs, manage files, etc.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
-### Added on October 7, 2023
----
-#### Weidao Tech (Hangzhou) - [Official Website](https://helper.aiwave.cc)
-* :x: [Weidaobang](https://helper.aiwave.cc/): AI capability aggregation site, supporting Microsoft GPT4, Llama2 and other large model AI dialogues, supporting Stable Diffusion XL painting, supporting image compression, image element removal and other image processing
-* :x: [AIGC Tool Navigation](https://nav.aiwave.cc/): Massive AI tools, there is always one you need
-* :x: [AI Cutout](https://cutout.aiwave.cc/): Just upload an image, and it will automatically remove the image background without any other operations
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### octopus331 - [Github](https://github.com/octopus331)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Aissen
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Quanzhitong - [Github](https://github.com/Quanzhitong)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Yu-Core
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Ayden - [Twitter](https://twitter.com/aydengen)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### ideasworkcn
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Honwhy Wang - [Github](https://github.com/honwhy)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### ChengKeJ - [Github](https://github.com/ChengKeJ)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### mydearcc - [Github](https://github.com/mydearcc/tools)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### Mose - [Github](https://github.com/1003715231)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### didid - [Github](https://github.com/dodid)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### seven - [Github](https://github.com/SGAMERyu)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Touchumind - [Github](https://github.com/thundernet8)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Framist - [GitHub](https://github.com/framist)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### Qiwei - [GitHub](https://github.com/qiweiii)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### MarkZhao - [Twitter](https://twitter.com/mark_zhao_)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+#### DawnRiver - [Twitter](https://twitter.com/LuTcdspring)
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 ### Added on October 1, 2023
 ---
