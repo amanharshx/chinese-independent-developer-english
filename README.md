@@ -29,6 +29,79 @@ So we specially created this repository. All developers are welcome to add your 
 
 ## 3. Project List
 
+### Added on September 19, 2026
+
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [ImageToImageAI](https://image-to-image-ai.app)：AI 图生图工具，上传图片并用一句话描述修改需求，即可生成产品图、室内设计、人像、贴纸等新图片；支持 GPT Image 2、Nano Banana 2、Nano Banana Pro 模型，中英双语，可免费试用
+
+#### Jonie - [Github](https://github.com/estromeglovettgen-coder)
+* :white_check_mark: [Musuw](https://musuw.com/zh)：AI 知识库，把文档、网页和笔记整理成带引用的问答、Wiki 与知识图谱，方便回到原文核对 - [实际演示](https://musuw.com/zh/guides/citation-checks)
+
+#### Merrick - [Github](https://github.com/shi891018)
+* :white_check_mark: [Unit Converter for Science](https://www.unitconv.top)：面向科研、工程与教育的免费多语言单位换算工具，提供公式、换算因子和逐步推导，覆盖 11 类单位
+
+#### Aiyi - [Github](https://github.com/XQ0820)
+* :white_check_mark: [Color Season AI](https://colorseasonai.com)：AI 个人色彩季型分析工具，上传一张自拍即得 12 季型判定与专属色板，附带发型、发色、妆容试戴和脸型识别，免费无需注册 - [方法说明](https://colorseasonai.com/dashboard) - [Chrome 插件](https://colorseasonai.com/color-season-chrome-extension)
+* :white_check_mark: [Random Animal Generator](https://randomanimalgen.com/)：随机动物混搭生成器，把真实动物的 11 个身体部位随机拼成虚构生物，可锁定喜欢的部位只换其余、按可爱/恐怖/神话等主题预设生成，自动起名并给出 AI 绘画提示词，每天免费 AI 出图，无需注册
+
+#### Jev AI - [Github](https://github.com/weidacn)
+* :white_check_mark: [Jev AI](https://jev-ai.pro)：TypeSafe System One 模型的在线体验，对任意文本提是非题、选择题和评分题，直接返回校准过的概率与置信度，同一模型也可用 API key 调用
+
+
+### Added on September 18, 2026
+
+#### 0xhappyboy - [Github](https://github.com/0xhappyboy)
+* :white_check_mark: [SoulCut](https://soulcut-art.vercel.app/)：一款为每一帧画面注入灵魂的非线性视频编辑系统，免费使用，内置 15 种滤镜、78 种视觉特效、26 种转场，支持多机位渲染与音视频同轨编辑 - [GitHub 仓库](https://github.com/0xhappyboy/SoulCut) - [下载（Windows/macOS/Linux）](https://github.com/0xhappyboy/SoulCut/releases/latest)
+
+
+### Added on September 17, 2026
+
+#### chyf(广州) - [Github](https://github.com/chyf)
+* :white_check_mark: [人人都是OPC](https://opcwiki.net/)：一人公司（OPC）中文知识库，聚合创业案例、变现教程、工具推荐、政策解读与开源项目
+
+#### Wesley - [Github](https://github.com/westlinkin)
+* :white_check_mark: [PlayIQ](https://theplayiq.com)：用 AI 帮橄榄球教练自动分析比赛录像，识别阵型与跑位，战术板与录像同步播放，自动生成球探报告
+
+#### Selenium39(广州) - [Github](https://github.com/Selenium39)
+* :white_check_mark: [iloveepub](https://iloveepub.com)：浏览器 EPUB 工具（免费），支持压缩、合并、拆分与转换，文件全部在设备本地处理，绝不上传
+
+
+### Added on September 15, 2026
+
+#### lizhongyue248 - [Github](https://github.com/lizhongyue248)
+* :white_check_mark: [云播切片](https://live.zyue.wiki/)：全自动直播录制、归档与切片平台，开播自动录。市面上唯一一款支持录制弹幕、录制礼物特效和直播间界面完整画面的云平台，云端实时监控与分段保存，方便直播复盘、高清 1080p 直播切片与素材剪辑
+
+#### xulovemin - [Github](https://github.com/xulovemin)
+* :white_check_mark: [PICWALL](https://picwall.dpdns.org)：AI 图片与视频提示词库，按作品、媒体类型与风格标签浏览灵感
+
+#### 0xhappyboy - [Github](https://github.com/0xhappyboy)
+* :white_check_mark: [hippoxOS](https://hippoxos.vercel.app/)：一款真正意义上的 LLM 操作系统，内置 6 个子系统，统一由自然语言控制：通用对话计算机控制系统、完整的视频编辑系统（自研 NLE 引擎）、金融数据分析系统、地理信息系统、代码编辑系统、3D 沙盒系统 - [GitHub 仓库](https://github.com/HippoxHQ/hippoxOS)
+
+
+### Added on September 14, 2026
+
+#### fffffrost - [Github](https://github.com/fffffrost)
+* :white_check_mark: [小麦 Mika](https://mktskill.com/)：AI 营销工作台，提交目标和材料，生成竞品研究、内容文稿或执行方案，支持查看进度、修订和导出
+
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+* :white_check_mark: [Excel 表格工具](http://43.156.229.191:3001/)：浏览器端 Excel/PDF 数据处理工具，上传多个来源后配置字段匹配、预览组合结果并导出新的工作簿 - [GitHub 仓库](https://github.com/WuZhaohui1993/excel-composer-public)
+
+#### tidelink88 - [Github](https://github.com/tidelink88)
+* :white_check_mark: [TideLink](https://tidelink.xyz)：已有 OpenAI SDK 代码无需改动，一个 API key 即可调用 GLM/Qwen/DeepSeek/Hunyuan/Doubao 多家国产大模型；网关自动故障转移，免信用卡免费起步 - [更多介绍](https://github.com/tidelink88/tidelink-opensource)
+
+
+### Added on September 13, 2026
+
+#### Lucas-CX - [Github](https://github.com/Lucas-CX)
+* :white_check_mark: [Image to ASCII](https://imagetoascii.art/)：图片转 ASCII 字符画工具，免费无需注册，图片在浏览器本地处理；可调整字符样式、细节和颜色，复制文本或 Markdown，导出 TXT、PNG、SVG 等格式，用于 README、聊天字符画和复古封面
+
+#### SKYCHENV - [Github](https://github.com/SKYCHENV)
+* :white_check_mark: [剪蛋 Jiandan](https://www.jiandan.qd.je/)：Windows 截图导入辅助工具，将剪贴板图片通过 Ctrl+V 送进剪映专业版，减少另存图片和查找文件；首次需邮箱验证码登录，图片本地处理不上传 - [更多介绍](https://github.com/SKYCHENV/Jiandan)
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [pet memorial portrait](https://aipetmemorialportrait.com/)：宠物纪念海报生成器
+
+
 ### Added on September 12, 2026
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
@@ -2551,6 +2624,27 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 * :white_check_mark: [MusiCard](https://musi-card-two.vercel.app): Music sharing card generation tool, converts Spotify / Apple Music links to HD image cards, automatically pulls lyrics with optional lyric embedding, specially designed for domestic chat scenarios
 
 ### Added on June 5, 2026
+
+#### carl4carter - [Github](https://github.com/carl4carter)
+* :white_check_mark: [PropertyPhotoVideo](https://propertyphotovideo.com)：将房产照片转换为惊艳视频
+
+#### z1991817 - [Github](https://github.com/z1991817)
+* :white_check_mark: [moyuHot](https://moyuhot.com/)：热搜聚合与新闻阅读平台，支持微博、知乎、B站、抖音、GitHub Trending、V2EX 等实时热榜 - [GitHub 仓库](https://github.com/z1991817/moyuhot)
+
+#### zeweihan - [Github](https://github.com/zeweihan)
+* :white_check_mark: [AI Workdeck](https://github.com/zeweihan/aiworkdeck)：面向法律和文档密集型工作流的 AI 原生 IDE 工作空间
+
+#### nanos(杭州) - [Github](https://github.com/cabbagehao)
+* :white_check_mark: [恋するへびべあ診断](https://kumatype-shindan.xyz/)：20问日语熊系恋爱类型诊断，提供16种结果、相性对比和MBTI差异说明。
+
+#### 独行录 - [Github](https://github.com/yzlee)
+* :white_check_mark: [独行录](https://opcmenu.com)：一人公司的「大众点评」与交流网络，已收录上千个一人公司（OPC）主理人和他们的产品，可浏览发现、点评打分，主理人之间还能关注、私信、组队
+
+#### kbmjj123 
+* :white_check_mark: [BulkPicTools](https://bulkpictools.com)：免费浏览器端图片批量处理工具，支持**工具链串联**（压缩→转格式→裁剪一次完成，无需重复上传），本地 AI 去背景/人脸模糊（WebGPU，无需 API Key），支持 200+ 张图片批量处理，文件不上传服务器。
+
+#### 馒头饭 - [Github](https://github.com/mantoufan)
+* :white_check_mark: [cv.cm](https://cv.cm)：浏览器本地 PDF、图片和二维码工具，文件不上传；另有阅后即焚云剪切板 - [GitHub 仓库](https://github.com/mantoufan/cvcm)
 
 ### Added on June 22, 2026
 
