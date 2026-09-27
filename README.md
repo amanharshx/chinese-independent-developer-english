@@ -29,6 +29,110 @@ So we specially created this repository. All developers are welcome to add your 
 
 ## 3. Project List
 
+### Added on September 26, 2026
+
+#### openmind - [Github](https://github.com/openmindim)
+* :white_check_mark: [Countdown Timer](https://countdown.im/)：极简全屏倒计时工具，支持按天、小时、分钟设置倒计时，也提供节日与活动倒计时，包括 [万圣节](https://countdown.im/halloween)、[双十一](https://countdown.im/singles-day) 和 [新年](https://countdown.im/new-year) 倒计时
+* :white_check_mark: [Online Ruler](https://ruler.im/)：极简全屏在线尺子工具，除了屏幕尺和直尺外，还支持 [量角器](https://ruler.im/protractor)、[中心象限尺](https://ruler.im/quadrant) 和 [靶心尺](https://ruler.im/concentric-circle)
+
+#### klinkmannistref-blip - [Github](https://github.com/klinkmannistref-blip)
+* :white_check_mark: [Professional-Headshot.ai](https://professional-headshot.ai/)：AI 职业头像生成器，上传一张自拍，由 AI 自动挑好服装、背景与打光，并筛掉眼镜变形、眼睛和牙齿失真等瑕疵，每个场景只给你 1 张推荐加 2 张备选；无需注册即可免费预览 1 张（带水印），去水印下载与反复修改为一次性付费
+
+#### WZZNNE - [Github](https://github.com/WZZNNE)
+* :white_check_mark: [AI 共振](https://wzznne.github.io/AI-Resonance/)：每日 AI 雷达，把 GitHub、arXiv、Hacker News、社区讨论和 AI 厂商动态排成五个榜单，评分公式公开可查，多平台同时出现的内容自动归组，打开即读无需注册 - [更多介绍](https://github.com/WZZNNE/AI-Resonance)
+
+
+### Added on September 25, 2026
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [WearToday](https://weartoday.io/)：AI 个人造型师，结合当地天气、当天场合和你衣橱里实际有的衣物给出穿搭建议，并记住你的颜色、版型与搭配偏好；网页版免安装，可免费开始使用
+
+
+### Added on September 24, 2026
+
+#### Yuxino - [Github](https://github.com/yuxino)
+* :white_check_mark: [Mimi](https://mimi.yuxino.cn/)：实时字幕翻译工具，把电脑播放的外语视频、直播声音转成悬浮字幕；免费开源，支持 Apple 芯片 macOS 13+ 和 Windows x64，需要自备云服务 API 凭证 - [源码与下载](https://github.com/yuxino/mimi)
+
+#### jnMetaCode - [Github](https://github.com/jnMetaCode)
+* :white_check_mark: [OpenShorts 开片](https://os.aiolaola.com/)：给一个话题就写脚本、找画面、配音、烧字幕、出成片和发布文案，默认零成本跑通第一条
+
+
+### Added on September 23, 2026
+
+#### Maaaaph - [Github](https://github.com/Maaaaph)
+* :white_check_mark: [Instagram Transcript](https://ins-transcript.com)：Instagram 视频转文字工具，粘贴 Reel / 视频链接即可免注册提取带时间戳的逐字稿，支持 SRT/VTT 字幕导出、多语种翻译与 AI 爆款钩子提炼，内存即时转录不存源视频
+
+#### Linhao Cui - [Github](https://github.com/cuilinhao)
+* :white_check_mark: [ShortsMonkey](https://www.shortsmonkey.com/)：YouTube 爆款选题工具，每天发现低订阅频道中播放量远超订阅量的 Shorts 和长视频，按播放量/订阅数比值筛选，帮助创作者寻找内容灵感
+
+#### 夜猫子小强(XiaoQiangDev) - [Github](https://github.com/aks-666888)
+* :white_check_mark: [本地工作控制台 lwc](https://github.com/aks-666888/local-work-console)：无需联网、无需注册，双击单文件即用的本地待办与计划管理台，数据全留在自己电脑
+
+#### 一箭(杭州) - [Github](https://github.com/whattobuildtoday), [博客](https://x.com/zhngcho130830)
+* :white_check_mark: [What To Build](https://whattobuild.today/)：独立开发机会发现站，从新上线网站的订单增长、流量趋势和真实搜索需求中，筛选已被市场验证的 SaaS 与 AI 工具方向
+
+#### StrokMitream - [Github](https://github.com/StrokMitream)
+* :white_check_mark: [Video to URL](https://videotourl.net/)：视频转链接工具（免费），上传视频文件后生成可分享链接，无需注册、无水印，源文件不重新编码
+
+#### yvonuk - [Github](https://github.com/yvonuk), [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Jev.StockAI.Trade](https://jev.stockai.trade/)：基于 Jev 模型的 AI 选股工具，专注中国 A 股，免费无广告
+
+
+### Added on September 22, 2026
+
+#### xiaoyaohou19910610-bit - [Github](https://github.com/xiaoyaohou19910610-bit)
+* :white_check_mark: [精选副业](https://jingxuan-fuye.pages.dev/)：中文副业案例库，把公开的真实项目经历整理成可筛选的案例解读，可按平台、项目和技能查找，并查看成绩口径、适配条件、风险与原文入口
+
+#### Jun(上海) - [Github](https://github.com/2456868764)
+* :white_check_mark: [Jev Guide](https://jev.guide/)：发现 Jev 的真实应用。从官方发布到真实演示，在一个地方探索 TypeSafe Jev。按行业寻找用例，查看 X 原帖截图，并直接在站内播放原视频
+
+#### Albert(美国) - [Github](https://github.com/Albert-Weasker/niubigeo)
+* :white_check_mark: [NiubiGeo](https://niubigeo.ai/)：NiubiGEO 帮助 AI、SaaS、DevTools 和开源项目检测并提升在 ChatGPT、Perplexity、Google AI 等 AI 搜索与问答场景中的品牌可见度 - [更多介绍](https://niubigeo.ai/)
+
+#### jimmy0256 - [Github](https://github.com/jimmy0256)
+* :white_check_mark: [ReelMuse](https://reelmuse.app/ai-dance-generator/)：无需编写提示词，选好舞蹈模板、上传照片即可生成舞蹈视频
+
+#### magicapple123 - [Github](https://github.com/magicapple123)
+* :white_check_mark: [简历通 ResumeForge](https://magicapple123.github.io/ResumeForge-official/)：本地运行的 AI 求职工作台，简历生成、岗位采集、投递追踪、面试复盘全流程，数据只存本机不上传，Windows 一键启动，开源免费 - [查看仓库](https://github.com/magicapple123/ResumeForge)
+
+#### tancky777 - [Github](https://github.com/tancky777)
+* :white_check_mark: [Tancky AI](https://tancky.io/)：AI 图片合成与照片融合工具（免费），把多张图片拼合、混合成一张，浏览器打开即用
+
+#### Jammy(上海) - [Github](https://github.com/chenminjie24)
+* :white_check_mark: [What Can Jev Do](https://whatcanjevdo.com/)：Jev 模型的用法与项目收集站，汇总大家用 Jev 做出的实际案例、思路和代码示例
+
+#### jian950718 - [Github](https://github.com/jian950718)
+* :white_check_mark: [听成文 AI](https://tingchengwen.com)：本地运行的音视频转写与摘要工具，粘贴 B 站 / 抖音链接或拖入本地文件，生成带时间轴的文稿、SRT / VTT 字幕和 AI 摘要，支持批量处理与说话人区分，文件和结果都不上传云端 — Windows 桌面软件
+
+#### GK - [Github](https://github.com/Charlielyo)
+* :white_check_mark: [GKMix](https://gkmix.com)：海外 VPS、AI 工具订阅与海外支付的实测指南站，每篇都跑真实数据并公开账单，不适合谁会直接写明
+
+
+### Added on September 21, 2026
+
+#### NPH - [Github](https://github.com/BNHP-creater)
+* :white_check_mark: [MLUE](https://mlue.cn/)：面向多平台创作者的个人主页与工作台，把链接、作品和联系方式整理成一个可分享页面 - [更多介绍](https://mlue.cn/link-in-bio)
+
+#### 犀利豆 - [Github](https://github.com/diaozxin007)
+* :white_check_mark: [SummarizeVideoToText](https://summarizevideototext.com/zh)：视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的链接就能拿到带时间戳的章节摘要和完整字幕稿，每句都能点回原视频对应的那一秒，免注册试用 - [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) - [Obsidian 插件](https://summarizevideototext.com/zh/obsidian-plugin)
+
+#### FlickerMi - [Github](https://github.com/FlickerMi), [博客](https://notemi.cn)
+* :white_check_mark: [MelodyTrace](https://melodytrace.com/)：MP3 转 MIDI 工具（免费）：把声音，写成可编辑的音符 - [更多介绍](https://melodytrace.com/zh#features)
+
+#### stormbuf - [Github](https://github.com/stormbuf)
+* :white_check_mark: [拼豆猫师傅-拼豆图纸工坊](https://github.com/user-attachments/assets/bbd960f3-3431-4123-a715-12fb1f29957a)：把照片变成拼豆图纸的微信小程序，自动降色并标出每个格子该用哪个色号，转图在手机本地完成、原图不出设备
+
+
+### Added on September 20, 2026
+
+#### monsoonw - [Github](https://github.com/monsoonw)
+* :white_check_mark: [阅古文](https://yueguwen.com)：古籍阅读网站，把注释和译文对照原文逐句排布，并补充必要的历史背景；选中原文或注释可免费调用 AI 翻译与讲解，浏览器打开即用，手机上也能阅读
+
+#### DDTer - [Github](https://github.com/DDTer)
+* :white_check_mark: [NeatCompress](https://yasuo.app)：音视频、PDF 和图片的批量压缩工具，用 WebCodecs 硬件加速与 WASM 双引擎在本地处理，文件不上传服务器；支持指定目标大小（微信 25MB/100MB、Discord 10MB/50MB 等）、无损合并、裁剪与转 GIF - [国际站](https://neatcompress.com)
+
+
+
 ### Added on September 19, 2026
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
@@ -200,21 +304,20 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 ### Added on September 8, 2026
 
 #### zjzno1 - [Github](https://github.com/zjzno1)
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+* :white_check_mark: [热摸爽](https://remoshuang.com/)：中文全网热点聚合网站，把微博、知乎、今日头条、GitHub Trending、科技和财经等公开榜单整理到一处，提供跨平台热点、正在升温、历史热搜和 RSS - [更多介绍](https://github.com/zjzno1/remoshuang)
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### 肖戈(深圳) - [Github](https://github.com/jvxiao)
+* :white_check_mark: [Erase Background Pro](https://erasebgpro.com)：AI 一键抠图工具，秒级输出边缘干净的透明 PNG，支持电商人像/发丝细节与 4K 高清，提供批量处理、免费试用与开发者 API，无需注册、免费即用
+* :white_check_mark: [薯小二](https://xhs.jvxiao.cn/)：小红书合规运营工具箱，违禁词一键检测+替换建议、AI 爆款标题生成、笔记收录限流自查，纯网页端免安装，新人每天免费发车
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### rain(深圳) - [Github](https://github.com/wang1309)
+* :white_check_mark: [LoveComic](https://lovecomic.app/)：AI 漫画生成网站，支持自动与人工控制双重模式，自定义对话气泡、字体等；还有 flow 画布模式，可自由编排节点生成漫画
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+#### 南宫文凯 - [博客](https://blog.csdn.net/qq_34730277)
+* :white_check_mark: [NotePP](https://luminousstars.org/)：macOS 平台的 Notepad++ 替代方案，在 Mac 上也能流畅使用 Notepad++ 的编辑体验
 
 #### fengmao - [Github](https://github.com/fengmao)
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
+* :white_check_mark: [Real Job Work From Home](https://realjobworkfromhome.com/)：远程岗位检索网站，无需注册即可免费浏览，支持关键词、岗位类别、雇佣类型及已披露薪资筛选，并提供雇主申请入口
 
 ### Added on September 7, 2026
 
@@ -6279,10 +6382,55 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 * :white_check_mark: [Qiqu Website](https://qiqu.dreamthere.cn): Qiqu Website is your online exploration partner, providing websites you haven't seen before, adding color for website collectors. Join us and start your journey of interesting exploration - [More introduction](https://nav.dreamthere.cn/about)
 * :white_check_mark: [Creative Navigation](https://idea.dreamthere.cn): Use our creative navigation service to explore the unknown network world. We provide the latest and most unique website links to help you discover new areas of the Internet
 
-#### AtlanticF (Chengdu) - [GitHub](https://github.com/AtlanticF)
-* :white_check_mark: [AI Voice Bookkeeping](https://github.com/AtlanticF/chinese-independent-developer/assets/14820026/83165766-9dca-47fb-a475-49892f1f719c): (WeChat Mini Program) AI voice recognition bookkeeping
+### Added on March 2, 2024
+#### H1DDENADM1N (邯郸) - [Github](https://github.com/H1DDENADM1N)
+* :white_check_mark: [CapsWriter-Offline-GUI](https://github.com/H1DDENADM1N/CapsWriter-Offline)：Windows 端 离线语音输入、中译英、字幕转录；在线多译多、云剪贴板。 - [更多介绍](https://github.com/H1DDENADM1N/CapsWriter-Offline?tab=readme-ov-file#-%E7%9B%AE%E5%BD%95)
 
-### Added on February 29, 2024
+## 👉 查看 [2018 年 ~ 2024 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
+
+
+### 基于本列表数据源的产品
+
+以下产品由第三方开发者基于本列表的公开数据制作，属于特殊类型的收录：它们和本仓库没有合作关系，由各自的作者独立开发和维护。本列表本身永久以 GitHub 仓库形式存在。
+
+* :white_check_mark: [AI 独立制造所](https://indiemaker.cn/)：本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)
+* :white_check_mark: [中国独立开发者项目列表（网页版）](https://developer.hubing.online/home)：基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)
+* :white_check_mark: [独立星球](https://du.liuwa.xyz/)：中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)
+* :white_check_mark: [独立观察](https://lei1024.github.io/chinese-independent-developer-report/)：把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)
+
+
+---
+
+## 对独立开发者有帮助的网站：
+
+### 英文
+* [Indie Hacker](https://www.indiehackers.com/)
+* [Failory](https://www.failory.com/) - 分享创业失败的故事
+* [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
+* [Awesome Indie](https://github.com/mezod/awesome-indie)
+* [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
+* [Stripe Atlas Guide](https://stripe.com/atlas/guides)
+* [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
+* [Master of Scale](https://mastersofscale.com)
+* [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
+* [Profitable Founder Podcast](https://www.profitablefounder.xyz/) - 每周采访年收入 $100K-$10M 的自举（bootstrapped）独立开发者/创始人，分享他们的增长打法
+
+### 中文
+* [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
+* [利器](http://liqi.io/creators/)
+* [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
+* [v2ex 论坛 - 分享创造板块](https://www.v2ex.com/go/create)
+
+## 值得关注的 Twitter 账号
+* [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
+* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)
+* [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
+
+
+## 寻找远程工作
+1. [电鸭](https://eleduck.com/)
+1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
+1. [RemoteOK](https://remoteok.io/)
 #### zhenming (Shanghai)
 * :white_check_mark: [xldream](https://www.xldream.com): Free AIGC image material website
 
