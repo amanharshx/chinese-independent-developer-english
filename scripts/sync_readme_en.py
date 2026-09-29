@@ -3,23 +3,33 @@
 sync_readme_en.py
 ------------------
 Automated sync script for English-default repository fork.
-1. Syncs latest upstream Chinese README into README-zh.md
-2. Detects new date entries added in README-zh.md
-3. Translates missing date sections into English
-4. Prepends translated sections into main English README.md
+1. Fetches the latest upstream Chinese README
+2. Rebuilds the English README.md so its dated sections and footer mirror upstream
+3. Reuses existing English sections that are unchanged upstream and still valid,
+   translating everything else line by line
+4. Writes README.md and README-zh.md only if every translation succeeded,
+   so a failed run leaves both files untouched and is retried next time
 """
 
 import os
 import re
 import subprocess
-from concurrent.futures import ThreadPoolExecutor
+import sys
+import time
 from deep_translator import GoogleTranslator
 
 README_EN = "README.md"
 README_ZH = "README-zh.md"
+LIST_HEADING = "## 3."
 
 DATE_PATTERN_CN = re.compile(r"^###\s+(\d{4})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*号添加")
 DATE_PATTERN_EN = re.compile(r"^###\s+(?:Added\s+(?:on\s+)?)?([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})")
+URL_PATTERN = re.compile(r"(?:https?://|\./)[^\s)\]]*[^\s)\].,;:!?，。]")
+ERROR_MARKERS = ("Error 500", "That’s an error", "That's an error", "<html")
+
+# Google's free endpoint rate-limits bursts, so requests are sent one at a time.
+REQUEST_DELAY = 0.5
+RETRY_DELAYS = (2, 5, 15, 30)
 
 MONTH_NAMES = [
     "", "January", "February", "March", "April", "May", "June",
@@ -62,128 +72,175 @@ def format_date_en(year, month, day):
     month_name = MONTH_NAMES[int(month)]
     return f"### Added on {month_name} {int(day)}, {year}"
 
-def parse_chinese_sections(content):
+def parse_cn_date(line):
+    match = DATE_PATTERN_CN.match(line.strip())
+    if match:
+        year, month, day = match.groups()
+        return int(year), int(month), int(day)
+    return None
+
+def parse_en_date(line):
+    match = DATE_PATTERN_EN.match(line.strip())
+    if match and match.group(1) in MONTH_NAMES:
+        return int(match.group(3)), MONTH_NAMES.index(match.group(1)), int(match.group(2))
+    return None
+
+def split_readme(content, parse_date):
+    """Splits a README into (head, [(date, section lines)], tail).
+
+    The head runs through the project list heading, each dated section runs until
+    the next date or `## ` heading, and the tail starts at the first `## ` heading
+    after the last dated section. Lines outside those parts are dropped.
+    """
     lines = content.splitlines(keepends=True)
-    headers = []
-    for idx, line in enumerate(lines):
-        match = DATE_PATTERN_CN.match(line.strip())
-        if match:
-            year, month, day = match.groups()
-            headers.append((int(year), int(month), int(day), idx))
-    sections = {}
-    for i, (year, month, day, start_idx) in enumerate(headers):
-        end_idx = headers[i + 1][3] if i + 1 < len(headers) else len(lines)
-        sections[(year, month, day)] = lines[start_idx:end_idx]
-    return sections
+    start = next((i + 1 for i, line in enumerate(lines) if line.startswith(LIST_HEADING)), None)
+    if start is None:
+        raise RuntimeError(f"Could not find '{LIST_HEADING}' heading")
 
-def sections_needing_translation(previous_content, current_content):
-    previous_sections = parse_chinese_sections(previous_content)
-    current_sections = parse_chinese_sections(current_content)
-    return [key for key, section in current_sections.items()
-            if previous_sections.get(key) != section]
+    head = lines[:start]
+    sections = []
+    current = None
+    tail_start = None
+    for index in range(start, len(lines)):
+        line = lines[index]
+        key = parse_date(line)
+        if key:
+            current = [line]
+            sections.append((key, current))
+            tail_start = None
+        elif line.startswith("## "):
+            current = None
+            if tail_start is None:
+                tail_start = index
+        elif current is not None:
+            current.append(line)
+        elif not sections:
+            head.append(line)
 
-def english_section_ranges(content):
-    lines = content.splitlines(keepends=True)
-    headers = []
-    for index, line in enumerate(lines):
-        match = DATE_PATTERN_EN.match(line.strip())
-        if match and match.group(1) in MONTH_NAMES:
-            month = MONTH_NAMES.index(match.group(1))
-            headers.append(((int(match.group(3)), month, int(match.group(2))), index))
+    tail = lines[tail_start:] if tail_start is not None else []
+    return head, sections, tail
 
-    ranges = {}
-    for i, (key, start_idx) in enumerate(headers):
-        end_idx = headers[i + 1][1] if i + 1 < len(headers) else len(lines)
-        ranges[key] = (start_idx, end_idx)
-    return lines, ranges
+def has_cjk(text):
+    return any('\u4e00' <= char <= '\u9fff' for char in text)
 
-def replace_english_sections(content, replacements):
-    lines, ranges = english_section_ranges(content)
-    for key, (start_idx, end_idx) in sorted(ranges.items(), reverse=True):
-        if key in replacements:
-            lines[start_idx:end_idx] = [replacements[key]]
-    return "".join(lines)
+def needs_translation(line):
+    return has_cjk(line) and not line.strip().startswith(("http", "```"))
+
+def is_good_translation(source, translated):
+    translated = translated.strip()
+    return (bool(translated)
+            and translated != source.strip()
+            and not any(marker in translated for marker in ERROR_MARKERS)
+            and sorted(URL_PATTERN.findall(source)) == sorted(URL_PATTERN.findall(translated)))
+
+def is_valid_translation(source_lines, translated_lines):
+    """Checks an existing English block line by line against its Chinese source.
+
+    Blank lines are ignored, and matching links on every line catch translations
+    that ended up on the wrong line.
+    """
+    source_lines = [line for line in source_lines if line.strip()]
+    translated_lines = [line for line in translated_lines if line.strip()]
+    if len(source_lines) != len(translated_lines):
+        return False
+    for source, translated in zip(source_lines, translated_lines):
+        if needs_translation(source):
+            if not is_good_translation(source, translated):
+                return False
+        elif sorted(URL_PATTERN.findall(source)) != sorted(URL_PATTERN.findall(translated)):
+            return False
+    return True
+
+def restore_urls(source, translated):
+    """Puts back source URLs that Google rewrote, e.g. eyeshapedetector -> eyeshapedector."""
+    source_urls = URL_PATTERN.findall(source)
+    if len(URL_PATTERN.findall(translated)) != len(source_urls):
+        return translated
+    urls = iter(source_urls)
+    return URL_PATTERN.sub(lambda _: next(urls), translated)
 
 def translate_line(translator, line):
-    stripped = line.strip()
-    if not stripped or stripped.startswith("http") or stripped.startswith("```"):
+    if not needs_translation(line):
         return line
-    if not any('\u4e00' <= char <= '\u9fff' for char in line):
-        return line
-    try:
-        translated = translator.translate(line)
-        return translated + '\n' if not translated.endswith('\n') else translated
-    except Exception as e:
-        return line
+    text = line.strip()
+    indent = line[:len(line) - len(line.lstrip())]
+    newline = "\n" if line.endswith("\n") else ""
+    for delay in (*RETRY_DELAYS, None):
+        time.sleep(REQUEST_DELAY)
+        try:
+            translated = restore_urls(text, translator.translate(text))
+        except Exception as error:
+            problem = repr(error)
+        else:
+            if is_good_translation(text, translated):
+                return indent + translated.strip() + newline
+            problem = f"unusable result {translated!r}"
+        if delay is None:
+            break
+        print(f"  Retrying in {delay}s ({problem})")
+        time.sleep(delay)
+    raise RuntimeError(f"Could not translate line: {text}\nLast problem: {problem}")
 
 def translate_block(translator, block_lines):
-    with ThreadPoolExecutor(max_workers=5) as executor:
-        translated = list(executor.map(lambda l: translate_line(translator, l), block_lines))
-    return translated
+    return [translate_line(translator, line) for line in block_lines]
+
+def build_english_readme(previous_zh_content, current_zh_content, en_content, translator):
+    """Returns the rebuilt English README; raises if any translation fails."""
+    _, zh_sections, zh_tail = split_readme(current_zh_content, parse_cn_date)
+    previous_sections, previous_tail = {}, None
+    if previous_zh_content:
+        _, previous_list, previous_tail = split_readme(previous_zh_content, parse_cn_date)
+        previous_sections = dict(previous_list)
+    en_head, en_sections, en_tail = split_readme(en_content, parse_en_date)
+
+    en_candidates = {}
+    for key, lines in en_sections:
+        en_candidates.setdefault(key, []).append(lines)
+
+    body = []
+    translated_count = 0
+    for key, zh_lines in zh_sections:
+        source = [f"{format_date_en(*key)}\n"] + zh_lines[1:]
+        reused = None
+        if previous_sections.get(key) == zh_lines:
+            reused = next((lines for lines in en_candidates.get(key, [])
+                           if is_valid_translation(source, lines)), None)
+        if reused is None:
+            print(f"Translating section: Added on {MONTH_NAMES[key[1]]} {key[2]}, {key[0]}")
+            reused = translate_block(translator, source)
+            translated_count += 1
+        body.extend(reused)
+
+    tail = en_tail
+    if previous_tail != zh_tail or not is_valid_translation(zh_tail, en_tail):
+        print("Translating footer")
+        tail = translate_block(translator, zh_tail)
+        translated_count += 1
+
+    print(f"Translated {translated_count} block(s), reused {len(zh_sections) + 1 - translated_count}.")
+    return "".join(en_head + body + tail)
 
 def sync():
     if not os.path.exists(README_EN):
-        print("Error: README-zh.md or README.md missing.")
-        return
+        print("Error: README.md missing.")
+        sys.exit(1)
 
     previous_zh_content = ""
     if os.path.exists(README_ZH):
         with open(README_ZH, "r", encoding="utf-8") as f:
             previous_zh_content = f.read()
-
-    current_zh_content = fetch_upstream_chinese_readme()
-    with open(README_ZH, "w", encoding="utf-8") as f:
-        f.write(current_zh_content)
-
-    zh_sections = parse_chinese_sections(current_zh_content)
-    changed_sections = sections_needing_translation(previous_zh_content, current_zh_content)
-
     with open(README_EN, "r", encoding="utf-8") as f:
         en_content = f.read()
 
-    _, en_ranges = english_section_ranges(en_content)
-    if not changed_sections:
-        print("Main English README.md is already 100% in sync with upstream!")
-        return
-
+    current_zh_content = fetch_upstream_chinese_readme()
     translator = GoogleTranslator(source="auto", target="en")
-    replacements = {}
-    new_sections = []
-    for key in changed_sections:
-        year, month, day = key
-        section_lines = list(zh_sections[key])
-        section_lines[0] = f"{format_date_en(year, month, day)}\n"
-        translated_section = "".join(translate_block(translator, section_lines))
-        print(f"Translating changed upstream section: Added on {MONTH_NAMES[month]} {day}, {year}")
-        if key in en_ranges:
-            replacements[key] = translated_section
-        else:
-            new_sections.append(translated_section)
+    new_en_content = build_english_readme(previous_zh_content, current_zh_content, en_content, translator)
 
-    en_content = replace_english_sections(en_content, replacements)
-
-    if not new_sections:
-        with open(README_EN, "w", encoding="utf-8") as f:
-            f.write(en_content)
-        print(f"Successfully updated {len(replacements)} changed section(s) in English README.md!")
-        return
-
-    en_lines = en_content.splitlines(keepends=True)
-    insert_idx = -1
-    for idx, line in enumerate(en_lines):
-        if line.strip().startswith("## 3."):
-            insert_idx = idx + 1
-            if insert_idx < len(en_lines) and not en_lines[insert_idx].strip():
-                insert_idx += 1
-            break
-
-    if insert_idx != -1:
-        new_en_lines = en_lines[:insert_idx] + ["\n".join(new_sections) + "\n"] + en_lines[insert_idx:]
-        with open(README_EN, "w", encoding="utf-8") as f:
-            f.writelines(new_en_lines)
-        print(f"Successfully synced {len(changed_sections)} changed section(s) into English README.md!")
-    else:
-        print("Warning: Could not find '## 3. Project List' section header in README.md.")
+    with open(README_EN, "w", encoding="utf-8") as f:
+        f.write(new_en_content)
+    with open(README_ZH, "w", encoding="utf-8") as f:
+        f.write(current_zh_content)
+    print("English README.md is in sync with upstream.")
 
 if __name__ == "__main__":
     sync()
