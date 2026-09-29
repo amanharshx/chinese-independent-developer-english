@@ -41,7 +41,7 @@ jobs:
           if [ -n "$(git status --porcelain README.md README-zh.md)" ]; then
             git add README.md README-zh.md
             git commit -m "docs: weekly auto-sync english translation with upstream updates"
-            git push origin master
+            git push origin HEAD
           else
             echo "No new updates found. Main README.md is up to date."
           fi
